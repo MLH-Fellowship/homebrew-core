@@ -2,6 +2,7 @@ class Proselint < Formula
   include Language::Python::Virtualenv
 
   desc "Linter for prose"
+  license "BSD-3-Clause"
   homepage "http://proselint.com"
   url "https://files.pythonhosted.org/packages/42/ff/8e7ad0108b8faffdf2ec7d170b4a8a3c9bc91f5077debf5381ef14702588/proselint-0.10.2.tar.gz"
   sha256 "3a87eb393056d1bc77d898e4bcf8998f50e9ad84f7b9ff7cf2720509ac8ef904"

@@ -2,6 +2,7 @@ class Todoman < Formula
   include Language::Python::Virtualenv
 
   desc "Simple CalDAV-based todo manager"
+  license "ISC"
   homepage "https://todoman.readthedocs.io/"
   url "https://files.pythonhosted.org/packages/08/b2/eabf212b6279f4e9d3ea215b76f9475e94e777820655f98ca4ce0d036acc/todoman-3.8.0.tar.gz"
   sha256 "8bdbefa8b190c19cc01a57396ce9d0264ee10ec8ce96703fb72d69b8867107ab"

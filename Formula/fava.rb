@@ -2,6 +2,7 @@ class Fava < Formula
   include Language::Python::Virtualenv
 
   desc "Web interface for the double-entry bookkeeping software Beancount"
+  license "MIT"
   homepage "https://beancount.github.io/fava/"
   url "https://files.pythonhosted.org/packages/72/cc/0a8616fe5115f38e3dcc18c26aac61dbbeb2a5444fff2f36fb8d31e15455/fava-1.14.tar.gz"
   sha256 "1eb7638252ba110840a94fca5a88fbd3c35057efb0146dce1258a97305be3ea0"

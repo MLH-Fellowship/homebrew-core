@@ -1,5 +1,6 @@
 class Ykneomgr < Formula
   desc "CLI and C library to interact with the CCID-part of the YubiKey NEO"
+  license "LGPL-3.0"
   homepage "https://developers.yubico.com/libykneomgr/"
   url "https://developers.yubico.com/libykneomgr/Releases/libykneomgr-0.1.8.tar.gz"
   sha256 "2749ef299a1772818e63c0ff5276f18f1694f9de2137176a087902403e5df889"

@@ -1,5 +1,6 @@
 class Libmodbus < Formula
   desc "Portable modbus library"
+  license "LGPL-2.1"
   homepage "https://libmodbus.org/"
   url "https://libmodbus.org/releases/libmodbus-3.1.6.tar.gz"
   sha256 "d7d9fa94a16edb094e5fdf5d87ae17a0dc3f3e3d687fead81835d9572cf87c16"

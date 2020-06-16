@@ -1,5 +1,6 @@
 class Pazpar2 < Formula
   desc "Metasearching middleware webservice"
+  license "GPL-2.0"
   homepage "https://www.indexdata.com/pazpar2"
   url "http://ftp.indexdata.dk/pub/pazpar2/pazpar2-1.14.0.tar.gz"
   sha256 "3b0012450c66d6932009ac0decb72436690cc939af33e2ad96c0fec85863d13d"

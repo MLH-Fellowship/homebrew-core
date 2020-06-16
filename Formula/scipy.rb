@@ -1,5 +1,6 @@
 class Scipy < Formula
   desc "Software for mathematics, science, and engineering"
+  license "BSD-3-Clause"
   homepage "https://www.scipy.org"
   url "https://files.pythonhosted.org/packages/04/ab/e2eb3e3f90b9363040a3d885ccc5c79fe20c5b8a3caa8fe3bf47ff653260/scipy-1.4.1.tar.gz"
   sha256 "dee1bbf3a6c8f73b6b218cb28eed8dd13347ea2f87d572ce19b289d6fd3fbc59"

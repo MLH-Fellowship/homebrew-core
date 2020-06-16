@@ -1,5 +1,6 @@
 class Inko < Formula
   desc "The Inko programming language"
+  license "MPL-2.0"
   homepage "https://inko-lang.org/"
   url "https://gitlab.com/inko-lang/inko/-/archive/v0.6.0/inko-v0.6.0.tar.gz"
   sha256 "3560023128675db5f76698e546e7f3fce70f45816735fb3fa71d103ae383fc61"

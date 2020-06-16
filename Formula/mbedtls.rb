@@ -1,5 +1,6 @@
 class Mbedtls < Formula
   desc "Cryptographic & SSL/TLS library"
+  license "Apache-2.0"
   homepage "https://tls.mbed.org/"
   url "https://tls.mbed.org/download/mbedtls-2.16.6-apache.tgz"
   sha256 "66455e23a6190a30142cdc1113f7418158839331a9d8e6b0778631d077281770"

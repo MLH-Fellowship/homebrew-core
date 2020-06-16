@@ -1,5 +1,6 @@
 class Asimov < Formula
   desc "Automatically exclude development dependencies from Time Machine backups"
+  license "MIT"
   homepage "https://github.com/stevegrunwell/asimov"
   url "https://github.com/stevegrunwell/asimov/archive/v0.2.0.tar.gz"
   sha256 "2efb456975af066a17f928787062522de06c14eb322b2d133a8bc3a764cc5376"

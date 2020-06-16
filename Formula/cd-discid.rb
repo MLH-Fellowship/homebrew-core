@@ -1,5 +1,6 @@
 class CdDiscid < Formula
   desc "Read CD and get CDDB discid information"
+  license "GPL-2.0"
   homepage "http://linukz.org/cd-discid.shtml"
   revision 2
   head "https://github.com/taem/cd-discid.git"

@@ -1,5 +1,6 @@
 class Flint < Formula
   desc "C library for number theory"
+  license "LGPL-2.1"
   homepage "http://flintlib.org"
   url "http://flintlib.org/flint-2.6.0.tar.gz"
   sha256 "9089edadd12cbbda4533ab6f58efb7565fd973b5b82a89f53f64203bc3510840"

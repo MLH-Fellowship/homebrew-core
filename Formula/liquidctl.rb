@@ -2,6 +2,7 @@ class Liquidctl < Formula
   include Language::Python::Virtualenv
 
   desc "Cross-platform tool and drivers for liquid coolers and other devices"
+  license "GPL-3.0"
   homepage "https://github.com/jonasmalacofilho/liquidctl"
   url "https://files.pythonhosted.org/packages/source/l/liquidctl/liquidctl-1.3.3.tar.gz"
   sha256 "d13180867e07420c5890fe1110e8f45fe343794549a9ed7d5e8e76663bc10c24"

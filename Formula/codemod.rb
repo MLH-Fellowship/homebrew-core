@@ -2,6 +2,7 @@ class Codemod < Formula
   include Language::Python::Virtualenv
 
   desc "Large-scale codebase refactors assistant tool"
+  license "Apache-2.0"
   homepage "https://github.com/facebook/codemod"
   url "https://files.pythonhosted.org/packages/9b/e3/cb31bfcf14f976060ea7b7f34135ebc796cde65eba923f6a0c4b71f15cc2/codemod-1.0.0.tar.gz"
   sha256 "06e8c75f2b45210dd8270e30a6a88ae464b39abd6d0cab58a3d7bfd1c094e588"

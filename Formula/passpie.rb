@@ -2,6 +2,7 @@ class Passpie < Formula
   include Language::Python::Virtualenv
 
   desc "Manage login credentials from the terminal"
+  license "MIT"
   homepage "https://github.com/marcwebbie/passpie"
   url "https://files.pythonhosted.org/packages/c8/2e/db84fa9d33c9361024343411875835143dc7b73eb3320b41c4f543b40ad6/passpie-1.6.1.tar.gz"
   sha256 "eec50eabb9f4c9abd9a1d89794f86afe3956e1ba9f6c831d04b164fd4fc0ad02"

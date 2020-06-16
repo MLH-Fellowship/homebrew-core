@@ -1,5 +1,6 @@
 class Pgtune < Formula
   desc "Tuning wizard for postgresql.conf"
+  license "BSD-3-Clause"
   # Original web server flaky, let's leave it to the archive.org copy
   homepage "https://web.archive.org/web/20190717075914/pgfoundry.org/projects/pgtune"
   url "https://ftp.postgresql.org/pub/projects/pgFoundry/pgtune/pgtune/0.9.3/pgtune-0.9.3.tar.gz"

@@ -1,5 +1,6 @@
 class Numpy < Formula
   desc "Package for scientific computing with Python"
+  license "BSD-3-Clause"
   homepage "https://www.numpy.org/"
   url "https://files.pythonhosted.org/packages/01/1b/d3ddcabd5817be02df0e6ee20d64f77ff6d0d97f83b77f65e98c8a651981/numpy-1.18.5.zip"
   sha256 "34e96e9dae65c4839bd80012023aadd6ee2ccb73ce7fdf3074c62f301e63120b"

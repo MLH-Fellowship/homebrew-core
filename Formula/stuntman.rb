@@ -1,5 +1,6 @@
 class Stuntman < Formula
   desc "Implementation of the STUN protocol"
+  license "Apache-2.0"
   homepage "http://www.stunprotocol.org/"
   url "http://www.stunprotocol.org/stunserver-1.2.15.tgz"
   sha256 "321f796a7cd4e4e56a0d344a53a6a96d9731df5966816e9b46f3aa6dcc26210f"

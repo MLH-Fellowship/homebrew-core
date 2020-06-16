@@ -1,5 +1,6 @@
 class ApacheSpark < Formula
   desc "Engine for large-scale data processing"
+  license "Apache-2.0"
   homepage "https://spark.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=spark/spark-2.4.6/spark-2.4.6-bin-hadoop2.7.tgz"
   mirror "https://archive.apache.org/dist/spark/spark-2.4.6/spark-2.4.6-bin-hadoop2.7.tgz"

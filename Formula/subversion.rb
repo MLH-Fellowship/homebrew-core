@@ -1,5 +1,6 @@
 class Subversion < Formula
   desc "Version control system designed to be a better CVS"
+  license "Apache-2.0"
   homepage "https://subversion.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=subversion/subversion-1.14.0.tar.bz2"
   mirror "https://archive.apache.org/dist/subversion/subversion-1.14.0.tar.bz2"

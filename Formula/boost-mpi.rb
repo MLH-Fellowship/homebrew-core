@@ -1,5 +1,6 @@
 class BoostMpi < Formula
   desc "C++ library for C++/MPI interoperability"
+  license "BSL-1.0"
   homepage "https://www.boost.org/"
   url "https://dl.bintray.com/boostorg/release/1.72.0/source/boost_1_72_0.tar.bz2"
   mirror "https://dl.bintray.com/homebrew/mirror/boost_1_72_0.tar.bz2"

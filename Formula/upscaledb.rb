@@ -1,5 +1,6 @@
 class Upscaledb < Formula
   desc "Database for embedded devices"
+  license "Apache-2.0"
   homepage "https://upscaledb.com/"
   revision 14
 

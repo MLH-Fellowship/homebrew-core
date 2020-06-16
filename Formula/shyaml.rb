@@ -2,6 +2,7 @@ class Shyaml < Formula
   include Language::Python::Virtualenv
 
   desc "Command-line YAML parser"
+  license "BSD-2-Clause"
   homepage "https://github.com/0k/shyaml"
   url "https://files.pythonhosted.org/packages/bc/ca/d8c47fad7a6ce01ddd2b7093673433dbfae414015f971ea7ffda56da125f/shyaml-0.6.1.tar.gz"
   sha256 "3a57e380f66043c661d417106a0f101f8068c80caa2afef57c90447b88526c3d"

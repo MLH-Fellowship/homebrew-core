@@ -2,6 +2,7 @@ class Salt < Formula
   include Language::Python::Virtualenv
 
   desc "Dynamic infrastructure communication bus"
+  license "Apache-2.0"
   homepage "https://s.saltstack.com/community/"
   url "https://files.pythonhosted.org/packages/dd/af/a655b055173603f6b8dfb87202604076887d67f186f2f5aedd5a49a7dbe5/salt-3000.3.tar.gz"
   sha256 "fcca49985e697d914e5a7f34b2fd8bbd833bcf7779d30174a279a4de2294cea7"

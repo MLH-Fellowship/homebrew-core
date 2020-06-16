@@ -2,6 +2,7 @@ class Ykman < Formula
   include Language::Python::Virtualenv
 
   desc "Tool for managing your YubiKey configuration"
+  license "BSD-2-Clause"
   homepage "https://developers.yubico.com/yubikey-manager/"
   url "https://developers.yubico.com/yubikey-manager/Releases/yubikey-manager-3.1.1.tar.gz"
   sha256 "68ef41ac3cd2e891019e755a492427ecdd63d8816525d05f2f32c37b8c440cfa"
