@@ -1,5 +1,6 @@
 class Stdman < Formula
   desc "Formatted C++11/14/17 stdlib man pages from cppreference.com"
+  license "MIT"
   homepage "https://github.com/jeaye/stdman"
   url "https://github.com/jeaye/stdman/archive/2018.03.11.tar.gz"
   sha256 "d29e6b34cb5ba9905360cee6adcdf8c49e7f11272521bf2e10b42917486840e8"

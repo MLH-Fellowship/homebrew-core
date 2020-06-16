@@ -1,5 +1,6 @@
 class Cheops < Formula
   desc "CHEss OPponent Simulator"
+  license "GPL-3.0"
   homepage "https://logological.org/cheops"
   url "https://files.nothingisreal.com/software/cheops/cheops-1.3.tar.bz2"
   mirror "https://github.com/logological/cheops/releases/download/1.3/cheops-1.3.tar.bz2"

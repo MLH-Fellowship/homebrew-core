@@ -1,5 +1,6 @@
 class Plowshare < Formula
   desc "Download/upload tool for popular file sharing websites"
+  license "GPL-3.0"
   homepage "https://github.com/mcrapet/plowshare"
   url "https://github.com/mcrapet/plowshare/archive/v2.1.7.tar.gz"
   sha256 "c17d0cc1b3323f72b2c1a5b183a9fcef04e8bfc53c9679a4e1523642310d22ad"

@@ -2,6 +2,7 @@ class GitRemoteHg < Formula
   include Language::Python::Virtualenv
 
   desc "Transparent bidirectional bridge between Git and Mercurial"
+  license "GPL-2.0"
   homepage "https://github.com/felipec/git-remote-hg"
   url "https://github.com/felipec/git-remote-hg/archive/v0.4.tar.gz"
   sha256 "916072d134cde65b7ffa7d1da1acaabb0f29b65c017d0560e907e7a94063d1b1"

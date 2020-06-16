@@ -1,5 +1,6 @@
 class Toilet < Formula
   desc "Color-based alternative to figlet (uses libcaca)"
+  license "WTFPL"
   homepage "http://caca.zoy.org/wiki/toilet"
   url "http://caca.zoy.org/raw-attachment/wiki/toilet/toilet-0.3.tar.gz"
   mirror "https://deb.debian.org/debian/pool/main/t/toilet/toilet_0.3.orig.tar.gz"

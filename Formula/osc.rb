@@ -2,6 +2,7 @@ class Osc < Formula
   include Language::Python::Virtualenv
 
   desc "The command-line interface to work with an Open Build Service"
+  license "GPL-2.0"
   homepage "https://github.com/openSUSE/osc"
   url "https://github.com/openSUSE/osc/archive/0.169.1.tar.gz"
   sha256 "ae87225d4ce3ca115a95188235ecd90b008b0e6b25b79ba818c5e7d09e7ec7d6"

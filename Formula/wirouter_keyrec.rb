@@ -1,5 +1,6 @@
 class WirouterKeyrec < Formula
   desc "Recover the default WPA passphrases from supported routers"
+  license "GPL-3.0"
   homepage "https://www.salvatorefresta.net/tools/"
   url "https://www.mirrorservice.org/sites/distfiles.macports.org/wirouterkeyrec/WiRouter_KeyRec_1.1.2.zip"
   mirror "https://distfiles.macports.org/wirouterkeyrec/WiRouter_KeyRec_1.1.2.zip"

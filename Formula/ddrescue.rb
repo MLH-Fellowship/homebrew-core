@@ -1,5 +1,6 @@
 class Ddrescue < Formula
   desc "GNU data recovery tool"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/ddrescue/ddrescue.html"
   url "https://ftp.gnu.org/gnu/ddrescue/ddrescue-1.25.tar.lz"
   mirror "https://ftpmirror.gnu.org/ddrescue/ddrescue-1.25.tar.lz"

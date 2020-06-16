@@ -1,5 +1,6 @@
 class Grv < Formula
   desc "Terminal interface for viewing git repositories"
+  license "GPL-3.0"
   homepage "https://github.com/rgburke/grv"
   url "https://github.com/rgburke/grv/releases/download/v0.3.2/grv-0.3.2-src.tar.gz"
   sha256 "988788cce5c581531c26df9048e4187440c5ebc9811afd371d565436dfb65d57"

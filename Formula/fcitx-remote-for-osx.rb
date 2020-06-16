@@ -1,5 +1,6 @@
 class FcitxRemoteForOsx < Formula
   desc "Handle input method in command-line"
+  license "GPL-3.0"
   homepage "https://github.com/CodeFalling/fcitx-remote-for-osx"
   url "https://github.com/CodeFalling/fcitx-remote-for-osx/archive/0.3.0.tar.gz"
   sha256 "b4490a6a0db3c28ce3ddbe89dd038f5ab404744539adc5520eab1a1a39819de6"

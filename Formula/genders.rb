@@ -1,5 +1,6 @@
 class Genders < Formula
   desc "Static cluster configuration database for cluster management"
+  license "GPL-2.0"
   homepage "https://github.com/chaos/genders"
   url "https://github.com/chaos/genders/archive/genders-1-27-3.tar.gz"
   version "1.27.3"

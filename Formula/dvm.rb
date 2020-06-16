@@ -1,5 +1,6 @@
 class Dvm < Formula
   desc "Docker Version Manager"
+  license "Apache-2.0"
   homepage "https://github.com/howtowhale/dvm"
   url "https://github.com/howtowhale/dvm/archive/1.0.2.tar.gz"
   sha256 "eb98d15c92762b36748a6f5fc94c0f795bf993340a4923be0eb907a8c17c6acc"

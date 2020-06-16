@@ -1,5 +1,6 @@
 class Snow < Formula
   desc "Whitespace steganography: coded messages using whitespace"
+  license "Apache-2.0"
   homepage "http://www.darkside.com.au/snow/"
   # The upstream website seems to be rejecting curl connections.
   # Consistently returns "HTTP/1.1 406 Not Acceptable".

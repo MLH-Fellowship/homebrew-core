@@ -1,5 +1,6 @@
 class E2tools < Formula
   desc "Utilities to read, write, and manipulate files in ext2/3/4 filesystems"
+  license "GPL-2.0"
   homepage "https://e2tools.github.io/"
   url "https://github.com/e2tools/e2tools/releases/download/v0.1.0/e2tools-0.1.0.tar.gz"
   sha256 "c1a06b5ae2cbddb6f04d070e889b8bebf87015b8585889999452ce9846122edf"

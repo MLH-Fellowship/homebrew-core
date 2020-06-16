@@ -2,6 +2,7 @@ class Sslyze < Formula
   include Language::Python::Virtualenv
 
   desc "SSL scanner"
+  license "AGPL-3.0"
   homepage "https://github.com/nabla-c0d3/sslyze"
 
   stable do

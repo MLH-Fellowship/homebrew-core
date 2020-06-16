@@ -1,5 +1,6 @@
 class Jansson < Formula
   desc "C library for encoding, decoding, and manipulating JSON"
+  license "MIT"
   homepage "https://www.digip.org/jansson/"
   url "https://www.digip.org/jansson/releases/jansson-2.13.1.tar.gz"
   sha256 "f4f377da17b10201a60c1108613e78ee15df6b12016b116b6de42209f47a474f"

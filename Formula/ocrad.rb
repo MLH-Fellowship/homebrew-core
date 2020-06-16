@@ -1,5 +1,6 @@
 class Ocrad < Formula
   desc "Optical character recognition (OCR) program"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/ocrad/"
   url "https://ftp.gnu.org/gnu/ocrad/ocrad-0.27.tar.lz"
   mirror "https://ftpmirror.gnu.org/ocrad/ocrad-0.27.tar.lz"

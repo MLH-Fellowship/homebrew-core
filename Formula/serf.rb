@@ -1,5 +1,6 @@
 class Serf < Formula
   desc "Service orchestration and management tool"
+  license "MPL-2.0"
   homepage "https://serfdom.io/"
   url "https://github.com/hashicorp/serf.git",
       :tag      => "v0.9.2",

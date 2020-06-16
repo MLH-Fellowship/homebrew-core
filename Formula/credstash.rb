@@ -2,6 +2,7 @@ class Credstash < Formula
   include Language::Python::Virtualenv
 
   desc "Little utility for managing credentials in the cloud"
+  license "Apache-2.0"
   homepage "https://github.com/fugue/credstash"
   url "https://github.com/fugue/credstash/releases/download/v1.17.1/credstash-1.17.1.tar.gz"
   sha256 "6c04e8734ef556ab459018da142dd0b244093ef176b3be5583e582e9a797a120"

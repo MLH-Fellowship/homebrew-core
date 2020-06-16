@@ -1,5 +1,6 @@
 class ZeroInstall < Formula
   desc "Zero Install is a decentralised software installation system"
+  license "LGPL-2.1"
   homepage "https://0install.net/"
   url "https://github.com/0install/0install.git",
       :tag      => "v2.17",

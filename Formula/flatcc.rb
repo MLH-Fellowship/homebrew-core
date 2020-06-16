@@ -1,5 +1,6 @@
 class Flatcc < Formula
   desc "FlatBuffers Compiler and Library in C for C"
+  license "Apache-2.0"
   homepage "https://github.com/dvidelabs/flatcc"
   url "https://github.com/dvidelabs/flatcc/archive/v0.6.0.tar.gz"
   sha256 "a92da3566d11e19bb807a83554b1a2c644a5bd91c9d9b088514456bb56e1c666"

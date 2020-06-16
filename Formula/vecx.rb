@@ -1,5 +1,6 @@
 class Vecx < Formula
   desc "Vectrex emulator"
+  license "GPL-3.0"
   homepage "https://github.com/jhawthorn/vecx"
   url "https://github.com/jhawthorn/vecx/archive/v1.1.tar.gz"
   sha256 "206ab30db547b9c711438455917b5f1ee96ff87bd025ed8a4bd660f109c8b3fb"

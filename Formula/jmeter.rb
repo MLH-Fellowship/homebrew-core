@@ -1,5 +1,6 @@
 class Jmeter < Formula
   desc "Load testing and performance measurement application"
+  license "Apache-2.0"
   homepage "https://jmeter.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=jmeter/binaries/apache-jmeter-5.3.tgz"
   mirror "https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.3.tgz"

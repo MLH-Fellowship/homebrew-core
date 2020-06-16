@@ -2,6 +2,7 @@ class Semgrep < Formula
   include Language::Python::Virtualenv
 
   desc "Easily detect and prevent bugs and anti-patterns in your codebase"
+  license "LGPL-2.1"
   homepage "https://semgrep.live"
   url "https://github.com/returntocorp/semgrep.git",
     :tag      => "v0.10.1",

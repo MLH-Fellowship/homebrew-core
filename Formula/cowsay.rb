@@ -1,5 +1,6 @@
 class Cowsay < Formula
   desc "Configurable talking characters in ASCII art"
+  license "GPL-3.0"
   # Historical homepage: https://web.archive.org/web/20120225123719/www.nog.net/~tony/warez/cowsay.shtml
   homepage "https://github.com/tnalpgge/rank-amateur-cowsay"
   url "https://github.com/tnalpgge/rank-amateur-cowsay/archive/cowsay-3.04.tar.gz"

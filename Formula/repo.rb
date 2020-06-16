@@ -1,5 +1,6 @@
 class Repo < Formula
   desc "Repository tool for Android development"
+  license "Apache-2.0"
   homepage "https://source.android.com/source/developing.html"
   url "https://github.com/GerritCodeReview/git-repo.git",
       :tag      => "v2.8",

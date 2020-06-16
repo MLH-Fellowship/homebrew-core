@@ -1,5 +1,6 @@
 class Libmill < Formula
   desc "Go-style concurrency in C"
+  license "MIT"
   homepage "http://libmill.org/"
   url "http://libmill.org/libmill-1.18.tar.gz"
   sha256 "12e538dbee8e52fd719a9a84004e0aba9502a6e62cd813223316a1e45d49577d"

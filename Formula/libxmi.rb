@@ -1,5 +1,6 @@
 class Libxmi < Formula
   desc "C/C++ function library for rasterizing 2D vector graphics"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/libxmi/"
   url "https://ftp.gnu.org/gnu/libxmi/libxmi-1.2.tar.gz"
   mirror "https://ftpmirror.gnu.org/libxmi/libxmi-1.2.tar.gz"

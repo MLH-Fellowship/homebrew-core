@@ -1,5 +1,6 @@
 class Redir < Formula
   desc "Port redirector"
+  license "GPL-2.0"
   homepage "https://web.archive.org/web/20190817033513/sammy.net/~sammy/hacks/"
   url "https://github.com/TracyWebTech/redir/archive/2.2.1-9.tar.gz"
   version "2.2.1-9"

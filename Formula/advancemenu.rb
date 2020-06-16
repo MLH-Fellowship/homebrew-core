@@ -1,5 +1,6 @@
 class Advancemenu < Formula
   desc "Frontend for AdvanceMAME/MESS"
+  license "GPL-2.0"
   homepage "https://www.advancemame.it/menu-readme.html"
   url "https://github.com/amadvance/advancemame/releases/download/v3.9/advancemame-3.9.tar.gz"
   sha256 "3e4628e1577e70a1dbe104f17b1b746745b8eda80837f53fbf7b091c88be8c2b"

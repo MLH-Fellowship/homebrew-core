@@ -1,5 +1,6 @@
 class MupdfTools < Formula
   desc "Lightweight PDF and XPS viewer"
+  license "AGPL-3.0"
   homepage "https://mupdf.com/"
   url "https://mupdf.com/downloads/archive/mupdf-1.17.0-source.tar.xz"
   sha256 "c935fb2593d9a28d9b56b59dad6e3b0716a6790f8a257a68fa7dcb4430bc6086"

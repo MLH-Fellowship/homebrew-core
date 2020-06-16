@@ -1,5 +1,6 @@
 class Manticoresearch < Formula
   desc "Open source text search engine"
+  license "GPL-2.0"
   homepage "https://www.manticoresearch.com"
   url "https://github.com/manticoresoftware/manticoresearch/releases/download/3.4.2/manticore-3.4.2-200410-6903305-release.tar.gz"
   version "3.4.2"

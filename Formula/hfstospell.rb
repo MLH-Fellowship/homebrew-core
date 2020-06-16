@@ -1,5 +1,6 @@
 class Hfstospell < Formula
   desc "Helsinki Finite-State Technology ospell"
+  license "Apache-2.0"
   homepage "https://hfst.github.io/"
   url "https://github.com/hfst/hfst-ospell/releases/download/v0.5.1/hfstospell-0.5.1.tar.gz"
   sha256 "ccf5f3b06bcdc5636365e753b9f7fad9c11dfe483272061700a905b3d65ac750"

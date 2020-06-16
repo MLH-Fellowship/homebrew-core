@@ -2,6 +2,7 @@ require "open3"
 
 class Riff < Formula
   desc "Function As A Service on top of Kubernetes, riff is for functions"
+  license "Apache-2.0"
   homepage "https://www.projectriff.io/"
   url "https://github.com/projectriff/cli.git",
       :tag      => "v0.5.0",

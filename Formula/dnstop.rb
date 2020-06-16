@@ -1,5 +1,6 @@
 class Dnstop < Formula
   desc "Console tool to analyze DNS traffic"
+  license "BSD-3-Clause"
   homepage "http://dns.measurement-factory.com/tools/dnstop/index.html"
   url "http://dns.measurement-factory.com/tools/dnstop/src/dnstop-20140915.tar.gz"
   sha256 "b4b03d02005b16e98d923fa79957ea947e3aa6638bb267403102d12290d0c57a"

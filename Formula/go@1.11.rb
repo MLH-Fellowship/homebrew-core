@@ -1,5 +1,6 @@
 class GoAT111 < Formula
   desc "Go programming environment (1.11)"
+  license "BSD-3-Clause"
   homepage "https://golang.org"
   url "https://dl.google.com/go/go1.11.13.src.tar.gz"
   mirror "https://fossies.org/linux/misc/go1.11.13.src.tar.gz"

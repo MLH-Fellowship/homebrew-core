@@ -1,5 +1,6 @@
 class Uniutils < Formula
   desc "Manipulate and analyze Unicode text"
+  license "GPL-3.0"
   homepage "https://billposer.org/Software/unidesc.html"
   url "https://billposer.org/Software/Downloads/uniutils-2.27.tar.gz"
   sha256 "c662a9215a3a67aae60510f679135d479dbddaf90f5c85a3c5bab1c89da61596"

@@ -1,5 +1,6 @@
 class Libtextcat < Formula
   desc "N-gram-based text categorization library"
+  license "BSD-3-Clause"
   homepage "https://software.wise-guys.nl/libtextcat/"
   url "https://software.wise-guys.nl/download/libtextcat-2.2.tar.gz"
   mirror "https://src.fedoraproject.org/repo/pkgs/libtextcat/libtextcat-2.2.tar.gz/128cfc86ed5953e57fe0f5ae98b62c2e/libtextcat-2.2.tar.gz"

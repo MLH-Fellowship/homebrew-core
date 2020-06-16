@@ -2,6 +2,7 @@ class Diffoscope < Formula
   include Language::Python::Virtualenv
 
   desc "In-depth comparison of files, archives, and directories"
+  license "GPL-3.0"
   homepage "https://diffoscope.org"
   url "https://files.pythonhosted.org/packages/fe/89/1e322a4273bfbe364d2bfb41373188c2cbc7e8511c09ce1a9334f77906fd/diffoscope-147.tar.gz"
   sha256 "5b5fdaa4d900c891b319e4b9a006eb16824a0b61fdbe15e75acbbe35602e2da6"

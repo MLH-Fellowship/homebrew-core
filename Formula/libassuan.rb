@@ -1,5 +1,6 @@
 class Libassuan < Formula
   desc "Assuan IPC Library"
+  license "GPL-3.0"
   homepage "https://www.gnupg.org/related_software/libassuan/"
   url "https://gnupg.org/ftp/gcrypt/libassuan/libassuan-2.5.3.tar.bz2"
   mirror "https://www.mirrorservice.org/sites/ftp.gnupg.org/gcrypt/libassuan/libassuan-2.5.3.tar.bz2"

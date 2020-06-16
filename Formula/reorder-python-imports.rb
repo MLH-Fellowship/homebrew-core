@@ -2,6 +2,7 @@ class ReorderPythonImports < Formula
   include Language::Python::Virtualenv
 
   desc "Rewrites source to reorder python imports"
+  license "MIT"
   homepage "https://github.com/asottile/reorder_python_imports"
   url "https://github.com/asottile/reorder_python_imports/archive/v2.3.0.tar.gz"
   sha256 "c544b19a2900220e6a8d1a070dd651ce0c6885ca592f4e4af99f7551b6d9807b"

@@ -2,6 +2,7 @@ require "language/node"
 
 class Bower < Formula
   desc "Package manager for the web"
+  license "MIT"
   homepage "https://bower.io/"
   # Use Github tarball to avoid bowers npm 4+ incompatible bundled dep usage
   url "https://github.com/bower/bower/archive/v1.8.8.tar.gz"

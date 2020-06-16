@@ -1,5 +1,6 @@
 class TokyoCabinet < Formula
   desc "Lightweight database library"
+  license "LGPL-2.1"
   homepage "https://fallabs.com/tokyocabinet/"
   url "https://fallabs.com/tokyocabinet/tokyocabinet-1.4.48.tar.gz"
   mirror "https://deb.debian.org/debian/pool/main/t/tokyocabinet/tokyocabinet_1.4.48.orig.tar.gz"

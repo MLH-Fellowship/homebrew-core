@@ -1,5 +1,6 @@
 class Gobuster < Formula
   desc "Directory/file & DNS busting tool written in Go"
+  license "Apache-2.0"
   homepage "https://github.com/OJ/gobuster"
   url "https://github.com/OJ/gobuster.git",
       :tag      => "v3.0.1",

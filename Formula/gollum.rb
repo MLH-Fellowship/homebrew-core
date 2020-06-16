@@ -1,5 +1,6 @@
 class Gollum < Formula
   desc "Go n:m message multiplexer"
+  license "Apache-2.0"
   homepage "https://github.com/trivago/gollum"
   url "https://github.com/trivago/gollum/archive/v0.5.4.tar.gz"
   sha256 "ba2299c7946385704b7952a77f28e6a7bd243f350e31e7009e21586ec9ca5494"

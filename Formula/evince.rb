@@ -1,5 +1,6 @@
 class Evince < Formula
   desc "GNOME document viewer"
+  license "GPL-2.0"
   homepage "https://wiki.gnome.org/Apps/Evince"
   url "https://download.gnome.org/sources/evince/3.36/evince-3.36.5.tar.xz"
   sha256 "6f0dd6e30639eb620f201a6ae40f21c4b78c030f0d6437f9e309f7240195e97c"

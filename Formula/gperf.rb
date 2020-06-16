@@ -1,5 +1,6 @@
 class Gperf < Formula
   desc "Perfect hash function generator"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gperf"
   url "https://ftp.gnu.org/gnu/gperf/gperf-3.1.tar.gz"
   mirror "https://ftpmirror.gnu.org/gperf/gperf-3.1.tar.gz"

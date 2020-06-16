@@ -1,5 +1,6 @@
 class Piknik < Formula
   desc "Copy/paste anything over the network"
+  license "BSD-2-Clause"
   homepage "https://github.com/jedisct1/piknik"
   url "https://github.com/jedisct1/piknik/archive/0.9.1.tar.gz"
   sha256 "a682e16d937a5487eda5b0d0889ae114e228bd3c9beddd743cad40f1bad94448"

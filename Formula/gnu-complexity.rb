@@ -1,5 +1,6 @@
 class GnuComplexity < Formula
   desc "Measures complexity of C source"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/complexity"
   url "https://ftp.gnu.org/gnu/complexity/complexity-1.10.tar.xz"
   mirror "https://ftpmirror.gnu.org/complexity/complexity-1.10.tar.xz"

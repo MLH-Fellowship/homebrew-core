@@ -1,5 +1,6 @@
 class GoMd2man < Formula
   desc "Converts markdown into roff (man pages)"
+  license "MIT"
   homepage "https://github.com/cpuguy83/go-md2man"
   url "https://github.com/cpuguy83/go-md2man.git",
       :tag      => "v2.0.0",

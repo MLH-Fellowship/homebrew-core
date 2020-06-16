@@ -1,5 +1,6 @@
 class Libdca < Formula
   desc "Library for decoding DTS Coherent Acoustics streams"
+  license "GPL-2.0"
   homepage "https://www.videolan.org/developers/libdca.html"
   url "https://download.videolan.org/pub/videolan/libdca/0.0.7/libdca-0.0.7.tar.bz2"
   sha256 "3a0b13815f582c661d2388ffcabc2f1ea82f471783c400f765f2ec6c81065f6a"

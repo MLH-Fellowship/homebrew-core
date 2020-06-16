@@ -1,5 +1,6 @@
 class ConsulTemplate < Formula
   desc "Generic template rendering and notifications with Consul"
+  license "MPL-2.0"
   homepage "https://github.com/hashicorp/consul-template"
   url "https://github.com/hashicorp/consul-template.git",
       :tag      => "v0.25.0",

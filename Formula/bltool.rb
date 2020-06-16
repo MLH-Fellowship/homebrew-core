@@ -1,5 +1,6 @@
 class Bltool < Formula
   desc "Tool for command-line interaction with backloggery.com"
+  license "Apache-2.0"
   homepage "https://github.com/ToxicFrog/bltool"
   url "https://github.com/ToxicFrog/bltool/releases/download/v0.2.4/bltool-0.2.4.zip"
   sha256 "5bef751aac7140f8a705b29edd35a7bfa9f87c36039d84d4001f16a307b64ef6"

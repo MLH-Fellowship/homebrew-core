@@ -2,6 +2,7 @@ class Statik < Formula
   include Language::Python::Virtualenv
 
   desc "Python-based, generic static web site generator aimed at developers"
+  license "MIT"
   homepage "https://getstatik.com"
   url "https://github.com/thanethomson/statik/archive/v0.23.0.tar.gz"
   sha256 "6159066f486811e5773da318d6e8d1b1dd4c99ac140f1a3c660ef1c1f5e7124f"

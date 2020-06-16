@@ -1,5 +1,6 @@
 class OpenshiftCli < Formula
   desc "OpenShift command-line interface tools"
+  license "Apache-2.0"
   homepage "https://www.openshift.com/"
   url "https://github.com/openshift/origin.git",
       :tag      => "v4.1.0",

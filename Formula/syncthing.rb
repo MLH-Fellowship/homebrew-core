@@ -1,5 +1,6 @@
 class Syncthing < Formula
   desc "Open source continuous file synchronization application"
+  license "MPL-2.0"
   homepage "https://syncthing.net/"
   url "https://github.com/syncthing/syncthing.git",
       :tag      => "v1.6.1",

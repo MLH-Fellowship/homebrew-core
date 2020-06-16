@@ -1,5 +1,6 @@
 class Lhasa < Formula
   desc "LHA implementation to decompress .lzh and .lzs archives"
+  license "ISC"
   homepage "https://fragglet.github.io/lhasa/"
   url "https://github.com/fragglet/lhasa/archive/v0.3.1.tar.gz"
   sha256 "ad76d763c7e91f47fde455a1baef4bfb0d1debba424039eabe0140fa8f115c5e"

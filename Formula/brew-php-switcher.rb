@@ -1,5 +1,6 @@
 class BrewPhpSwitcher < Formula
   desc "Switch Apache / Valet / CLI configs between PHP versions"
+  license "MIT"
   homepage "https://github.com/philcook/php-switcher"
   url "https://github.com/philcook/brew-php-switcher/archive/v2.2.tar.gz"
   sha256 "505bc355cd725cacd048e44b60eadb5ad88c31f3c9d311e4b250c274aa78c14c"

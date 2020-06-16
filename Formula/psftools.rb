@@ -1,5 +1,6 @@
 class Psftools < Formula
   desc "Tools for fixed-width bitmap fonts"
+  license "GPL-2.0"
   homepage "https://www.seasip.info/Unix/PSF/"
   # psftools-1.1.10.tar.gz (dated 2017) was a typo of 1.0.10 and has since been deleted.
   # You may still find it on some mirrors but it should not be used.

@@ -1,5 +1,6 @@
 class Exa < Formula
   desc "Modern replacement for 'ls'"
+  license "MIT"
   homepage "https://the.exa.website"
   url "https://github.com/ogham/exa/archive/v0.9.0.tar.gz"
   sha256 "96e743ffac0512a278de9ca3277183536ee8b691a46ff200ec27e28108fef783"

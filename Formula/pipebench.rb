@@ -1,5 +1,6 @@
 class Pipebench < Formula
   desc "Measure the speed of STDIN/STDOUT communication"
+  license "GPL-2.0"
   homepage "http://www.habets.pp.se/synscan/programs.php?prog=pipebench"
   # Upstream server behaves oddly: https://github.com/Homebrew/homebrew/issues/40897
   # url "http://www.habets.pp.se/synscan/files/pipebench-0.40.tar.gz"

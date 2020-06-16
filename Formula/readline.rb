@@ -1,5 +1,6 @@
 class Readline < Formula
   desc "Library for command-line editing"
+  license "GPL-3.0"
   homepage "https://tiswww.case.edu/php/chet/readline/rltop.html"
   url "https://ftp.gnu.org/gnu/readline/readline-8.0.tar.gz"
   mirror "https://ftpmirror.gnu.org/readline/readline-8.0.tar.gz"

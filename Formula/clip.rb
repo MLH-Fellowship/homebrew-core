@@ -1,5 +1,6 @@
 class Clip < Formula
   desc "Create high-quality charts from the command-line"
+  license "Apache-2.0"
   homepage "https://clip-lang.org/"
   url "https://github.com/asmuth/clip/archive/v0.7.tar.gz"
   sha256 "f38f455cf3e9201614ac71d8a871e4ff94a6e4cf461fd5bf81bdf457ba2e6b3e"

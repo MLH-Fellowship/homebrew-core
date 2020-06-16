@@ -1,5 +1,6 @@
 class ThePlatinumSearcher < Formula
   desc "Multi-platform code-search similar to ack and ag"
+  license "MIT"
   homepage "https://github.com/monochromegane/the_platinum_searcher"
   url "https://github.com/monochromegane/the_platinum_searcher/archive/v2.2.0.tar.gz"
   sha256 "3d5412208644b13723b2b7ca4af0870d25c654e3a76feee846164c51b88240b0"

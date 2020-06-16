@@ -1,5 +1,6 @@
 class Shntool < Formula
   desc "Multi-purpose tool for manipulating and analyzing WAV files"
+  license "GPL-2.0"
   homepage "https://web.archive.org/web/20180903160820/etree.org/shnutils/shntool/"
   url "https://web.archive.org/web/20180903160820/etree.org/shnutils/shntool/dist/src/shntool-3.0.10.tar.gz"
   mirror "https://www.mirrorservice.org/sites/download.salixos.org/x86_64/extra-14.2/source/audio/shntool/shntool-3.0.10.tar.gz"

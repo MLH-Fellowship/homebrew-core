@@ -1,5 +1,6 @@
 class Lrdf < Formula
   desc "RDF library for accessing plugin metadata in the LADSPA plugin system"
+  license "GPL-2.0"
   homepage "https://github.com/swh/LRDF"
   url "https://github.com/swh/LRDF/archive/v0.6.1.tar.gz"
   sha256 "d579417c477ac3635844cd1b94f273ee2529a8c3b6b21f9b09d15f462b89b1ef"

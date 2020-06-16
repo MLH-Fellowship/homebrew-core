@@ -1,5 +1,6 @@
 class Rolldice < Formula
   desc "Rolls an amount of virtual dice"
+  license "GPL-2.0"
   homepage "https://github.com/sstrickl/rolldice"
   url "https://github.com/sstrickl/rolldice/archive/v1.16.tar.gz"
   sha256 "8bc82b26c418453ef0fe79b43a094641e7a76dae406032423a2f0fb270930775"

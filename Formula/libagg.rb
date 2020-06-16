@@ -1,5 +1,6 @@
 class Libagg < Formula
   desc "High fidelity 2D graphics library for C++"
+  license "GPL-2.0"
   homepage "https://antigrain.com/"
   # Canonical URL inaccessible: https://antigrain.com/agg-2.5.tar.gz
   url "https://ftp.osuosl.org/pub/blfs/8.0/a/agg-2.5.tar.gz"

@@ -1,5 +1,6 @@
 class Systemc < Formula
   desc "Core SystemC language and examples"
+  license "Apache-2.0"
   homepage "https://accellera.org/"
   url "https://www.accellera.org/images/downloads/standards/systemc/systemc-2.3.2.tar.gz"
   sha256 "a28eeee00189f0e39f51461dcd7dbed7fb38e4e07dbd9e723473000ce6ef73c5"

@@ -1,5 +1,6 @@
 class Annie < Formula
   desc "Fast, simple and clean video downloader"
+  license "MIT"
   homepage "https://github.com/iawia002/annie"
   url "https://github.com/iawia002/annie/archive/0.10.1.tar.gz"
   sha256 "3ad04d789db82a139b1fe914889af5a75fef8eca1e55446b25dae682a43e23e0"

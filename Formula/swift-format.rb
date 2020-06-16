@@ -1,5 +1,6 @@
 class SwiftFormat < Formula
   desc "Formatting technology for Swift source code"
+  license "Apache-2.0"
   homepage "https://github.com/apple/swift-format"
   url "https://github.com/apple/swift-format.git", :revision => "5cdf916a09ee8b581ff348c0e395b221d02d253b"
   version "5.2"

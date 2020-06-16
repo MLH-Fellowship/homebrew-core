@@ -1,5 +1,6 @@
 class Pilosa < Formula
   desc "Distributed bitmap index that queries across data sets"
+  license "Apache-2.0"
   homepage "https://www.pilosa.com"
   url "https://github.com/pilosa/pilosa/archive/v1.4.0.tar.gz"
   sha256 "9b6524049e4e927179a5a1122129e68c66712752a12ebd3dedf9010188ae73a5"

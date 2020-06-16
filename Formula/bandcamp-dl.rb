@@ -2,6 +2,7 @@ class BandcampDl < Formula
   include Language::Python::Virtualenv
 
   desc "Simple python script to download Bandcamp albums"
+  license "Unlicense"
   homepage "https://github.com/iheanyi/bandcamp-dl"
   url "https://github.com/iheanyi/bandcamp-dl/archive/v0.0.8-12.tar.gz"
   version "0.0.8-12"

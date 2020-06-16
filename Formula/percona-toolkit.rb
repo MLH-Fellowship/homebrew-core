@@ -4,6 +4,7 @@ class PerconaToolkit < Formula
   include Language::Perl::Shebang
 
   desc "Percona Toolkit for MySQL"
+  license "GPL-2.0"
   homepage "https://www.percona.com/software/percona-toolkit/"
   url "https://www.percona.com/downloads/percona-toolkit/3.2.0/source/tarball/percona-toolkit-3.2.0.tar.gz"
   sha256 "e7c7028631d5b1c66ba21841c55919537bd4ed2f3a5975f989fa4abd7d9d753d"

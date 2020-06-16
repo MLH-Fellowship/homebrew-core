@@ -1,5 +1,6 @@
 class Fsw < Formula
   desc "File change monitor with multiple backends"
+  license "GPL-3.0"
   homepage "https://emcrisostomo.github.io/fsw/"
   url "https://github.com/emcrisostomo/fsw/releases/download/1.3.9/fsw-1.3.9.tar.gz"
   sha256 "9222f76f99ef9841dc937a8f23b529f635ad70b0f004b9dd4afb35c1b0d8f0ff"

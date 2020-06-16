@@ -1,5 +1,6 @@
 class DatetimeFortran < Formula
   desc "Fortran time and date manipulation library"
+  license "MIT"
   homepage "https://github.com/wavebitscientific/datetime-fortran"
   url "https://github.com/wavebitscientific/datetime-fortran/releases/download/v1.7.0/datetime-fortran-1.7.0.tar.gz"
   sha256 "cff4c1f53af87a9f8f31256a3e04176f887cc3e947a4540481ade4139baf0d6f"

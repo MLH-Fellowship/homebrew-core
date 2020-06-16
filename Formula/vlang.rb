@@ -1,5 +1,6 @@
 class Vlang < Formula
   desc "V programming language"
+  license "MIT"
   homepage "https://vlang.io"
   url "https://github.com/vlang/v/archive/0.1.27.tar.gz"
   sha256 "bed0090e83ddab52615ff36f78015239a46432c16162526de87f169a42dfd602"

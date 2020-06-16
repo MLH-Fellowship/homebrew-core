@@ -1,5 +1,6 @@
 class Snapraid < Formula
   desc "Backup program for disk arrays"
+  license "GPL-3.0"
   homepage "https://snapraid.sourceforge.io/"
   url "https://github.com/amadvance/snapraid/releases/download/v11.5/snapraid-11.5.tar.gz"
   sha256 "1f5267261bdbcf4d48b9359ce67184df11905590739140f740327fb73bcecafa"

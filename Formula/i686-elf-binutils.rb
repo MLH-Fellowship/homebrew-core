@@ -1,5 +1,6 @@
 class I686ElfBinutils < Formula
   desc "GNU Binutils for i686-elf cross development"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/binutils/"
   url "https://ftp.gnu.org/gnu/binutils/binutils-2.34.tar.gz"
   mirror "https://ftpmirror.gnu.org/binutils/binutils-2.34.tar.gz"

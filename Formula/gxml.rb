@@ -1,5 +1,6 @@
 class Gxml < Formula
   desc "GObject-based XML DOM API"
+  license "LGPL-2.1"
   homepage "https://wiki.gnome.org/GXml"
   url "https://download.gnome.org/sources/gxml/0.18/gxml-0.18.1.tar.xz"
   sha256 "bac5bc82c39423c1dbbfd89235f4a9b03b69cfcd3188905359ce81747b6400ed"

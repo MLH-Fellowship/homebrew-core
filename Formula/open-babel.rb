@@ -1,5 +1,6 @@
 class OpenBabel < Formula
   desc "Chemical toolbox"
+  license "GPL-2.0"
   homepage "https://openbabel.org"
   url "https://github.com/openbabel/openbabel/archive/openbabel-3-1-1.tar.gz"
   version "3.1.1"

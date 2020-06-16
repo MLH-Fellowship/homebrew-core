@@ -1,5 +1,6 @@
 class Udptunnel < Formula
   desc "Tunnel UDP packets over a TCP connection"
+  license "BSD-3-Clause"
   homepage "https://web.archive.org/web/20161224191851/www.cs.columbia.edu/~lennox/udptunnel/"
   url "https://web.archive.org/web/20161224191851/www.cs.columbia.edu/~lennox/udptunnel/udptunnel-1.1.tar.gz"
   mirror "https://ftp.nsysu.edu.tw/FreeBSD/ports/local-distfiles/leeym/udptunnel-1.1.tar.gz"

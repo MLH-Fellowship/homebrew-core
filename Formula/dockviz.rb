@@ -1,5 +1,6 @@
 class Dockviz < Formula
   desc "Visualizing docker data"
+  license "Apache-2.0"
   homepage "https://github.com/justone/dockviz"
   url "https://github.com/justone/dockviz.git",
       :tag      => "v0.6.3",

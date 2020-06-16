@@ -2,6 +2,7 @@ class Bumpversion < Formula
   include Language::Python::Virtualenv
 
   desc "Increase version numbers with SemVer terms"
+  license "MIT"
   homepage "https://pypi.python.org/pypi/bumpversion"
   # maintained fork for the project
   # Ongoing maintenance discussion for the project, https://github.com/c4urself/bump2version/issues/86

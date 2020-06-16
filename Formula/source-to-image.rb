@@ -1,5 +1,6 @@
 class SourceToImage < Formula
   desc "Tool for building source and injecting into docker images"
+  license "Apache-2.0"
   homepage "https://github.com/openshift/source-to-image"
   url "https://github.com/openshift/source-to-image.git",
       :tag      => "v1.3.0",

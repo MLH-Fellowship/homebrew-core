@@ -1,5 +1,6 @@
 class Autoenv < Formula
   desc "Per-project, per-directory shell environments"
+  license "MIT"
   homepage "https://github.com/kennethreitz/autoenv"
   url "https://github.com/kennethreitz/autoenv/archive/v0.2.1.tar.gz"
   sha256 "d10ee4d916a11a664453e60864294fec221c353f8ad798aa0aa6a2d2c5d5b318"

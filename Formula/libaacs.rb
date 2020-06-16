@@ -1,5 +1,6 @@
 class Libaacs < Formula
   desc "Implements the Advanced Access Content System specification"
+  license "LGPL-2.1"
   homepage "https://www.videolan.org/developers/libaacs.html"
   url "https://download.videolan.org/pub/videolan/libaacs/0.10.0/libaacs-0.10.0.tar.bz2"
   sha256 "93f6b19ef71e6f73e77bd7535946c09c45330e9b42e832a63a1d6b042f6b12fe"

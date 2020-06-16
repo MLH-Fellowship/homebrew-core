@@ -1,5 +1,6 @@
 class Openvdb < Formula
   desc "Sparse volume processing toolkit"
+  license "MPL-2.0"
   homepage "https://www.openvdb.org/"
   url "https://github.com/AcademySoftwareFoundation/openvdb/archive/v7.0.0.tar.gz"
   sha256 "97bc8ae35ef7ccbf49a4e25cb73e8c2eccae6b235bac86f2150707efcd1e910d"

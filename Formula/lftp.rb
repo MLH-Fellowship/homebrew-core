@@ -1,5 +1,6 @@
 class Lftp < Formula
   desc "Sophisticated file transfer program"
+  license "GPL-3.0"
   homepage "https://lftp.yar.ru/"
   url "https://lftp.yar.ru/ftp/lftp-4.9.1.tar.xz"
   sha256 "5969fcaefd102955dd882f3bcd8962198bc537224749ed92f206f415207a024b"

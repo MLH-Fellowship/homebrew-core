@@ -1,5 +1,6 @@
 class GnuUnits < Formula
   desc "GNU unit conversion tool"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/units/"
   url "https://ftp.gnu.org/gnu/units/units-2.19.tar.gz"
   mirror "https://ftpmirror.gnu.org/units/units-2.19.tar.gz"

@@ -1,5 +1,6 @@
 class Cquery < Formula
   desc "C/C++ language server"
+  license "MIT"
   homepage "https://github.com/cquery-project/cquery"
   # pull from git tag to get submodules
   url "https://github.com/cquery-project/cquery.git",

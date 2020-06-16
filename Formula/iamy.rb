@@ -1,5 +1,6 @@
 class Iamy < Formula
   desc "AWS IAM import and export tool"
+  license "MIT"
   homepage "https://github.com/99designs/iamy"
   url "https://github.com/99designs/iamy/archive/v2.3.2.tar.gz"
   sha256 "66d44dd6af485b2b003b0aa1c8dcd799f7bae934f1ce1efb7e5d5f6cfe7f8bf2"

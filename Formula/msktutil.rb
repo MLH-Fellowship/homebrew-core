@@ -1,5 +1,6 @@
 class Msktutil < Formula
   desc "Active Directory keytab management"
+  license "GPL-2.0"
   homepage "https://sourceforge.net/projects/msktutil/"
   url "https://downloads.sourceforge.net/project/msktutil/msktutil-1.1.tar.bz2"
   sha256 "56bf4af8f74d8be6a8d94b90a527acf1508cd58212886fcfe54daa9799dcaf6f"

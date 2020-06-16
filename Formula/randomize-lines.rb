@@ -1,5 +1,6 @@
 class RandomizeLines < Formula
   desc "Reads and randomize lines from a file (or STDIN)"
+  license "GPL-2.0"
   homepage "https://arthurdejong.org/rl/"
   url "https://arthurdejong.org/rl/rl-0.2.7.tar.gz"
   sha256 "1cfca23d6a14acd190c5a6261923757d20cb94861c9b2066991ec7a7cae33bc8"

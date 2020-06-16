@@ -1,5 +1,6 @@
 class Immortal < Formula
   desc "OS agnostic (*nix) cross-platform supervisor"
+  license "BSD-3-Clause"
   homepage "https://immortal.run/"
   url "https://github.com/immortal/immortal/archive/0.24.3.tar.gz"
   sha256 "e31d5afb9028fb5047b5a2cc5f96c844f6480d600643a12075550f497e65f5cb"

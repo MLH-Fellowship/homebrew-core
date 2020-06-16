@@ -1,5 +1,6 @@
 class Bartycrouch < Formula
   desc "Incrementally update/translate your Strings files"
+  license "MIT"
   homepage "https://github.com/Flinesoft/BartyCrouch"
   url "https://github.com/Flinesoft/BartyCrouch.git",
       :tag      => "4.2.0",

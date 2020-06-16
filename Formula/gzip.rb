@@ -1,5 +1,6 @@
 class Gzip < Formula
   desc "Popular GNU data compression program"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gzip"
   url "https://ftp.gnu.org/gnu/gzip/gzip-1.10.tar.gz"
   mirror "https://ftpmirror.gnu.org/gzip/gzip-1.10.tar.gz"

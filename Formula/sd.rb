@@ -1,5 +1,6 @@
 class Sd < Formula
   desc "Intuitive find & replace CLI"
+  license "MIT"
   homepage "https://github.com/chmln/sd"
   url "https://github.com/chmln/sd/archive/v0.7.5.tar.gz"
   sha256 "f4731fd6bd992eed06ed9326cdef22093605ff97df1dd856e31c5015f0720c66"

@@ -1,5 +1,6 @@
 class Unrtf < Formula
   desc "RTF to other formats converter"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/unrtf/"
   url "https://ftp.gnu.org/gnu/unrtf/unrtf-0.21.10.tar.gz"
   mirror "https://ftpmirror.gnu.org/unrtf/unrtf-0.21.10.tar.gz"

@@ -1,5 +1,6 @@
 class TmuxinatorCompletion < Formula
   desc "Shell completion for Tmuxinator"
+  license "MIT"
   homepage "https://github.com/tmuxinator/tmuxinator"
   url "https://github.com/tmuxinator/tmuxinator/archive/v2.0.1.tar.gz"
   sha256 "a2c8428d239a6e869da516cecee3ac64db47ba1f1932317eb397b1afd698ee09"

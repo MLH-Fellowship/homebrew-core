@@ -1,5 +1,6 @@
 class Mkcue < Formula
   desc "Generate a CUE sheet from a CD"
+  license "LGPL-2.1"
   homepage "https://packages.debian.org/sid/mkcue"
   url "https://deb.debian.org/debian/pool/main/m/mkcue/mkcue_1.orig.tar.gz"
   version "1"

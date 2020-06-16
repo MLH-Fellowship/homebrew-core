@@ -1,5 +1,6 @@
 class GoogleJavaFormat < Formula
   desc "Reformats Java source code to comply with Google Java Style"
+  license "Apache-2.0"
   homepage "https://github.com/google/google-java-format"
   url "https://github.com/google/google-java-format/archive/google-java-format-1.7.tar.gz"
   sha256 "199c70851146bc15c8e828f5ca78d6c2d7b338def9cc70786ac3ef5967796399"

@@ -1,5 +1,6 @@
 class Dfix < Formula
   desc "Auto-upgrade tool for D source code"
+  license "BSL-1.0"
   homepage "https://github.com/dlang-community/dfix"
   url "https://github.com/dlang-community/dfix.git",
       :tag      => "v0.3.5",

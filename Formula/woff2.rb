@@ -1,5 +1,6 @@
 class Woff2 < Formula
   desc "Utilities to create and convert Web Open Font File (WOFF) files"
+  license "MIT"
   homepage "https://github.com/google/woff2"
   url "https://github.com/google/woff2/archive/v1.0.2.tar.gz"
   sha256 "add272bb09e6384a4833ffca4896350fdb16e0ca22df68c0384773c67a175594"

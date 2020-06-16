@@ -1,5 +1,6 @@
 class Libvirt < Formula
   desc "C virtualization API"
+  license "GPL-2.0"
   homepage "https://www.libvirt.org"
   url "https://libvirt.org/sources/libvirt-6.4.0.tar.xz"
   sha256 "586ebcf220369d08a07c6cc17035e8a91bb3741e4300199459904e9e02478be7"

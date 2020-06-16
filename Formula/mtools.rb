@@ -1,5 +1,6 @@
 class Mtools < Formula
   desc "Tools for manipulating MSDOS files"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/mtools/"
   url "https://ftp.gnu.org/gnu/mtools/mtools-4.0.24.tar.gz"
   mirror "https://ftpmirror.gnu.org/mtools/mtools-4.0.24.tar.gz"

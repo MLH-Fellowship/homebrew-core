@@ -1,5 +1,6 @@
 class NlohmannJson < Formula
   desc "JSON for modern C++"
+  license "MIT"
   homepage "https://github.com/nlohmann/json"
   url "https://github.com/nlohmann/json/archive/v3.7.3.tar.gz"
   sha256 "249548f4867417d66ae46b338dfe0a2805f3323e81c9e9b83c89f3adbfde6f31"

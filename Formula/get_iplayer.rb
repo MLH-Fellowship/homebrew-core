@@ -1,5 +1,6 @@
 class GetIplayer < Formula
   desc "Utility for downloading TV and radio programmes from BBC iPlayer"
+  license "GPL-3.0"
   homepage "https://github.com/get-iplayer/get_iplayer"
   url "https://github.com/get-iplayer/get_iplayer/archive/v3.25.tar.gz"
   sha256 "2ae278a812494d6289224e6d347c8761ec815ad84f4daf41fd0a4f62832b7d63"

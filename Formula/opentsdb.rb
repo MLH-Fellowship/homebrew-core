@@ -1,5 +1,6 @@
 class Opentsdb < Formula
   desc "Scalable, distributed Time Series Database"
+  license "LGPL-2.1"
   homepage "http://opentsdb.net/"
   url "https://github.com/OpenTSDB/opentsdb/releases/download/v2.3.1/opentsdb-2.3.1.tar.gz"
   sha256 "4dba914a19cf0a56b1d0cc22b4748ebd0d0136e633eb4514a5518790ad7fc1d1"

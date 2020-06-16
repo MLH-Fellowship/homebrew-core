@@ -1,5 +1,6 @@
 class Peco < Formula
   desc "Simplistic interactive filtering tool"
+  license "MIT"
   homepage "https://github.com/peco/peco"
   url "https://github.com/peco/peco/archive/v0.5.7.tar.gz"
   sha256 "9bf4f10b3587270834380e1ea939625bd47eaa166bfabd050e66fad3ffd8f9b0"

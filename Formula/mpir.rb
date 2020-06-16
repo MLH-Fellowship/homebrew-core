@@ -1,5 +1,6 @@
 class Mpir < Formula
   desc "Multiple Precision Integers and Rationals (fork of GMP)"
+  license "GPL-3.0"
   homepage "http://mpir.org/"
   url "http://mpir.org/mpir-3.0.0.tar.bz2"
   sha256 "52f63459cf3f9478859de29e00357f004050ead70b45913f2c2269d9708675bb"

@@ -1,5 +1,6 @@
 class CucumberRuby < Formula
   desc "Cucumber for Ruby"
+  license "MIT"
   homepage "https://cucumber.io"
   url "https://github.com/cucumber/cucumber-ruby/archive/v4.0.0.tar.gz"
   sha256 "de1eb7b99d0e03e851e8d7d1aacb9939590dc7f5d2d2d91180917e6f20c22ebe"

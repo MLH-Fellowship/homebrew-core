@@ -1,5 +1,6 @@
 class Watch < Formula
   desc "Executes a program periodically, showing output fullscreen"
+  license "GPL-2.0"
   homepage "https://gitlab.com/procps-ng/procps"
   url "https://gitlab.com/procps-ng/procps.git",
       :tag      => "v3.3.16",

@@ -1,5 +1,6 @@
 class RdiffBackup < Formula
   desc "Reverse differential backup tool, over a network or locally"
+  license "GPL-2.0"
   homepage "https://rdiff-backup.net/"
   url "https://github.com/rdiff-backup/rdiff-backup/releases/download/v2.0.3/rdiff-backup-2.0.3.tar.gz"
   sha256 "04e2d2c28588d6bb4abb0b7dc7c922e5974f3cb3e7f0671ecc5a90b438dfd5e1"

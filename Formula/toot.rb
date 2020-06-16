@@ -1,6 +1,7 @@
 class Toot < Formula
   include Language::Python::Virtualenv
   desc "Mastodon CLI & TUI"
+  license "GPL-3.0"
   homepage "https://toot.readthedocs.io/en/latest/index.html"
   url "https://github.com/ihabunek/toot/releases/download/0.26.0/toot-0.26.0.tar.gz"
   sha256 "2bb4c2cc45c9f52c2c813140a9051489ed618a14b8746f6c8a62c48343c51440"

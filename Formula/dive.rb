@@ -1,5 +1,6 @@
 class Dive < Formula
   desc "Tool for exploring each layer in a docker image"
+  license "MIT"
   homepage "https://github.com/wagoodman/dive"
   url "https://github.com/wagoodman/dive.git",
     :tag      => "v0.9.2",

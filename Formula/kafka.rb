@@ -1,5 +1,6 @@
 class Kafka < Formula
   desc "Publish-subscribe messaging rethought as a distributed commit log"
+  license "Apache-2.0"
   homepage "https://kafka.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=kafka/2.5.0/kafka_2.12-2.5.0.tgz"
   mirror "https://archive.apache.org/dist/kafka/2.5.0/kafka_2.12-2.5.0.tgz"

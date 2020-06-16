@@ -4,6 +4,7 @@ class PandocCiteproc < Formula
   include Language::Haskell::Cabal
 
   desc "Library and executable for using citeproc with pandoc"
+  license "BSD-3-Clause"
   homepage "https://github.com/jgm/pandoc-citeproc"
   url "https://hackage.haskell.org/package/pandoc-citeproc-0.17/pandoc-citeproc-0.17.tar.gz"
   sha256 "47a9e7aac348d55eb935bee5ced30529974f4a680d67c38ea68be1d83edaf5b1"

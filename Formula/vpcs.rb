@@ -1,5 +1,6 @@
 class Vpcs < Formula
   desc "Virtual PC simulator for testing IP routing"
+  license "BSD-2-Clause"
   homepage "https://vpcs.sourceforge.io/"
   url "https://downloads.sourceforge.net/project/vpcs/0.8/vpcs-0.8-src.tbz"
   sha256 "dca602d0571ba852c916632c4c0060aa9557dd744059c0f7368860cfa8b3c993"

@@ -2,6 +2,7 @@
 # of Homebrew.
 class Mercurial < Formula
   desc "Scalable distributed version control system"
+  license "GPL-2.0"
   homepage "https://mercurial-scm.org/"
   url "https://www.mercurial-scm.org/release/mercurial-5.4.1.tar.gz"
   sha256 "c31c026b09e8e1301ff23b5acc8a8563eeecbf7ff3495110b13688f01ba88ac6"

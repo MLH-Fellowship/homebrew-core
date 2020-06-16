@@ -1,5 +1,6 @@
 class Istioctl < Formula
   desc "Istio configuration command-line utility"
+  license "Apache-2.0"
   homepage "https://github.com/istio/istio"
   url "https://github.com/istio/istio.git",
       :tag      => "1.6.2",

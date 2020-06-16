@@ -2,6 +2,7 @@ require "language/go"
 
 class Mailhog < Formula
   desc "Web and API based SMTP testing tool"
+  license "MIT"
   homepage "https://github.com/mailhog/MailHog"
   head "https://github.com/mailhog/MailHog.git"
 

@@ -1,5 +1,6 @@
 class LibgpgError < Formula
   desc "Common error values for all GnuPG components"
+  license "GPL-2.0"
   homepage "https://www.gnupg.org/related_software/libgpg-error/"
   url "https://gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.38.tar.bz2"
   sha256 "d8988275aa69d7149f931c10442e9e34c0242674249e171592b430ff7b3afd02"

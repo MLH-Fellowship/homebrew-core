@@ -1,5 +1,6 @@
 class Raylib < Formula
   desc "Simple and easy-to-use library to learn videogames programming"
+  license "Zlib"
   homepage "https://www.raylib.com/"
   url "https://github.com/raysan5/raylib/archive/3.0.0.tar.gz"
   sha256 "164d1cc1710bb8e711a495e84cc585681b30098948d67d482e11dc37d2054eab"

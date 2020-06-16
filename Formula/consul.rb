@@ -1,5 +1,6 @@
 class Consul < Formula
   desc "Tool for service discovery, monitoring and configuration"
+  license "MPL-2.0"
   homepage "https://www.consul.io"
   url "https://github.com/hashicorp/consul.git",
       :tag      => "v1.7.4",

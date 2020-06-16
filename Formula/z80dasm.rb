@@ -1,5 +1,6 @@
 class Z80dasm < Formula
   desc "Disassembler for the Zilog Z80 microprocessor and compatibles"
+  license "GPL-2.0"
   homepage "https://www.tablix.org/~avian/blog/articles/z80dasm/"
   url "https://www.tablix.org/~avian/z80dasm/z80dasm-1.1.5.tar.gz"
   sha256 "91ecbfa43e5a9c15665560668fb1a9e3f0455f28a6f7478450bd61ff56d6b96e"

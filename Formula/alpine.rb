@@ -1,5 +1,6 @@
 class Alpine < Formula
   desc "News and email agent"
+  license "Apache-2.0"
   homepage "http://alpine.x10host.com/alpine/release/"
   url "http://alpine.x10host.com/alpine/release/src/alpine-2.22.tar.xz"
   sha256 "849567c1b6f71fde3aaa1c97cf0577b12a525d9e22c0ea47797c4bf1cd2bbfdb"

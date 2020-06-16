@@ -1,5 +1,6 @@
 class Goad < Formula
   desc "AWS Lambda powered, highly distributed, load testing tool built in Go"
+  license "MIT"
   homepage "https://goad.io/"
   url "https://github.com/goadapp/goad.git",
       :tag      => "2.0.4",

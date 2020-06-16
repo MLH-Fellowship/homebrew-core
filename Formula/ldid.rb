@@ -1,5 +1,6 @@
 class Ldid < Formula
   desc "Lets you manipulate the signature block in a Mach-O binary"
+  license "AGPL-3.0"
   homepage "https://cydia.saurik.com/info/ldid/"
   url "https://git.saurik.com/ldid.git",
       :tag      => "v2.1.2",

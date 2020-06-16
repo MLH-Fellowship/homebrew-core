@@ -1,5 +1,6 @@
 class AircrackNg < Formula
   desc "Next-generation aircrack with lots of new features"
+  license "GPL-2.0"
   homepage "https://aircrack-ng.org/"
   url "https://download.aircrack-ng.org/aircrack-ng-1.6.tar.gz"
   sha256 "4f0bfd486efc6ea7229f7fbc54340ff8b2094a0d73e9f617e0a39f878999a247"

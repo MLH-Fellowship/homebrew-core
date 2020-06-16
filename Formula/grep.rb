@@ -1,5 +1,6 @@
 class Grep < Formula
   desc "GNU grep, egrep and fgrep"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/grep/"
   url "https://ftp.gnu.org/gnu/grep/grep-3.4.tar.xz"
   mirror "https://ftpmirror.gnu.org/grep/grep-3.4.tar.xz"

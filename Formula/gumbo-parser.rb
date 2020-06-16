@@ -1,5 +1,6 @@
 class GumboParser < Formula
   desc "C99 library for parsing HTML5"
+  license "Apache-2.0"
   homepage "https://github.com/google/gumbo-parser"
   url "https://github.com/google/gumbo-parser/archive/v0.10.1.tar.gz"
   sha256 "28463053d44a5dfbc4b77bcf49c8cee119338ffa636cc17fc3378421d714efad"

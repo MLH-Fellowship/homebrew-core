@@ -2,6 +2,7 @@ class Instalooter < Formula
   include Language::Python::Virtualenv
 
   desc "Download any picture or video associated from an Instagram profile"
+  license "GPL-3.0"
   homepage "https://github.com/althonos/instalooter"
   url "https://files.pythonhosted.org/packages/0a/61/c16cc9edadd129ab7980e85b20aa7c45de9e6bd077397854a8e02dd3d1c3/instalooter-2.4.2.tar.gz"
   sha256 "6de14955c3fc7ce7365e1d17dc0e41bcc56e3a3026322cf41925e83ab1dfb7b5"

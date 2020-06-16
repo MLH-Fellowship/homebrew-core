@@ -1,5 +1,6 @@
 class Pdsh < Formula
   desc "Efficient rsh-like utility, for using hosts in parallel"
+  license "GPL-2.0"
   homepage "https://github.com/chaos/pdsh"
   url "https://github.com/chaos/pdsh/releases/download/pdsh-2.34/pdsh-2.34.tar.gz"
   sha256 "b47b3e4662736ef44b6fe86e3d380f95e591863e69163aa0592e9f9f618521e9"

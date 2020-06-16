@@ -1,5 +1,6 @@
 class AnycableGo < Formula
   desc "Anycable Go WebSocket Server"
+  license "MIT"
   homepage "https://github.com/anycable/anycable-go"
   url "https://github.com/anycable/anycable-go/archive/v0.6.5.tar.gz"
   sha256 "3112a04db1984151b9e4111a0131b711f6a0a79ccf789fbaf6da1ea9e28608dc"

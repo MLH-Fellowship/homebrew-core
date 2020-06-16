@@ -1,5 +1,6 @@
 class Xmlto < Formula
   desc "Convert XML to another format (based on XSL or other tools)"
+  license "GPL-2.0"
   homepage "https://pagure.io/xmlto/"
   url "https://releases.pagure.org/xmlto/xmlto-0.0.28.tar.bz2"
   sha256 "1130df3a7957eb9f6f0d29e4aa1c75732a7dfb6d639be013859b5c7ec5421276"

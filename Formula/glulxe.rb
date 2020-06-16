@@ -1,5 +1,6 @@
 class Glulxe < Formula
   desc "Portable VM like the Z-machine"
+  license "MIT"
   homepage "https://www.eblong.com/zarf/glulx/"
   url "https://eblong.com/zarf/glulx/glulxe-054.tar.gz"
   version "0.5.4"

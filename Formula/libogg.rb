@@ -1,5 +1,6 @@
 class Libogg < Formula
   desc "Ogg Bitstream Library"
+  license "BSD-3-Clause"
   homepage "https://www.xiph.org/ogg/"
 
   stable do

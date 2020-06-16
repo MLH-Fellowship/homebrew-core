@@ -1,5 +1,6 @@
 class Micropython < Formula
   desc "Python implementation for microcontrollers and constrained systems"
+  license "MIT"
   homepage "https://www.micropython.org/"
   url "https://github.com/micropython/micropython.git",
       :tag      => "v1.12",

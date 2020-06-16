@@ -1,5 +1,6 @@
 class SpirvCross < Formula
   desc "Performing reflection and disassembling SPIR-V"
+  license "Apache-2.0"
   homepage "https://github.com/KhronosGroup/SPIRV-Cross"
   url "https://github.com/KhronosGroup/SPIRV-Cross/archive/2020-05-19.tar.gz"
   version "2020-05-19"

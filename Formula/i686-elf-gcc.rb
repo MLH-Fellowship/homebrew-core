@@ -1,5 +1,6 @@
 class I686ElfGcc < Formula
   desc "The GNU compiler collection for i686-elf"
+  license "GPL-2.0"
   homepage "https://gcc.gnu.org"
   url "https://ftp.gnu.org/gnu/gcc/gcc-9.3.0/gcc-9.3.0.tar.xz"
   mirror "https://ftpmirror.gnu.org/gcc/gcc-9.3.0/gcc-9.3.0.tar.xz"

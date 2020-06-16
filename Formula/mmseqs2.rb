@@ -1,5 +1,6 @@
 class Mmseqs2 < Formula
   desc "Software suite for very fast sequence search and clustering"
+  license "GPL-3.0"
   homepage "https://mmseqs.com/"
   url "https://github.com/soedinglab/MMseqs2/archive/11-e1a1c.tar.gz"
   version "11-e1a1c"

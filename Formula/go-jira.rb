@@ -1,5 +1,6 @@
 class GoJira < Formula
   desc "Simple jira command-line client in Go"
+  license "Apache-2.0"
   homepage "https://github.com/go-jira/jira"
   url "https://github.com/go-jira/jira/archive/v1.0.23.tar.gz"
   sha256 "01c86d3119d050774caa41b89fb4f038026542eb1e362e89f3f89bf330b68354"

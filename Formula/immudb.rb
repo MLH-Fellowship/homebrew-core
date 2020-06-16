@@ -1,5 +1,6 @@
 class Immudb < Formula
   desc "Lightweight, high-speed immutable database"
+  license "Apache-2.0"
   homepage "https://www.codenotary.io"
   url "https://github.com/codenotary/immudb/archive/v0.6.1.tar.gz"
   sha256 "313f09b82f89208705daaf0be16238e1a4f90e590edd038c1719d181ce0ed653"

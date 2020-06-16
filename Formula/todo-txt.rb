@@ -1,5 +1,6 @@
 class TodoTxt < Formula
   desc "Minimal, todo.txt-focused editor"
+  license "GPL-3.0"
   homepage "http://todotxt.org/"
   url "https://github.com/todotxt/todo.txt-cli/releases/download/v2.11.0/todo.txt_cli-2.11.0.tar.gz"
   sha256 "5fe723bea3e3a1e697484cba92b46e90f13150ee1a444c4a9408c2cd28ea5255"

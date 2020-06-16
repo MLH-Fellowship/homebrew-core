@@ -1,5 +1,6 @@
 class Mailutils < Formula
   desc "Swiss Army knife of email handling"
+  license "GPL-3.0"
   homepage "https://mailutils.org/"
   url "https://ftp.gnu.org/gnu/mailutils/mailutils-3.9.tar.gz"
   mirror "https://ftpmirror.gnu.org/mailutils/mailutils-3.9.tar.gz"

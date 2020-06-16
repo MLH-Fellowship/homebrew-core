@@ -2,6 +2,7 @@ class Gitfs < Formula
   include Language::Python::Virtualenv
 
   desc "Version controlled file system"
+  license "Apache-2.0"
   homepage "https://www.presslabs.com/gitfs"
   url "https://github.com/presslabs/gitfs/archive/0.5.2.tar.gz"
   sha256 "921e24311e3b8ea3a5448d698a11a747618ee8dd62d5d43a85801de0b111cbf3"

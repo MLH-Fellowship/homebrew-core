@@ -1,5 +1,6 @@
 class ForkCleaner < Formula
   desc "Cleans up old and inactive forks on your GitHub account"
+  license "MIT"
   homepage "https://github.com/caarlos0/fork-cleaner"
   url "https://github.com/caarlos0/fork-cleaner/archive/v1.6.1.tar.gz"
   sha256 "db5e41b6d5ecfd5a7dc14a2881d41521ce939cbd749e84882c2d7325c17fe886"

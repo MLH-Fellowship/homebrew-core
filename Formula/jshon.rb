@@ -1,5 +1,6 @@
 class Jshon < Formula
   desc "Parse, read, and create JSON from the shell"
+  license "MIT"
   homepage "http://kmkeen.com/jshon/"
   url "https://github.com/keenerd/jshon/archive/20131105.tar.gz"
   sha256 "28420f6f02c6b762732898692cc0b0795cfe1a59fbfb24e67b80f332cf6d4fa2"

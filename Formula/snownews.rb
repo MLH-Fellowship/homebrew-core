@@ -1,5 +1,6 @@
 class Snownews < Formula
   desc "Text mode RSS newsreader"
+  license "GPL-3.0"
   homepage "https://github.com/kouya/snownews"
   url "https://github.com/kouya/snownews/archive/1.6.10.tar.gz"
   sha256 "8c78067aef75e283df4b3cca1c966587b6654e9e84a3e6e5eb8bdd5829799242"

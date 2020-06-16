@@ -1,5 +1,6 @@
 class Helib < Formula
   desc "Implementation of homomorphic encryption"
+  license "Apache-2.0"
   homepage "https://github.com/homenc/HElib"
   url "https://github.com/homenc/HElib/archive/v1.0.1.tar.gz"
   sha256 "428b61075cfe313071bb59ccd07736dae07244a065c2001662c9c3d3988ab349"

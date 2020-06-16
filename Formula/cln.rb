@@ -1,5 +1,6 @@
 class Cln < Formula
   desc "Class Library for Numbers"
+  license "GPL-2.0"
   homepage "https://www.ginac.de/CLN/"
   url "https://www.ginac.de/CLN/cln-1.3.6.tar.bz2"
   sha256 "f492530e8879bda529009b6033e1923c8f4aae843149fc28c667c20b094d984a"

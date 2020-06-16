@@ -1,5 +1,6 @@
 class Rubyfmt < Formula
   desc "Ruby autoformatter"
+  license "MIT"
   homepage "https://github.com/penelopezone/rubyfmt"
   url "https://github.com/penelopezone/rubyfmt/archive/v0.2.0.tar.gz"
   sha256 "68ebc0fd30933b1e27b609cc34c69a3bc886747d11c5b949e460ce01814adaeb"

@@ -1,5 +1,6 @@
 class Urlview < Formula
   desc "URL extractor/launcher"
+  license "GPL-2.0"
   homepage "https://packages.debian.org/sid/misc/urlview"
   url "https://deb.debian.org/debian/pool/main/u/urlview/urlview_0.9.orig.tar.gz"
   version "0.9-20"

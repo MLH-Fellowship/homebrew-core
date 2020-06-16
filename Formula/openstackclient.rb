@@ -2,6 +2,7 @@ class Openstackclient < Formula
   include Language::Python::Virtualenv
 
   desc "OpenStack Client"
+  license "Apache-2.0"
   homepage "https://openstack.org"
   url "https://files.pythonhosted.org/packages/9b/09/c45ba3f9436f5b26691a4b1a309c959903bda6d8a5be04eec14f32db451a/python-openstackclient-5.2.0.tar.gz"
   sha256 "0a36aea3596c201593c4b1f54e6bfd57d1bd2920b124a5751df8d05d80498d6a"

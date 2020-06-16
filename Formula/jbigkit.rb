@@ -1,5 +1,6 @@
 class Jbigkit < Formula
   desc "JBIG1 data compression standard implementation"
+  license "GPL-2.0"
   homepage "https://www.cl.cam.ac.uk/~mgk25/jbigkit/"
   url "https://www.cl.cam.ac.uk/~mgk25/jbigkit/download/jbigkit-2.1.tar.gz"
   mirror "https://deb.debian.org/debian/pool/main/j/jbigkit/jbigkit_2.1.orig.tar.gz"

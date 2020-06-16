@@ -1,5 +1,6 @@
 class Hello < Formula
   desc "Program providing model for GNU coding standards and practices"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/hello/"
   url "https://ftp.gnu.org/gnu/hello/hello-2.10.tar.gz"
   sha256 "31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b"

@@ -2,6 +2,7 @@ class Conan < Formula
   include Language::Python::Virtualenv
 
   desc "Distributed, open source, package manager for C/C++"
+  license "MIT"
   homepage "https://github.com/conan-io/conan"
   url "https://github.com/conan-io/conan/archive/1.26.0.tar.gz"
   sha256 "935f3cb5ed03447c735d6597ee4da91d7ec13ba6a90f27b51e5d3cf441fd8cbb"

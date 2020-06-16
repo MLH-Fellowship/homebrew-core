@@ -1,5 +1,6 @@
 class C14Cli < Formula
   desc "Manage your Online C14 archives from the command-line"
+  license "MIT"
   homepage "https://github.com/scaleway/c14-cli"
   url "https://github.com/scaleway/c14-cli/archive/v0.5.0.tar.gz"
   sha256 "b93960ee3ba516a91df9f81cf9b258858f8b5da6238d44a339966a5636643cb2"

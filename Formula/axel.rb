@@ -1,5 +1,6 @@
 class Axel < Formula
   desc "Light UNIX download accelerator"
+  license "GPL-2.0"
   homepage "https://github.com/eribertomota/axel"
   url "https://github.com/axel-download-accelerator/axel/releases/download/v2.17.9/axel-2.17.9.tar.xz"
   sha256 "f1364d9b55d435efc6d32218097a50a63be7b1300138e698133cf19ad3aa3a54"

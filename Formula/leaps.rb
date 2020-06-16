@@ -1,5 +1,6 @@
 class Leaps < Formula
   desc "Collaborative web-based text editing service written in Golang"
+  license "MIT"
   homepage "https://github.com/jeffail/leaps"
   url "https://github.com/Jeffail/leaps.git",
       :tag      => "v0.9.0",

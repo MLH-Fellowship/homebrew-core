@@ -1,5 +1,6 @@
 class Le < Formula
   desc "Text editor with block and binary operations"
+  license "GPL-3.0"
   homepage "https://github.com/lavv17/le"
   url "https://github.com/lavv17/le/releases/download/v1.16.7/le-1.16.7.tar.gz"
   sha256 "1cbe081eba31e693363c9b8a8464af107e4babfd2354a09a17dc315b3605af41"

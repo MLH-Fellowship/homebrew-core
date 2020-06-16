@@ -1,5 +1,6 @@
 class Csound < Formula
   desc "Sound and music computing system"
+  license "LGPL-2.1"
   homepage "https://csound.com"
   url "https://github.com/csound/csound.git",
     :tag      => "6.14.0",

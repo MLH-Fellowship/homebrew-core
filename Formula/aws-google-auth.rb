@@ -2,6 +2,7 @@ class AwsGoogleAuth < Formula
   include Language::Python::Virtualenv
 
   desc "Acquire AWS credentials using Google Apps"
+  license "MIT"
   homepage "https://github.com/cevoaustralia/aws-google-auth"
   url "https://github.com/cevoaustralia/aws-google-auth/archive/0.0.36.tar.gz"
   sha256 "c880633b2813b3fd2312fd1301a8927ebc7b13c3405932bd0ec760cecfb7c780"

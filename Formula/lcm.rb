@@ -1,5 +1,6 @@
 class Lcm < Formula
   desc "Libraries and tools for message passing and data marshalling"
+  license "LGPL-2.1"
   homepage "https://lcm-proj.github.io/"
   url "https://github.com/lcm-proj/lcm/releases/download/v1.4.0/lcm-1.4.0.zip"
   sha256 "e249d7be0b8da35df8931899c4a332231aedaeb43238741ae66dc9baf4c3d186"

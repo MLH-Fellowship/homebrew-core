@@ -2,6 +2,7 @@ class Snapcraft < Formula
   include Language::Python::Virtualenv
 
   desc "Package any app for every Linux desktop, server, cloud or device"
+  license "GPL-3.0"
   homepage "https://snapcraft.io/"
   url "https://github.com/snapcore/snapcraft/archive/3.11.tar.gz"
   sha256 "aa99eb6bf585eb8fa3b1bf8bf67ec6e5df3e0c045b9c6dab03f2a660634e0311"

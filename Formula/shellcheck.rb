@@ -1,5 +1,6 @@
 class Shellcheck < Formula
   desc "Static analysis and lint tool, for (ba)sh scripts"
+  license "GPL-3.0"
   homepage "https://www.shellcheck.net/"
   url "https://github.com/koalaman/shellcheck/archive/v0.7.1.tar.gz"
   sha256 "50a219bde5c16fc0a40e2e3725b6c192ff589bc8a2569c32b62dcaece0495896"

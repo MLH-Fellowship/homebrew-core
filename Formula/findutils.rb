@@ -1,5 +1,6 @@
 class Findutils < Formula
   desc "Collection of GNU find, xargs, and locate"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/findutils/"
   url "https://ftp.gnu.org/gnu/findutils/findutils-4.7.0.tar.xz"
   mirror "https://ftpmirror.gnu.org/findutils/findutils-4.7.0.tar.xz"

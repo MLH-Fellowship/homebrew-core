@@ -1,5 +1,6 @@
 class Qdbm < Formula
   desc "Library of routines for managing a database"
+  license "LGPL-2.1"
   homepage "https://fallabs.com/qdbm/"
   url "https://fallabs.com/qdbm/qdbm-1.8.78.tar.gz"
   sha256 "b466fe730d751e4bfc5900d1f37b0fb955f2826ac456e70012785e012cdcb73e"

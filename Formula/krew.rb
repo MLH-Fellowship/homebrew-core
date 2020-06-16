@@ -1,5 +1,6 @@
 class Krew < Formula
   desc "Package manager for kubectl plugins"
+  license "Apache-2.0"
   homepage "https://sigs.k8s.io/krew/"
   url "https://github.com/kubernetes-sigs/krew.git",
       :tag      => "v0.3.4",

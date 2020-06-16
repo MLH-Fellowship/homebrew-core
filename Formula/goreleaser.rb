@@ -1,5 +1,6 @@
 class Goreleaser < Formula
   desc "Deliver Go binaries as fast and easily as possible"
+  license "MIT"
   homepage "https://goreleaser.com/"
   url "https://github.com/goreleaser/goreleaser.git",
       :tag      => "v0.138.0",

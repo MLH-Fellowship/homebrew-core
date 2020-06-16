@@ -1,5 +1,6 @@
 class Binutils < Formula
   desc "GNU binary tools for native development"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/binutils/binutils.html"
   url "https://ftp.gnu.org/gnu/binutils/binutils-2.34.tar.xz"
   mirror "https://ftpmirror.gnu.org/binutils/binutils-2.34.tar.xz"

@@ -1,5 +1,6 @@
 class Logtalk < Formula
   desc "Declarative object-oriented logic programming language"
+  license "Apache-2.0"
   homepage "https://logtalk.org/"
   url "https://github.com/LogtalkDotOrg/logtalk3/archive/lgt3380stable.tar.gz"
   version "3.38.0"

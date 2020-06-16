@@ -1,5 +1,6 @@
 class Grsync < Formula
   desc "GUI for rsync"
+  license "GPL-2.0"
   homepage "https://www.opbyte.it/grsync/"
   url "https://downloads.sourceforge.net/project/grsync/grsync-1.2.8.tar.gz"
   sha256 "94ea5faca67e3df467b5283377af3cb32b2b47631b6a32d38bc7b371209306b1"

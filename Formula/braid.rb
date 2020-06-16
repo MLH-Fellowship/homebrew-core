@@ -1,5 +1,6 @@
 class Braid < Formula
   desc "Simple tool to help track vendor branches in a Git repository"
+  license "MIT"
   homepage "https://cristibalan.github.io/braid/"
   url "https://github.com/cristibalan/braid.git",
       :tag      => "v1.1.3",

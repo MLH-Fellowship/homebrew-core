@@ -1,5 +1,6 @@
 class Dvorak7min < Formula
   desc "Dvorak (simplified keyboard layout) typing tutor"
+  license "GPL-2.0"
   homepage "https://web.archive.org/web/dvorak7min.sourcearchive.com/"
   url "https://deb.debian.org/debian/pool/main/d/dvorak7min/dvorak7min_1.6.1+repack.orig.tar.gz"
   version "1.6.1"

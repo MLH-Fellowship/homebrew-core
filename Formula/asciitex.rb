@@ -1,5 +1,6 @@
 class Asciitex < Formula
   desc "Generate ASCII-art representations of mathematical equations"
+  license "GPL-2.0"
   homepage "https://asciitex.sourceforge.io"
   url "https://downloads.sourceforge.net/project/asciitex/asciiTeX-0.21.tar.gz"
   sha256 "abf964818833d8b256815eb107fb0de391d808fe131040fb13005988ff92a48d"

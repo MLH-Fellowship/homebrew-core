@@ -1,5 +1,6 @@
 class T1lib < Formula
   desc "C library to generate/rasterize bitmaps from Type 1 fonts"
+  license "GPL-2.0"
   homepage "https://www.t1lib.org/"
   url "https://www.ibiblio.org/pub/linux/libs/graphics/t1lib-5.1.2.tar.gz"
   mirror "https://fossies.org/linux/misc/old/t1lib-5.1.2.tar.gz"

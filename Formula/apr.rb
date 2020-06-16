@@ -1,5 +1,6 @@
 class Apr < Formula
   desc "Apache Portable Runtime library"
+  license "Apache-2.0"
   homepage "https://apr.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=apr/apr-1.7.0.tar.bz2"
   mirror "https://archive.apache.org/dist/apr/apr-1.7.0.tar.bz2"

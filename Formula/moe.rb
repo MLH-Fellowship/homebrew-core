@@ -1,5 +1,6 @@
 class Moe < Formula
   desc "Console text editor for ISO-8859 and ASCII"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/moe/moe.html"
   url "https://ftp.gnu.org/gnu/moe/moe-1.10.tar.lz"
   mirror "https://ftpmirror.gnu.org/moe/moe-1.10.tar.lz"

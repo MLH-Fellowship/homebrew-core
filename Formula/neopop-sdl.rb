@@ -1,5 +1,6 @@
 class NeopopSdl < Formula
   desc "NeoGeo Pocket emulator"
+  license "GPL-2.0"
   homepage "https://nih.at/NeoPop-SDL/"
   url "https://nih.at/NeoPop-SDL/NeoPop-SDL-0.2.tar.bz2"
   sha256 "2df1b717faab9e7cb597fab834dc80910280d8abf913aa8b0dcfae90f472352e"

@@ -1,5 +1,6 @@
 class Rp < Formula
   desc "Tool to find ROP sequences in PE/Elf/Mach-O x86/x64 binaries"
+  license "GPL-3.0"
   homepage "https://0vercl0k.github.io/rp/"
   url "https://github.com/0vercl0k/rp/archive/v1.tar.gz"
   version "1.0"

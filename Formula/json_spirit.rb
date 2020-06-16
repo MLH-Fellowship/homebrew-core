@@ -1,5 +1,6 @@
 class JsonSpirit < Formula
   desc "C++ JSON parser/generator"
+  license "MIT"
   homepage "https://www.codeproject.com/Articles/20027/JSON-Spirit-A-C-JSON-Parser-Generator-Implemented"
   url "https://github.com/png85/json_spirit/archive/json_spirit-4.0.8.tar.gz"
   # Current release is misnamed on GitHub, previous versioning scheme and homepage

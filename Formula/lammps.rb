@@ -1,5 +1,6 @@
 class Lammps < Formula
   desc "Molecular Dynamics Simulator"
+  license "GPL-2.0"
   homepage "https://lammps.sandia.gov/"
   url "https://github.com/lammps/lammps/archive/stable_3Mar2020.tar.gz"
   # lammps releases are named after their release date. We transform it to

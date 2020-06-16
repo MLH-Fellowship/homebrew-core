@@ -2,6 +2,7 @@ class Jc < Formula
   include Language::Python::Virtualenv
 
   desc "Serializes the output of command-line tools to structured JSON output"
+  license "MIT"
   homepage "https://github.com/kellyjonbrazil/jc"
   url "https://files.pythonhosted.org/packages/8e/02/b338c2628676957da938aa5e62c5b085bca31ad2723c8c1f80b47cf85593/jc-1.11.6.tar.gz"
   sha256 "5672cc73e8037feda0621cbc41557a241e1272d6f21650251e9080d9fd43aaa0"

@@ -1,5 +1,6 @@
 class Fargatecli < Formula
   desc "CLI for AWS Fargate"
+  license "Apache-2.0"
   homepage "https://github.com/awslabs/fargatecli"
   url "https://github.com/awslabs/fargatecli/archive/0.3.2.tar.gz"
   sha256 "f457745c74859c3ab19abc0695530fde97c1932b47458706c835b3ff79c6eba8"

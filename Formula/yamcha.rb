@@ -1,5 +1,6 @@
 class Yamcha < Formula
   desc "NLP text chunker using Support Vector Machines"
+  license "LGPL-2.1"
   homepage "http://chasen.org/~taku/software/yamcha/"
   url "http://chasen.org/~taku/software/yamcha/src/yamcha-0.33.tar.gz"
   sha256 "413d4fc0a4c13895f5eb1468e15c9d2828151882f27aea4daf2399c876be27d5"

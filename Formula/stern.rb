@@ -1,5 +1,6 @@
 class Stern < Formula
   desc "Tail multiple Kubernetes pods & their containers"
+  license "Apache-2.0"
   homepage "https://github.com/wercker/stern"
   url "https://github.com/wercker/stern/archive/1.11.0.tar.gz"
   sha256 "d6f47d3a6f47680d3e4afebc8b01a14f0affcd8fb625132af14bb77843f0333f"

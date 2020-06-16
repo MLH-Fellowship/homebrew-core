@@ -4,6 +4,7 @@ class Bench < Formula
   include Language::Haskell::Cabal
 
   desc "Command-line benchmark tool"
+  license "BSD-3-Clause"
   homepage "https://github.com/Gabriel439/bench"
   url "https://hackage.haskell.org/package/bench-1.0.12/bench-1.0.12.tar.gz"
   sha256 "a6376f4741588201ab6e5195efb1e9921bc0a899f77a5d9ac84a5db32f3ec9eb"

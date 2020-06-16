@@ -1,5 +1,6 @@
 class Gssh < Formula
   desc "SSH automation tool based on Groovy DSL"
+  license "Apache-2.0"
   homepage "https://github.com/int128/groovy-ssh"
   url "https://github.com/int128/groovy-ssh/archive/2.10.1.tar.gz"
   sha256 "d1a6e2293e4f23f3245ede7d473a08d4fb6019bf18efbef1a74c894d5c50d6a1"

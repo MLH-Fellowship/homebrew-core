@@ -1,5 +1,6 @@
 class ArpScan < Formula
   desc "ARP scanning and fingerprinting tool"
+  license "GPL-3.0"
   homepage "https://github.com/royhills/arp-scan"
   url "https://github.com/royhills/arp-scan/archive/1.9.7.tar.gz"
   sha256 "e03c36e4933c655bd0e4a841272554a347cd0136faf42c4a6564059e0761c039"

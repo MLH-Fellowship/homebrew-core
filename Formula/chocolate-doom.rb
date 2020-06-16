@@ -1,5 +1,6 @@
 class ChocolateDoom < Formula
   desc "Accurate source port of Doom"
+  license "GPL-2.0"
   homepage "https://www.chocolate-doom.org/"
   url "https://www.chocolate-doom.org/downloads/3.0.0/chocolate-doom-3.0.0.tar.gz"
   sha256 "73aea623930c7d18a7a778eea391e1ddfbe90ad1ac40a91b380afca4b0e1dab8"

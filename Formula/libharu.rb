@@ -1,5 +1,6 @@
 class Libharu < Formula
   desc "Library for generating PDF files"
+  license "Zlib"
   homepage "https://github.com/libharu/libharu"
   url "https://github.com/libharu/libharu/archive/RELEASE_2_3_0.tar.gz"
   sha256 "8f9e68cc5d5f7d53d1bc61a1ed876add1faf4f91070dbc360d8b259f46d9a4d2"

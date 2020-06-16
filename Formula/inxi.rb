@@ -1,5 +1,6 @@
 class Inxi < Formula
   desc "Full featured CLI system information tool"
+  license "GPL-3.0"
   homepage "https://smxi.org/docs/inxi.htm"
   url "https://github.com/smxi/inxi/archive/3.1.03-1.tar.gz"
   version "3.1.03"

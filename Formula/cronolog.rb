@@ -1,5 +1,6 @@
 class Cronolog < Formula
   desc "Web log rotation"
+  license "GPL-2.0"
   homepage "https://web.archive.org/web/20140209202032/cronolog.org/"
   url "https://www.mirrorservice.org/sites/distfiles.macports.org/cronolog/cronolog-1.6.2.tar.gz"
   mirror "https://fossies.org/linux/www/old/cronolog-1.6.2.tar.gz"

@@ -1,5 +1,6 @@
 class Gsl < Formula
   desc "Numerical library for C and C++"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gsl/"
   url "https://ftp.gnu.org/gnu/gsl/gsl-2.6.tar.gz"
   mirror "https://ftpmirror.gnu.org/gsl/gsl-2.6.tar.gz"

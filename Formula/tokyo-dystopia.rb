@@ -1,5 +1,6 @@
 class TokyoDystopia < Formula
   desc "Lightweight full-text search system"
+  license "LGPL-2.1"
   homepage "https://fallabs.com/tokyodystopia/"
   url "https://fallabs.com/tokyodystopia/tokyodystopia-0.9.15.tar.gz"
   sha256 "28b43c592a127d1c9168eac98f680aa49d1137b4c14b8d078389bbad1a81830a"

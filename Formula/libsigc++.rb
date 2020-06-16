@@ -1,5 +1,6 @@
 class Libsigcxx < Formula
   desc "Callback framework for C++"
+  license "LGPL-3.0"
   homepage "https://libsigcplusplus.github.io/libsigcplusplus/"
   url "https://download.gnome.org/sources/libsigc++/3.0/libsigc++-3.0.3.tar.xz"
   sha256 "e4f4866a894bdbe053e4fb22ccc6bc4b6851fd31a4746fdd20b2cf6e87c6edb6"

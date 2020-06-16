@@ -1,5 +1,6 @@
 class TerraformDocs < Formula
   desc "Tool to generate documentation from Terraform modules"
+  license "MIT"
   homepage "https://github.com/segmentio/terraform-docs"
   url "https://github.com/segmentio/terraform-docs/archive/v0.9.1.tar.gz"
   sha256 "2af0da7256dc73cb67787f81237bd44859ea959d63c9d974b572ed71755cb148"

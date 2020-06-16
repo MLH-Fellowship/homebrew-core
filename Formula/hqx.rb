@@ -1,5 +1,6 @@
 class Hqx < Formula
   desc "Magnification filter designed for pixel art"
+  license "LGPL-2.1"
   homepage "https://github.com/grom358/hqx"
   url "https://github.com/grom358/hqx.git",
       :tag      => "v1.2",

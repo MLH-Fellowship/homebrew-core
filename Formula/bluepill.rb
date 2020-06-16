@@ -1,5 +1,6 @@
 class Bluepill < Formula
   desc "Testing tool for iOS that runs UI tests using multiple simulators"
+  license "BSD-2-Clause"
   homepage "https://github.com/linkedin/bluepill"
   url "https://github.com/linkedin/bluepill.git",
     :tag      => "v5.2.4.1",

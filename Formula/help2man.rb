@@ -1,5 +1,6 @@
 class Help2man < Formula
   desc "Automatically generate simple man pages"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/help2man/"
   url "https://ftp.gnu.org/gnu/help2man/help2man-1.47.15.tar.xz"
   mirror "https://ftpmirror.gnu.org/help2man/help2man-1.47.15.tar.xz"

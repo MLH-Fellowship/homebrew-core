@@ -4,6 +4,7 @@ class Texmath < Formula
   include Language::Haskell::Cabal
 
   desc "Haskell library for converting LaTeX math to MathML"
+  license "GPL-2.0"
   homepage "https://johnmacfarlane.net/texmath.html"
   url "https://hackage.haskell.org/package/texmath-0.12.0.2/texmath-0.12.0.2.tar.gz"
   sha256 "2fec285a2266e56bba17914c122045f31b38de3efcd202dcf32a4f8b830bd184"

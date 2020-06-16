@@ -1,5 +1,6 @@
 class Lcrack < Formula
   desc "Generic password cracker"
+  license "GPL-2.0"
   homepage "https://packages.debian.org/sid/lcrack"
   url "https://deb.debian.org/debian/pool/main/l/lcrack/lcrack_20040914.orig.tar.gz"
   version "20040914"

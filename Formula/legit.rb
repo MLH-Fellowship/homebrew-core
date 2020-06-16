@@ -2,6 +2,7 @@ class Legit < Formula
   include Language::Python::Virtualenv
 
   desc "Command-line interface for Git, optimized for workflow simplicity"
+  license "BSD-3-Clause"
   homepage "https://frostming.github.io/legit/"
   url "https://files.pythonhosted.org/packages/cb/e4/8cc5904c486241bf2edc4dd84f357fa96686dc85f48eedb835af65f821bf/legit-1.2.0.post0.tar.gz"
   version "1.2.0.post0"

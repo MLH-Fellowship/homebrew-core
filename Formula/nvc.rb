@@ -1,5 +1,6 @@
 class Nvc < Formula
   desc "VHDL compiler and simulator"
+  license "GPL-3.0"
   homepage "https://github.com/nickg/nvc"
   revision 1
 

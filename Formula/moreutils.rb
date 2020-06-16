@@ -1,5 +1,6 @@
 class Moreutils < Formula
   desc "Collection of tools that nobody wrote when UNIX was young"
+  license "GPL-2.0"
   homepage "https://joeyh.name/code/moreutils/"
   url "https://git.joeyh.name/git/moreutils.git",
       :tag      => "0.63",

@@ -1,5 +1,6 @@
 class Truecrack < Formula
   desc "Brute-force password cracker for TrueCrypt"
+  license "GPL-3.0"
   homepage "https://github.com/lvaccaro/truecrack"
   url "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/truecrack/truecrack_v35.tar.gz"
   version "3.5"

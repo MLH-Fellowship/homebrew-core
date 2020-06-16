@@ -1,5 +1,6 @@
 class GoStatik < Formula
   desc "Embed files into a Go executable"
+  license "Apache-2.0"
   homepage "https://github.com/rakyll/statik"
   url "https://github.com/rakyll/statik/archive/v0.1.7.tar.gz"
   sha256 "cd05f409e63674f29cff0e496bd33eee70229985243cce486107085fab747082"

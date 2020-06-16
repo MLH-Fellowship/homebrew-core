@@ -1,5 +1,6 @@
 class Swiftlint < Formula
   desc "Tool to enforce Swift style and conventions"
+  license "MIT"
   homepage "https://github.com/realm/SwiftLint"
   url "https://github.com/realm/SwiftLint.git",
       :tag      => "0.39.2",

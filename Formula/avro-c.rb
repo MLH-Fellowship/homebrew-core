@@ -1,5 +1,6 @@
 class AvroC < Formula
   desc "Data serialization system"
+  license "Apache-2.0"
   homepage "https://avro.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=avro/avro-1.9.2/c/avro-c-1.9.2.tar.gz"
   mirror "https://archive.apache.org/dist/avro/avro-1.9.2/c/avro-c-1.9.2.tar.gz"

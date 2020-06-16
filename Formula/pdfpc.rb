@@ -1,5 +1,6 @@
 class Pdfpc < Formula
   desc "Presenter console with multi-monitor support for PDF files"
+  license "GPL-2.0"
   homepage "https://pdfpc.github.io/"
   url "https://github.com/pdfpc/pdfpc/archive/v4.4.0.tar.gz"
   sha256 "5fc457b081cdf02708436bb708940fd6b689e03fc336d3faab652f0b85592c00"

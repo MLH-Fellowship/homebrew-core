@@ -1,5 +1,6 @@
 class GitBug < Formula
   desc "Distributed, offline-first bug tracker embedded in git, with bridges"
+  license "GPL-3.0"
   homepage "https://github.com/MichaelMure/git-bug"
   url "https://github.com/MichaelMure/git-bug.git",
     :tag      => "0.7.1",

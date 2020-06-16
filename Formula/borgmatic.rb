@@ -2,6 +2,7 @@ class Borgmatic < Formula
   include Language::Python::Virtualenv
 
   desc "Simple wrapper script for the Borg backup software"
+  license "GPL-3.0"
   homepage "https://torsion.org/borgmatic/"
   url "https://github.com/witten/borgmatic/archive/1.5.6.tar.gz"
   sha256 "ecef1e6206986914db69b2f4b63dc108a307ec993d3a4784d32f5435cc089378"

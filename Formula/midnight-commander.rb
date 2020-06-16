@@ -1,5 +1,6 @@
 class MidnightCommander < Formula
   desc "Terminal-based visual file manager"
+  license "GPL-3.0"
   homepage "https://www.midnight-commander.org/"
   url "https://www.midnight-commander.org/downloads/mc-4.8.24.tar.xz"
   sha256 "859f1cc070450bf6eb4d319ffcb6a5ac29deb0ac0d81559fb2e71242b1176d46"

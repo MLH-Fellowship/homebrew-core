@@ -1,5 +1,6 @@
 class Ghq < Formula
   desc "Remote repository management made easy"
+  license "MIT"
   homepage "https://github.com/x-motemen/ghq"
   url "https://github.com/x-motemen/ghq.git",
       :tag      => "v1.1.1",

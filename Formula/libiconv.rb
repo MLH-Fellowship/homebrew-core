@@ -1,5 +1,6 @@
 class Libiconv < Formula
   desc "Conversion library"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/libiconv/"
   url "https://ftp.gnu.org/gnu/libiconv/libiconv-1.16.tar.gz"
   mirror "https://ftpmirror.gnu.org/libiconv/libiconv-1.16.tar.gz"

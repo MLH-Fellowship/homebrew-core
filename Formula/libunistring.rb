@@ -1,5 +1,6 @@
 class Libunistring < Formula
   desc "C string library for manipulating Unicode strings"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/libunistring/"
   url "https://ftp.gnu.org/gnu/libunistring/libunistring-0.9.10.tar.xz"
   mirror "https://ftpmirror.gnu.org/libunistring/libunistring-0.9.10.tar.xz"

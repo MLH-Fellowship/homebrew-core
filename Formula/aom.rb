@@ -1,5 +1,6 @@
 class Aom < Formula
   desc "Codec library for encoding and decoding AV1 video streams"
+  license "BSD-2-Clause"
   homepage "https://aomedia.googlesource.com/aom"
   url "https://aomedia.googlesource.com/aom.git",
       :tag      => "v2.0.0",

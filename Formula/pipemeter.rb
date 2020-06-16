@@ -1,5 +1,6 @@
 class Pipemeter < Formula
   desc "Shows speed of data moving from input to output"
+  license "GPL-2.0"
   homepage "https://launchpad.net/pipemeter"
   url "https://launchpad.net/pipemeter/trunk/1.1.3/+download/pipemeter-1.1.3.tar.gz"
   sha256 "1ff952cb2127476ca9879f4b28fb92d6dabb0cc02db41f657025f7782fd50aaf"

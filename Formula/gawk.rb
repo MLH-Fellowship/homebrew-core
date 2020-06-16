@@ -1,5 +1,6 @@
 class Gawk < Formula
   desc "GNU awk utility"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gawk/"
   url "https://ftp.gnu.org/gnu/gawk/gawk-5.1.0.tar.xz"
   mirror "https://ftpmirror.gnu.org/gawk/gawk-5.1.0.tar.xz"

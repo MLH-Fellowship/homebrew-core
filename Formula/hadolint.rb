@@ -4,6 +4,7 @@ class Hadolint < Formula
   include Language::Haskell::Cabal
 
   desc "Smarter Dockerfile linter to validate best practices"
+  license "GPL-3.0"
   homepage "https://github.com/hadolint/hadolint"
   url "https://github.com/hadolint/hadolint/archive/v1.18.0.tar.gz"
   sha256 "0ebe67e543226721c3802dd56db0355575accf50f10c09fe188bbb604aa8c193"

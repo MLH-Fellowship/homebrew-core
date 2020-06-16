@@ -2,6 +2,7 @@ class DockerCompose < Formula
   include Language::Python::Virtualenv
 
   desc "Isolated development environments using Docker"
+  license "Apache-2.0"
   homepage "https://docs.docker.com/compose/"
   url "https://github.com/docker/compose/archive/1.26.0.tar.gz"
   sha256 "481cd772e3d0592bfc3f076f4a5af11a7c00eda45e2cb61208b1c66b1650d25b"

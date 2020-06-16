@@ -1,5 +1,6 @@
 class GnuWhich < Formula
   desc "GNU implementation of which utility"
+  license "GPL-3.0"
   # Previous homepage is dead. Have linked to the GNU Projects page for now.
   homepage "https://savannah.gnu.org/projects/which/"
   url "https://ftp.gnu.org/gnu/which/which-2.21.tar.gz"

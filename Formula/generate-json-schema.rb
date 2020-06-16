@@ -2,6 +2,7 @@ require "language/node"
 
 class GenerateJsonSchema < Formula
   desc "Generate a JSON Schema from Sample JSON"
+  license "MIT"
   homepage "https://github.com/Nijikokun/generate-schema"
   url "https://registry.npmjs.org/generate-schema/-/generate-schema-2.6.0.tgz"
   sha256 "1ddbf91aab2d649108308d1de7af782d9270a086919edb706f48d0216d51374a"

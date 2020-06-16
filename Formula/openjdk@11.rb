@@ -1,5 +1,6 @@
 class OpenjdkAT11 < Formula
   desc "Development kit for the Java programming language"
+  license "GPL-2.0"
   homepage "https://openjdk.java.net/"
   url "https://hg.openjdk.java.net/jdk-updates/jdk11u/archive/jdk-11.0.7+10.tar.bz2"
   version "11.0.7+10"

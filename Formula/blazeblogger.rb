@@ -1,5 +1,6 @@
 class Blazeblogger < Formula
   desc "CMS for the command-line"
+  license "GPL-3.0"
   homepage "http://blaze.blackened.cz/"
   url "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/blazeblogger/blazeblogger-1.2.0.tar.gz"
   sha256 "39024b70708be6073e8aeb3943eb3b73d441fbb7b8113e145c0cf7540c4921aa"

@@ -1,5 +1,6 @@
 class Xshogi < Formula
   desc "X11 interface for GNU Shogi"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gnushogi/"
   url "https://ftp.gnu.org/gnu/gnushogi/xshogi-1.4.2.tar.gz"
   mirror "https://ftpmirror.gnu.org/gnushogi/xshogi-1.4.2.tar.gz"

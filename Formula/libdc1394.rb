@@ -1,5 +1,6 @@
 class Libdc1394 < Formula
   desc "Provides API for IEEE 1394 cameras"
+  license "LGPL-2.1"
   homepage "https://damien.douxchamps.net/ieee1394/libdc1394/"
 
   stable do

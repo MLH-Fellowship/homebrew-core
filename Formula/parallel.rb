@@ -1,5 +1,6 @@
 class Parallel < Formula
   desc "Shell command parallelization utility"
+  license "GPL-3.0"
   homepage "https://savannah.gnu.org/projects/parallel/"
   url "https://ftp.gnu.org/gnu/parallel/parallel-20200522.tar.bz2"
   mirror "https://ftpmirror.gnu.org/parallel/parallel-20200522.tar.bz2"

@@ -1,5 +1,6 @@
 class Inlets < Formula
   desc "Expose your local endpoints to the Internet"
+  license "MIT"
   homepage "https://github.com/inlets/inlets"
   url "https://github.com/inlets/inlets.git",
       :tag      => "2.7.3",

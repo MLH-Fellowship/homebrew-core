@@ -2,6 +2,7 @@ require "language/go"
 
 class Teleconsole < Formula
   desc "Free service to share your terminal session with people you trust"
+  license "Apache-2.0"
   homepage "https://www.teleconsole.com"
   url "https://github.com/gravitational/teleconsole/archive/0.4.0.tar.gz"
   sha256 "ba0a231c5501995e2b948c387360eb84e3a44fe2af6540b6439fc58637b0efa4"

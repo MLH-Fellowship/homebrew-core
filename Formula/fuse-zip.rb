@@ -1,5 +1,6 @@
 class FuseZip < Formula
   desc "FUSE file system to create & manipulate ZIP archives"
+  license "GPL-3.0"
   homepage "https://bitbucket.org/agalanin/fuse-zip"
   url "https://bitbucket.org/agalanin/fuse-zip/downloads/fuse-zip-0.7.0.tar.gz"
   sha256 "47306bab2b8b0db8ca6fac01833ccfb4394ddae1943ab2e7020b1bdbb210410b"

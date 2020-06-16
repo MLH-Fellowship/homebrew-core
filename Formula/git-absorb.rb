@@ -1,5 +1,6 @@
 class GitAbsorb < Formula
   desc "Automatic git commit --fixup"
+  license "BSD-3-Clause"
   homepage "https://github.com/tummychow/git-absorb"
   url "https://github.com/tummychow/git-absorb/archive/0.6.3.tar.gz"
   sha256 "d62ba36150d1113ea9216b8dc8f1f749c97a468cb41b2d1cd5c019158915ca70"

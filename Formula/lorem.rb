@@ -1,5 +1,6 @@
 class Lorem < Formula
   desc "Python generator for the console"
+  license "GPL-3.0"
   homepage "https://github.com/per9000/lorem"
   url "https://github.com/per9000/lorem/archive/v0.8.0.tar.gz"
   sha256 "3eec439d616a044e61a6733730b1fc009972466f869dae358991f95abd57e8b3"

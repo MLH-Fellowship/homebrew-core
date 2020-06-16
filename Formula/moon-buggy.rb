@@ -1,5 +1,6 @@
 class MoonBuggy < Formula
   desc "Drive some car across the moon"
+  license "GPL-2.0"
   homepage "https://www.seehuhn.de/pages/moon-buggy.html"
   url "https://m.seehuhn.de/programs/moon-buggy-1.0.tar.gz"
   sha256 "f8296f3fabd93aa0f83c247fbad7759effc49eba6ab5fdd7992f603d2d78e51a"

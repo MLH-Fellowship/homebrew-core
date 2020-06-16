@@ -1,5 +1,6 @@
 class RbenvChefdk < Formula
   desc "Treat ChefDK as another version in rbenv"
+  license "MIT"
   homepage "https://github.com/docwhat/rbenv-chefdk"
   url "https://github.com/docwhat/rbenv-chefdk/archive/v1.0.0.tar.gz"
   sha256 "79b48257f1a24085a680da18803ba6a94a1dd0cb25bd390629006a5fb67f3b69"

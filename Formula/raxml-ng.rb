@@ -1,5 +1,6 @@
 class RaxmlNg < Formula
   desc "RAxML Next Generation: faster, easier-to-use and more flexible"
+  license "AGPL-3.0"
   homepage "https://sco.h-its.org/exelixis/web/software/raxml/"
   url "https://github.com/amkozlov/raxml-ng.git",
     :tag      => "0.9.0",

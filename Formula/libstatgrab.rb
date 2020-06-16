@@ -1,5 +1,6 @@
 class Libstatgrab < Formula
   desc "Provides cross-platform access to statistics about the system"
+  license "GPL-2.0"
   homepage "https://www.i-scream.org/libstatgrab/"
   url "https://ftp.i-scream.org/pub/i-scream/libstatgrab/libstatgrab-0.92.tar.gz"
   mirror "https://www.mirrorservice.org/pub/i-scream/libstatgrab/libstatgrab-0.92.tar.gz"

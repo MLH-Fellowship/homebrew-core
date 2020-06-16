@@ -1,5 +1,6 @@
 class Esniper < Formula
   desc "Snipe eBay auctions from the command-line"
+  license "BSD-2-Clause"
   homepage "https://sourceforge.net/projects/esniper/"
   url "https://downloads.sourceforge.net/project/esniper/esniper/2.35.0/esniper-2-35-0.tgz"
   version "2.35.0"

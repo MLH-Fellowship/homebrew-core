@@ -1,5 +1,6 @@
 class AzureStorageCpp < Formula
   desc "Microsoft Azure Storage Client Library for C++"
+  license "Apache-2.0"
   homepage "https://azure.github.io/azure-storage-cpp"
   url "https://github.com/Azure/azure-storage-cpp/archive/v7.4.0.tar.gz"
   sha256 "19a825fb09bd1d1966418ec94571bc39edb34f812938dee5c3e9b27da8b739cf"

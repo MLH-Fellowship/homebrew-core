@@ -1,5 +1,6 @@
 class Lout < Formula
   desc "Text formatting like TeX, but simpler"
+  license "GPL-3.0"
   homepage "https://savannah.nongnu.org/projects/lout"
   url "https://download.savannah.gnu.org/releases/lout/lout-3.40.tar.gz"
   sha256 "3d16f1ce3373ed96419ba57399c2e4d94f88613c2cb4968cb0331ecac3da68bd"

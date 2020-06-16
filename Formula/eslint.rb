@@ -2,6 +2,7 @@ require "language/node"
 
 class Eslint < Formula
   desc "AST-based pattern checker for JavaScript"
+  license "MIT"
   homepage "https://eslint.org"
   url "https://registry.npmjs.org/eslint/-/eslint-7.2.0.tgz"
   sha256 "09285faecb9ae44d568c432ec6ed68fe625d0b02e2b1b3eec60d8d140ab2f4e3"

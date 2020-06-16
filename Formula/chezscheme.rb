@@ -1,5 +1,6 @@
 class Chezscheme < Formula
   desc "Chez Scheme"
+  license "Apache-2.0"
   homepage "https://cisco.github.io/ChezScheme/"
   url "https://github.com/cisco/ChezScheme/archive/v9.5.2.tar.gz"
   sha256 "3a370fdf2ffd67d6a0ccbb993dfab1cbaf4a0a97983c869cfaab40528c33c48b"

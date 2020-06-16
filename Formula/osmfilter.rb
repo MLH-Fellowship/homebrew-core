@@ -1,5 +1,6 @@
 class Osmfilter < Formula
   desc "Command-line tool to filter OpenStreetMap files for specific tags"
+  license "AGPL-3.0"
   homepage "https://wiki.openstreetmap.org/wiki/Osmfilter"
   url "https://gitlab.com/osm-c-tools/osmctools.git",
       :tag      => "0.9",

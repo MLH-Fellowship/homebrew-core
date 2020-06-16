@@ -1,5 +1,6 @@
 class Direvent < Formula
   desc "Monitors events in the file system directories"
+  license "GPL-3.0"
   homepage "https://www.gnu.org.ua/software/direvent/direvent.html"
   url "https://ftp.gnu.org/gnu/direvent/direvent-5.2.tar.gz"
   mirror "https://ftpmirror.gnu.org/direvent/direvent-5.2.tar.gz"

@@ -2,6 +2,7 @@ class Mackup < Formula
   include Language::Python::Virtualenv
 
   desc "Keep your Mac's application settings in sync"
+  license "GPL-3.0"
   homepage "https://github.com/lra/mackup"
   url "https://github.com/lra/mackup/archive/0.8.29.tar.gz"
   sha256 "2be19200ed93d277dc5ac91bae392a88c1ce31d49181ba5a6ca4e5193333ff29"

@@ -1,5 +1,6 @@
 class AflFuzz < Formula
   desc "American fuzzy lop: Security-oriented fuzzer"
+  license "Apache-2.0"
   homepage "https://github.com/google/AFL"
   url "https://github.com/google/AFL/archive/v2.56b.tar.gz"
   sha256 "1d4a372e49af02fbcef0dc3ac436d03adff577afc2b6245c783744609d9cdd22"

@@ -1,5 +1,6 @@
 class Libbtbb < Formula
   desc "Bluetooth baseband decoding library"
+  license "GPL-2.0"
   homepage "https://github.com/greatscottgadgets/libbtbb"
   url "https://github.com/greatscottgadgets/libbtbb/archive/2018-12-R1.tar.gz"
   version "2018-12-R1"

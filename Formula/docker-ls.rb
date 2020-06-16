@@ -1,5 +1,6 @@
 class DockerLs < Formula
   desc "Tools for browsing and manipulating docker registries"
+  license "MIT"
   homepage "https://github.com/mayflower/docker-ls"
   url "https://github.com/mayflower/docker-ls.git",
       :tag      => "v0.3.2",

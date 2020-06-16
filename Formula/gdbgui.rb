@@ -2,6 +2,7 @@ class Gdbgui < Formula
   include Language::Python::Virtualenv
 
   desc "Modern, browser-based frontend to gdb (gnu debugger)"
+  license "GPL-3.0"
   homepage "https://www.gdbgui.com/"
   url "https://github.com/cs01/gdbgui/archive/0.13.2.0.tar.gz"
   sha256 "325e4c6dd417d59b95ceb123173eee69d754f6ff3f97110c0cb960670460f858"

@@ -1,5 +1,6 @@
 class Valgrind < Formula
   desc "Dynamic analysis tools (memory, debug, profiling)"
+  license "GPL-2.0"
   homepage "https://www.valgrind.org/"
 
   stable do

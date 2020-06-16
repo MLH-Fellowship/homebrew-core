@@ -1,5 +1,6 @@
 class Msdl < Formula
   desc "Downloader for various streaming protocols"
+  license "GPL-3.0"
   homepage "https://msdl.sourceforge.io"
   url "https://downloads.sourceforge.net/msdl/msdl-1.2.7-r2.tar.gz"
   version "1.2.7-r2"

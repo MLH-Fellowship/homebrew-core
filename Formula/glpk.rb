@@ -1,5 +1,6 @@
 class Glpk < Formula
   desc "Library for Linear and Mixed-Integer Programming"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/glpk/"
   url "https://ftp.gnu.org/gnu/glpk/glpk-4.65.tar.gz"
   mirror "https://ftpmirror.gnu.org/glpk/glpk-4.65.tar.gz"

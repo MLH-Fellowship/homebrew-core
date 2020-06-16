@@ -1,5 +1,6 @@
 class Libyaml < Formula
   desc "YAML Parser"
+  license "MIT"
   homepage "https://github.com/yaml/libyaml"
   url "https://github.com/yaml/libyaml/archive/0.2.5.tar.gz"
   sha256 "fa240dbf262be053f3898006d502d514936c818e422afdcf33921c63bed9bf2e"

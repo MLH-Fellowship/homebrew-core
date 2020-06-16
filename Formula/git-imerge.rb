@@ -1,5 +1,6 @@
 class GitImerge < Formula
   desc "Incremental merge for git"
+  license "GPL-2.0"
   homepage "https://github.com/mhagger/git-imerge"
   url "https://github.com/mhagger/git-imerge/archive/v1.1.0.tar.gz"
   sha256 "62692f43591cc7d861689c60b68c55d7b10c7a201c1026096a7efc771df2ca28"

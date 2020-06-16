@@ -1,5 +1,6 @@
 class Up < Formula
   desc "Tool for writing command-line pipes with instant live preview"
+  license "Apache-2.0"
   homepage "https://github.com/akavel/up"
   url "https://github.com/akavel/up/archive/v0.3.2.tar.gz"
   sha256 "359510cfea8af8f14de39d63f63cc5c765f681cca2c37f00174837d52c62cad1"

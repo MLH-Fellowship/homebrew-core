@@ -1,5 +1,6 @@
 class Freeipmi < Formula
   desc "In-band and out-of-band IPMI (v1.5/2.0) software"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/freeipmi/"
   url "https://ftp.gnu.org/gnu/freeipmi/freeipmi-1.6.5.tar.gz"
   mirror "https://ftpmirror.gnu.org/freeipmi/freeipmi-1.6.5.tar.gz"

@@ -1,5 +1,6 @@
 class Enchant < Formula
   desc "Spellchecker wrapping library"
+  license "LGPL-2.1"
   homepage "https://abiword.github.io/enchant/"
   url "https://github.com/AbiWord/enchant/releases/download/v2.2.8/enchant-2.2.8.tar.gz"
   sha256 "c7b5e2853f0dd0b1aafea2f9e071941affeec3a76df8e3f6d67a718c89293555"

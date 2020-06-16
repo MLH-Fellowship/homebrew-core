@@ -1,5 +1,6 @@
 class Ed < Formula
   desc "Classic UNIX line editor"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/ed/ed.html"
   url "https://ftp.gnu.org/gnu/ed/ed-1.16.tar.lz"
   mirror "https://ftpmirror.gnu.org/ed/ed-1.16.tar.lz"

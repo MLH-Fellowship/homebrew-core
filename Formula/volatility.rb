@@ -2,6 +2,7 @@ class Volatility < Formula
   include Language::Python::Virtualenv
 
   desc "Advanced memory forensics framework"
+  license "GPL-2.0"
   homepage "https://github.com/volatilityfoundation/volatility"
   url "https://github.com/volatilityfoundation/volatility/archive/2.6.1.tar.gz"
   sha256 "a8dfdbdb2aaa0885387b709b821bb8250e698086fb32015bc2896ea55f359058"

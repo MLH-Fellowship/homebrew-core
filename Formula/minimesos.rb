@@ -1,5 +1,6 @@
 class Minimesos < Formula
   desc "Testing infrastructure for Mesos frameworks"
+  license "Apache-2.0"
   homepage "https://minimesos.org/"
   url "https://github.com/ContainerSolutions/minimesos/archive/0.13.0.tar.gz"
   sha256 "806a2e7084d66431a706e365814fca8603ba64780ac6efc90e52cbf7ef592250"

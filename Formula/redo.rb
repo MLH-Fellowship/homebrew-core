@@ -2,6 +2,7 @@ class Redo < Formula
   include Language::Python::Virtualenv
 
   desc "Implements djb's redo: an alternative to make"
+  license "Apache-2.0"
   homepage "https://redo.rtfd.io/"
   url "https://github.com/apenwarr/redo/archive/redo-0.42c.tar.gz"
   sha256 "6f1600c82d00bdfa75445e1e161477f876bd2615eb4371eb1bcf0a7e252dc79f"

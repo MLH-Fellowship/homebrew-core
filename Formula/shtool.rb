@@ -1,5 +1,6 @@
 class Shtool < Formula
   desc "GNU's portable shell tool"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/shtool/"
   url "https://ftp.gnu.org/gnu/shtool/shtool-2.0.8.tar.gz"
   mirror "https://ftpmirror.gnu.org/shtool/shtool-2.0.8.tar.gz"

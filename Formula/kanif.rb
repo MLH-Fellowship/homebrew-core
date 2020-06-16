@@ -1,5 +1,6 @@
 class Kanif < Formula
   desc "Cluster management and administration tool"
+  license "GPL-2.0"
   homepage "http://taktuk.gforge.inria.fr/kanif/"
   url "https://gforge.inria.fr/frs/download.php/26773/kanif-1.2.2.tar.gz"
   sha256 "3f0c549428dfe88457c1db293cfac2a22b203f872904c3abf372651ac12e5879"

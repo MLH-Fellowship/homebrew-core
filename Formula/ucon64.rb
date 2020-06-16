@@ -1,5 +1,6 @@
 class Ucon64 < Formula
   desc "ROM backup tool and emulator's Swiss Army knife program"
+  license "GPL-2.0"
   homepage "https://ucon64.sourceforge.io/"
   url "https://downloads.sourceforge.net/ucon64/ucon64-2.2.0-src.tar.gz"
   sha256 "5727e0be9ee878bba84d204135a7ca25662db6b56fee6895301e50c1bdda70af"

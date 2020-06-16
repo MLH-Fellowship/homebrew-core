@@ -1,5 +1,6 @@
 class Doxygen < Formula
   desc "Generate documentation for several programming languages"
+  license "GPL-2.0"
   homepage "https://www.doxygen.org/"
   url "https://doxygen.nl/files/doxygen-1.8.18.src.tar.gz"
   mirror "https://downloads.sourceforge.net/project/doxygen/rel-1.8.18/doxygen-1.8.18.src.tar.gz"

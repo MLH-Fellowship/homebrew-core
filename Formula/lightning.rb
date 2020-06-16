@@ -1,5 +1,6 @@
 class Lightning < Formula
   desc "Generates assembly language code at run-time"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/lightning/"
   url "https://ftp.gnu.org/gnu/lightning/lightning-2.1.3.tar.gz"
   mirror "https://ftpmirror.gnu.org/lightning/lightning-2.1.3.tar.gz"

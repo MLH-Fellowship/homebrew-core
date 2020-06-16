@@ -1,5 +1,6 @@
 class ContainerDiff < Formula
   desc "Diff your Docker containers"
+  license "Apache-2.0"
   homepage "https://github.com/GoogleContainerTools/container-diff"
   url "https://github.com/GoogleContainerTools/container-diff/archive/v0.15.0.tar.gz"
   sha256 "4bdd73a81b6f7a988cf270236471016525d0541f5fe04286043f3db28e4b250c"

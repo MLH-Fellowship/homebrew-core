@@ -1,5 +1,6 @@
 class Emacs < Formula
   desc "GNU Emacs text editor"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/emacs/"
   url "https://ftp.gnu.org/gnu/emacs/emacs-26.3.tar.xz"
   mirror "https://ftpmirror.gnu.org/emacs/emacs-26.3.tar.xz"

@@ -1,5 +1,6 @@
 class Comby < Formula
   desc "Tool for changing code across many languages"
+  license "Apache-2.0"
   homepage "https://comby.dev"
   url "https://github.com/comby-tools/comby/archive/0.15.0.tar.gz"
   sha256 "6f7304c1644f6212c3b86542f8325e6f76cd268b787fbfbbe3cc0de61ddec14a"

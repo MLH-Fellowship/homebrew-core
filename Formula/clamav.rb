@@ -1,5 +1,6 @@
 class Clamav < Formula
   desc "Anti-virus software"
+  license "GPL-2.0"
   homepage "https://www.clamav.net/"
   url "https://www.clamav.net/downloads/production/clamav-0.102.3.tar.gz"
   mirror "https://fossies.org/linux/misc/clamav-0.102.3.tar.gz"

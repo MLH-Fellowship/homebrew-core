@@ -1,5 +1,6 @@
 class Eject < Formula
   desc "Generate swift code from Interface Builder xibs"
+  license "MIT"
   homepage "https://github.com/Raizlabs/Eject"
   url "https://github.com/Raizlabs/Eject/archive/0.1.27.tar.gz"
   sha256 "b4aa8d281074074632422e9e8583d50024f1b2712566fae7950e73f751f75791"

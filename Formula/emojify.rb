@@ -1,5 +1,6 @@
 class Emojify < Formula
   desc "Emoji on the command-line :scream:"
+  license "MIT"
   homepage "https://github.com/mrowa44/emojify"
   url "https://github.com/mrowa44/emojify/archive/v1.0.2.tar.gz"
   sha256 "a75d49d623f92974d7852526591d5563c27b7655c20ebdd66a07b8a47dae861c"

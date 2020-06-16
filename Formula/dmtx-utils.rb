@@ -1,5 +1,6 @@
 class DmtxUtils < Formula
   desc "Read and write data matrix barcodes"
+  license "LGPL-2.1"
   homepage "https://github.com/dmtx/dmtx-utils"
   url "https://github.com/dmtx/dmtx-utils/archive/v0.7.6.tar.gz"
   sha256 "0d396ec14f32a8cf9e08369a4122a16aa2e5fa1675e02218f16f1ab777ea2a28"

@@ -1,5 +1,6 @@
 class Gox < Formula
   desc "Go cross compile tool"
+  license "MPL-2.0"
   homepage "https://github.com/mitchellh/gox"
   url "https://github.com/mitchellh/gox/archive/v1.0.1.tar.gz"
   sha256 "25aab55a4ba75653931be2a2b95e29216b54bd8fecc7931bd416efe49a388229"

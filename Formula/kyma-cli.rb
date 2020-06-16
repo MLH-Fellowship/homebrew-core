@@ -1,5 +1,6 @@
 class KymaCli < Formula
   desc "Kyma command-line interface"
+  license "Apache-2.0"
   homepage "https://kyma-project.io"
   url "https://github.com/kyma-project/cli.git",
       :tag      => "1.13.0",

@@ -2,6 +2,7 @@ require "language/node"
 
 class Typescript < Formula
   desc "Language for application scale JavaScript development"
+  license "Apache-2.0"
   homepage "https://www.typescriptlang.org/"
   url "https://registry.npmjs.org/typescript/-/typescript-3.9.5.tgz"
   sha256 "7d542965aac5ce66a20866b1e1d71f75960efe6c18cb6209a0d2959e34ebe371"

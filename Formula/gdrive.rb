@@ -1,5 +1,6 @@
 class Gdrive < Formula
   desc "Google Drive CLI Client"
+  license "MIT"
   homepage "https://github.com/gdrive-org/gdrive"
   url "https://github.com/gdrive-org/gdrive/archive/2.1.0.tar.gz"
   sha256 "a1ea624e913e258596ea6340c8818a90c21962b0a75cf005e49a0f72f2077b2e"

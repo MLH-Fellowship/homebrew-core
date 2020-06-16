@@ -1,5 +1,6 @@
 class Nikto < Formula
   desc "Web server scanner"
+  license "GPL-2.0"
   homepage "https://cirt.net/nikto2"
   url "https://github.com/sullo/nikto/archive/2.1.6.tar.gz"
   sha256 "c1731ae4133d3879718bb7605a8d395b2036668505effbcbbcaa4dae4e9f27f2"

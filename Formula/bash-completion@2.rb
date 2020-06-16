@@ -1,5 +1,6 @@
 class BashCompletionAT2 < Formula
   desc "Programmable completion for Bash 4.1+"
+  license "GPL-2.0"
   homepage "https://github.com/scop/bash-completion"
   url "https://github.com/scop/bash-completion/releases/download/2.10/bash-completion-2.10.tar.xz"
   sha256 "123c17998e34b937ce57bb1b111cd817bc369309e9a8047c0bcf06ead4a3ec92"

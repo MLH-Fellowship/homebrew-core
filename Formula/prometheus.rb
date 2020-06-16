@@ -1,5 +1,6 @@
 class Prometheus < Formula
   desc "Service monitoring system and time series database"
+  license "Apache-2.0"
   homepage "https://prometheus.io/"
   url "https://github.com/prometheus/prometheus/archive/v2.19.0.tar.gz"
   sha256 "72fc19722deb0d9f11df1dce58e2ee31fd8f3d1a584848166c2a2bc2aaf8ce74"

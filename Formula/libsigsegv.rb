@@ -1,5 +1,6 @@
 class Libsigsegv < Formula
   desc "Library for handling page faults in user mode"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/libsigsegv/"
   url "https://ftp.gnu.org/gnu/libsigsegv/libsigsegv-2.12.tar.gz"
   mirror "https://ftpmirror.gnu.org/libsigsegv/libsigsegv-2.12.tar.gz"

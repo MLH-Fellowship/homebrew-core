@@ -1,5 +1,6 @@
 class Dynet < Formula
   desc "Dynamic Neural Network Toolkit"
+  license "Apache-2.0"
   homepage "https://github.com/clab/dynet"
   url "https://github.com/clab/dynet/archive/2.1.tar.gz"
   sha256 "72d5c2a0c7dece6b91426f02993f640297f6c5f7de1907d4eb587796e97022bc"

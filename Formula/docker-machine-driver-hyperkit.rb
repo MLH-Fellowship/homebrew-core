@@ -1,5 +1,6 @@
 class DockerMachineDriverHyperkit < Formula
   desc "Docker Machine driver for hyperkit"
+  license "Apache-2.0"
   homepage "https://github.com/machine-drivers/docker-machine-driver-hyperkit"
   url "https://github.com/machine-drivers/docker-machine-driver-hyperkit.git",
       :tag      => "v1.0.0",

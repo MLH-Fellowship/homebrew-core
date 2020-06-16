@@ -2,6 +2,7 @@ class Alot < Formula
   include Language::Python::Virtualenv
 
   desc "Text mode MUA using notmuch mail"
+  license "GPL-3.0"
   homepage "https://github.com/pazz/alot"
   url "https://github.com/pazz/alot/archive/0.9.tar.gz"
   sha256 "64bfa2f550d775940348c93532bf5cbdde57b9fcec4bcf2447a72510d2add6cf"

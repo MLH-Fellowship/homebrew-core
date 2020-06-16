@@ -1,5 +1,6 @@
 class Algernon < Formula
   desc "Pure Go web server with Lua, Markdown, HTTP/2 and template support"
+  license "MIT"
   homepage "https://algernon.roboticoverlords.org/"
   url "https://github.com/xyproto/algernon/archive/1.12.7.tar.gz"
   sha256 "1e04be1274b875a90f3ca1b5685f0e2c2df79ae3b798a1c56395d0b5b5b686b3"

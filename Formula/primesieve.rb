@@ -1,5 +1,6 @@
 class Primesieve < Formula
   desc "Fast C/C++ prime number generator"
+  license "BSD-2-Clause"
   homepage "https://github.com/kimwalisch/primesieve"
   url "https://github.com/kimwalisch/primesieve/archive/v7.5.tar.gz"
   sha256 "fbc4070b2af4b87e2cff7ce3434f79af04d843594be43bba14293674475ec03c"

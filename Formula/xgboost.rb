@@ -1,5 +1,6 @@
 class Xgboost < Formula
   desc "Scalable, Portable and Distributed Gradient Boosting Library"
+  license "Apache-2.0"
   homepage "https://xgboost.ai/"
   url "https://github.com/dmlc/xgboost.git",
       :tag      => "v1.1.1",

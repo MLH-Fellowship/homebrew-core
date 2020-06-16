@@ -1,5 +1,6 @@
 class Libevhtp < Formula
   desc "Create extremely-fast and secure embedded HTTP servers with ease"
+  license "BSD-3-Clause"
   homepage "https://criticalstack.com/"
   url "https://github.com/criticalstack/libevhtp/archive/1.2.18.tar.gz"
   sha256 "316ede0d672be3ae6fe489d4ac1c8c53a1db7d4fe05edaff3c7c853933e02795"

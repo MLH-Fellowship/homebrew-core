@@ -1,5 +1,6 @@
 class SshVault < Formula
   desc "Encrypt/decrypt using SSH keys"
+  license "BSD-3-Clause"
   homepage "https://ssh-vault.com/"
   url "https://github.com/ssh-vault/ssh-vault.git",
       :tag      => "0.12.6",

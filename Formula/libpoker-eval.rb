@@ -1,5 +1,6 @@
 class LibpokerEval < Formula
   desc "C library to evaluate poker hands"
+  license "GPL-3.0"
   homepage "https://pokersource.sourceforge.io/"
   # http://download.gna.org/pokersource/sources/poker-eval-138.0.tar.gz is offline
   url "https://deb.debian.org/debian/pool/main/p/poker-eval/poker-eval_138.0.orig.tar.gz"

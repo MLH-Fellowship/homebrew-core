@@ -1,5 +1,6 @@
 class DockerCompletion < Formula
   desc "Bash, Zsh and Fish completion for Docker"
+  license "Apache-2.0"
   homepage "https://www.docker.com/"
   url "https://github.com/docker/docker-ce.git",
       :tag      => "v19.03.11",

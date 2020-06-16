@@ -1,5 +1,6 @@
 class Yaws < Formula
   desc "Webserver for dynamic content (written in Erlang)"
+  license "BSD-3-Clause"
   homepage "http://yaws.hyber.org"
   revision 2
   head "https://github.com/erlyaws/yaws.git"

@@ -1,5 +1,6 @@
 class M2c < Formula
   desc "Modula-2 to C compiler"
+  license "GPL-2.0"
   homepage "https://savannah.nongnu.org/projects/m2c/"
   url "https://download.savannah.gnu.org/releases/m2c/0.7/m2c-0.7.tar.gz"
   sha256 "b725ed617f376e1a321e059bf1985098e950965d5edab161c6b24526f10a59bc"

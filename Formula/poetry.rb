@@ -2,6 +2,7 @@ class Poetry < Formula
   include Language::Python::Virtualenv
 
   desc "Python package management tool"
+  license "MIT"
   homepage "https://python-poetry.org/"
   url "https://files.pythonhosted.org/packages/65/76/3ce57248bc821634955ffd43eb58e7ea17ed5cf6c15f94059885cb1b6155/poetry-1.0.9.tar.gz"
   sha256 "0a4c56983546964b47cbbe0e1b49fef5662277bbf0673e3e350e1215560377ab"

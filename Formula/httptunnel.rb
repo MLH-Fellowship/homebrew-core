@@ -1,5 +1,6 @@
 class Httptunnel < Formula
   desc "Tunnels a data stream in HTTP requests"
+  license "GPL-2.0"
   homepage "https://github.com/larsbrinkhoff/httptunnel"
   url "https://ftp.gnu.org/gnu/httptunnel/httptunnel-3.3.tar.gz"
   mirror "https://ftpmirror.gnu.org/httptunnel/httptunnel-3.3.tar.gz"

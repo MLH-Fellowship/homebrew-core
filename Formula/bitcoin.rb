@@ -1,5 +1,6 @@
 class Bitcoin < Formula
   desc "Decentralized, peer to peer payment network"
+  license "MIT"
   homepage "https://bitcoin.org/"
   url "https://bitcoin.org/bin/bitcoin-core-0.20.0/bitcoin-0.20.0.tar.gz"
   sha256 "ec5a2358ee868d845115dc4fc3ed631ff063c57d5e0a713562d083c5c45efb28"

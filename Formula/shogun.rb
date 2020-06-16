@@ -1,5 +1,6 @@
 class Shogun < Formula
   desc "Large scale machine learning toolbox"
+  license "BSD-3-Clause"
   homepage "https://www.shogun-toolbox.org/"
   url "https://github.com/shogun-toolbox/shogun.git",
       :tag      => "shogun_6.1.4",

@@ -1,5 +1,6 @@
 class Libsvm < Formula
   desc "Library for support vector machines"
+  license "BSD-3-Clause"
   homepage "https://www.csie.ntu.edu.tw/~cjlin/libsvm/"
 
   # Upstream deletes old downloads, so we need to mirror it ourselves

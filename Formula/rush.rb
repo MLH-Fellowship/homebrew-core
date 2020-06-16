@@ -1,5 +1,6 @@
 class Rush < Formula
   desc "GNU's Restricted User SHell"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/rush/"
   url "https://ftp.gnu.org/gnu/rush/rush-2.1.tar.xz"
   mirror "https://ftpmirror.gnu.org/rush/rush-2.1.tar.xz"

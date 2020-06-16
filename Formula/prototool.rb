@@ -1,5 +1,6 @@
 class Prototool < Formula
   desc "Your Swiss Army Knife for Protocol Buffers"
+  license "MIT"
   homepage "https://github.com/uber/prototool"
   url "https://github.com/uber/prototool/archive/v1.10.0.tar.gz"
   sha256 "5b516418f41f7283a405bf4a8feb2c7034d9f3d8c292b2caaebcd218581d2de4"

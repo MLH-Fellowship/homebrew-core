@@ -2,6 +2,7 @@ class Fdroidserver < Formula
   include Language::Python::Virtualenv
 
   desc "Create and manage Android app repositories for F-Droid"
+  license "AGPL-3.0"
   homepage "https://f-droid.org"
   url "https://files.pythonhosted.org/packages/1b/91/7109fe628ad7cc70fe503d6fbbb81819d796346d08c3e52a2dcdcc8ddd5b/fdroidserver-1.1.7.tar.gz"
   sha256 "6b58b10299778b1d5c0d0caabd5a234acb5aa77784dbdc7180c3732fbb9815a7"

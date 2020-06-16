@@ -1,5 +1,6 @@
 class Duc < Formula
   desc "Suite of tools for inspecting disk usage"
+  license "LGPL-3.0"
   homepage "https://duc.zevv.nl/"
   url "https://github.com/zevv/duc/releases/download/1.4.4/duc-1.4.4.tar.gz"
   sha256 "f4e7483dbeca4e26b003548f9f850b84ce8859bba90da89c55a7a147636ba922"

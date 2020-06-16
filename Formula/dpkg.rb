@@ -1,5 +1,6 @@
 class Dpkg < Formula
   desc "Debian package management system"
+  license "GPL-2.0"
   homepage "https://wiki.debian.org/Teams/Dpkg"
   # Please always keep the Homebrew mirror as the primary URL as the
   # dpkg site removes tarballs regularly which means we get issues

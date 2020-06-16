@@ -1,5 +1,6 @@
 class Ucl < Formula
   desc "Data compression library with small memory footprint"
+  license "GPL-2.0"
   homepage "https://www.oberhumer.com/opensource/ucl/"
   url "https://www.oberhumer.com/opensource/ucl/download/ucl-1.03.tar.gz"
   sha256 "b865299ffd45d73412293369c9754b07637680e5c826915f097577cd27350348"

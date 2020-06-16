@@ -1,5 +1,6 @@
 class Docker < Formula
   desc "Pack, ship and run any application as a lightweight container"
+  license "Apache-2.0"
   homepage "https://www.docker.com/"
   url "https://github.com/docker/docker-ce.git",
       :tag      => "v19.03.11",

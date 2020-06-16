@@ -1,5 +1,6 @@
 class Go < Formula
   desc "Open source programming language to build simple/reliable/efficient software"
+  license "BSD-3-Clause"
   homepage "https://golang.org"
 
   stable do

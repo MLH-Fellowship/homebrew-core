@@ -1,5 +1,6 @@
 class Predictionio < Formula
   desc "Source machine learning server"
+  license "Apache-2.0"
   homepage "https://predictionio.incubator.apache.org/"
   url "https://github.com/apache/incubator-predictionio/releases/download/v0.9.6/PredictionIO-0.9.6.tar.gz"
   mirror "https://dl.bintray.com/homebrew/mirror/predictionio-0.9.6.tar.gz"

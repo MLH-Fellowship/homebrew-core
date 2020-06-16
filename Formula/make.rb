@@ -1,5 +1,6 @@
 class Make < Formula
   desc "Utility for directing compilation"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/make/"
   url "https://ftp.gnu.org/gnu/make/make-4.3.tar.lz"
   mirror "https://ftpmirror.gnu.org/make/make-4.3.tar.lz"

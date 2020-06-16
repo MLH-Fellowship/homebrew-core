@@ -1,5 +1,6 @@
 class A2ps < Formula
   desc "Any-to-PostScript filter"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/a2ps/"
   url "https://ftp.gnu.org/gnu/a2ps/a2ps-4.14.tar.gz"
   mirror "https://ftpmirror.gnu.org/a2ps/a2ps-4.14.tar.gz"

@@ -1,5 +1,6 @@
 class GnustepMake < Formula
   desc "Basic GNUstep Makefiles"
+  license "GPL-3.0"
   homepage "http://gnustep.org"
   url "http://ftpmain.gnustep.org/pub/gnustep/core/gnustep-make-2.8.0.tar.gz"
   sha256 "9fce2942dd945c103df37d668dd5fff650b23351b25a650428f6f59133f5ca5d"

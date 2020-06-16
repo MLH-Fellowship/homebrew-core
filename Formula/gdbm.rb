@@ -1,5 +1,6 @@
 class Gdbm < Formula
   desc "GNU database manager"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gdbm/"
   url "https://ftp.gnu.org/gnu/gdbm/gdbm-1.18.1.tar.gz"
   mirror "https://ftpmirror.gnu.org/gdbm/gdbm-1.18.1.tar.gz"

@@ -1,5 +1,6 @@
 class TerraformLandscape < Formula
   desc "Improve Terraform's plan output"
+  license "Apache-2.0"
   homepage "https://github.com/coinbase/terraform-landscape"
   url "https://github.com/coinbase/terraform-landscape/archive/v0.3.3.tar.gz"
   sha256 "8594948ebfc0d4f311a2f0a2261a0397b190500f33492c5bf647b3e07b8b625d"

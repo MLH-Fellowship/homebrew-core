@@ -1,5 +1,6 @@
 class Enet < Formula
   desc "Provides a network communication layer on top of UDP"
+  license "MIT"
   homepage "http://enet.bespin.org"
   url "http://enet.bespin.org/download/enet-1.3.15.tar.gz"
   sha256 "5abdf63346e54272344d8184b5a2f333d202d809d28123911cbd993e5772bdfb"

@@ -2,6 +2,7 @@ class Vit < Formula
   include Language::Python::Virtualenv
 
   desc "Full-screen terminal interface for Taskwarrior"
+  license "MIT"
   homepage "https://taskwarrior.org/news/news.20140406.html"
   url "https://github.com/scottkosty/vit/archive/v2.0.0.tar.gz"
   sha256 "0c8739c16b5922880e762bd38f887240923d16181b2f85bb88c4f9f6faf38d6d"

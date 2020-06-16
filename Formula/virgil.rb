@@ -1,5 +1,6 @@
 class Virgil < Formula
   desc "CLI tool to manage your Virgil account and applications"
+  license "BSD-3-Clause"
   homepage "https://github.com/VirgilSecurity/virgil-cli"
   url "https://github.com/VirgilSecurity/virgil-cli.git",
      :tag      => "v5.2.4",

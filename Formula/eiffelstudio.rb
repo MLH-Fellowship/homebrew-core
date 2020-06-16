@@ -1,5 +1,6 @@
 class Eiffelstudio < Formula
   desc "Development environment for the Eiffel language"
+  license "GPL-2.0"
   homepage "https://www.eiffel.com"
   url "https://ftp.eiffel.com/pub/download/19.05/eiffelstudio-19.05.10.3187.tar"
   sha256 "b5f883353405eb9ce834c50a863b3721b21c35950a226103e6d01d0101a932b3"

@@ -1,5 +1,6 @@
 class Libcdio < Formula
   desc "Compact Disc Input and Control Library"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/libcdio/"
   url "https://ftp.gnu.org/gnu/libcdio/libcdio-2.1.0.tar.bz2"
   mirror "https://ftpmirror.gnu.org/libcdio/libcdio-2.1.0.tar.bz2"

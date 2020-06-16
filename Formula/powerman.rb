@@ -1,5 +1,6 @@
 class Powerman < Formula
   desc "Control (remotely and in parallel) switched power distribution units"
+  license "GPL-2.0"
   homepage "https://code.google.com/p/powerman/"
   url "https://github.com/chaos/powerman/releases/download/2.3.26/powerman-2.3.26.tar.gz"
   sha256 "19e213127f468b835165b8e2082ff2dfff62d6832f3332160f2c6ba8b2d286ad"

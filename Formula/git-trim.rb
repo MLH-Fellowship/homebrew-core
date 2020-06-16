@@ -1,5 +1,6 @@
 class GitTrim < Formula
   desc "Trim your git remote tracking branches that are merged or gone"
+  license "MIT"
   homepage "https://github.com/foriequal0/git-trim"
   url "https://github.com/foriequal0/git-trim/archive/v0.3.2.tar.gz"
   sha256 "08c65f0e821b12f5e512034df22723be9289e42102d478dae759f57905554f25"

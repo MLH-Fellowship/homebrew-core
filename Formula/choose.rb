@@ -1,5 +1,6 @@
 class Choose < Formula
   desc "Make choices on the command-line"
+  license "MIT"
   homepage "https://github.com/geier/choose"
   url "https://github.com/geier/choose/archive/v0.1.0.tar.gz"
   sha256 "d09a679920480e66bff36c76dd4d33e8ad739a53eace505d01051c114a829633"

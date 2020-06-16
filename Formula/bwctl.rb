@@ -1,5 +1,6 @@
 class Bwctl < Formula
   desc "Command-line tool and daemon for network measuring tools"
+  license "Apache-2.0"
   homepage "https://software.internet2.edu/bwctl/"
   url "https://software.internet2.edu/sources/bwctl/bwctl-1.5.4.tar.gz"
   sha256 "e6dca6ca30c8ef4d68e6b34b011a9ff7eff3aba4a84efc19d96e3675182e40ef"

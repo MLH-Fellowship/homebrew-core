@@ -1,5 +1,6 @@
 class IconNamingUtils < Formula
   desc "Script to handle icon names in desktop icon themes"
+  license "GPL-2.0"
   homepage "https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html"
   # Upstream seem to have enabled by default SSL/TLS across whole domain which
   # is problematic when the cert is for www rather than a wildcard or similar.

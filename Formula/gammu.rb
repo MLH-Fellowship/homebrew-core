@@ -1,5 +1,6 @@
 class Gammu < Formula
   desc "Command-line utility to control a phone"
+  license "GPL-2.0"
   homepage "https://wammu.eu/gammu/"
   url "https://dl.cihar.com/gammu/releases/gammu-1.41.0.tar.xz"
   sha256 "8426b69b07b259de301f41163fab5587935e27b94cc5eefab9277773b3e4df8f"

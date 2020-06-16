@@ -1,5 +1,6 @@
 class Stress < Formula
   desc "Tool to impose load on and stress test a computer system"
+  license "GPL-2.0"
   homepage "https://people.seas.harvard.edu/~apw/stress/"
   url "https://people.seas.harvard.edu/~apw/stress/stress-1.0.4.tar.gz"
   mirror "https://deb.debian.org/debian/pool/main/s/stress/stress_1.0.4.orig.tar.gz"

@@ -1,5 +1,6 @@
 class Flawfinder < Formula
   desc "Examines code and reports possible security weaknesses"
+  license "GPL-2.0"
   homepage "https://www.dwheeler.com/flawfinder/"
   url "https://www.dwheeler.com/flawfinder/flawfinder-2.0.11.tar.gz"
   sha256 "9b4929fca5c6703880d95f201e470b7f19262ff63e991b3ac4ea3257f712f5ec"

@@ -1,5 +1,6 @@
 class Owamp < Formula
   desc "Implementation of the One-Way Active Measurement Protocol"
+  license "Apache-2.0"
   homepage "https://www.internet2.edu/products-services/performance-analytics/performance-tools/"
   url "https://software.internet2.edu/sources/owamp/owamp-3.4-10.tar.gz"
   sha256 "059f0ab99b2b3d4addde91a68e6e3641c85ce3ae43b85fe9435841d950ee2fb3"

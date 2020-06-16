@@ -1,5 +1,6 @@
 class Uni2ascii < Formula
   desc "Bi-directional conversion between UTF-8 and various ASCII flavors"
+  license "GPL-3.0"
   # homepage/url: "the website you are looking for is suspended"
   # Switched to Debian mirrors June 2015.
   homepage "https://billposer.org/Software/uni2ascii.html"

@@ -1,5 +1,6 @@
 class Ctop < Formula
   desc "Top-like interface for container metrics"
+  license "MIT"
   homepage "https://bcicen.github.io/ctop/"
   url "https://github.com/bcicen/ctop.git",
     :tag      => "v0.7.3",

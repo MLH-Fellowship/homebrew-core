@@ -1,5 +1,6 @@
 class Nxengine < Formula
   desc "Rewrite of Cave Story (Doukutsu Monogatari)"
+  license "GPL-3.0"
   homepage "https://nxengine.sourceforge.io/"
   url "https://nxengine.sourceforge.io/dl/nx-src-1006.tar.bz2"
   version "1.0.0.6"

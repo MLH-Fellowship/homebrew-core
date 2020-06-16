@@ -1,5 +1,6 @@
 class Cayley < Formula
   desc "Graph database inspired by Freebase and Knowledge Graph"
+  license "Apache-2.0"
   homepage "https://github.com/cayleygraph/cayley"
   url "https://github.com/cayleygraph/cayley.git",
     :tag      => "v0.7.7",

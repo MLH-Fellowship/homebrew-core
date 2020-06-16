@@ -1,5 +1,6 @@
 class Mongrel2 < Formula
   desc "Application, language, and network architecture agnostic web server"
+  license "BSD-3-Clause"
   homepage "https://mongrel2.org/"
   head "https://github.com/mongrel2/mongrel2.git", :branch => "develop"
 

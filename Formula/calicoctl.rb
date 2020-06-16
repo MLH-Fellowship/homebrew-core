@@ -1,5 +1,6 @@
 class Calicoctl < Formula
   desc "Calico CLI tool"
+  license "Apache-2.0"
   homepage "https://www.projectcalico.org"
   url "https://github.com/projectcalico/calicoctl.git",
       :tag      => "v3.14.1",

@@ -2,6 +2,7 @@ class GraphTool < Formula
   include Language::Python::Virtualenv
 
   desc "Efficient network analysis for Python 3"
+  license "GPL-3.0"
   homepage "https://graph-tool.skewed.de/"
   url "https://downloads.skewed.de/graph-tool/graph-tool-2.32.tar.bz2"
   sha256 "e0e0add43a5688db3e6800fecc11de62743bc56c9a35535c478e2610a133394a"

@@ -1,5 +1,6 @@
 class Ubertooth < Formula
   desc "Host tools for Project Ubertooth"
+  license "GPL-2.0"
   homepage "https://github.com/greatscottgadgets/ubertooth/wiki"
   url "https://github.com/greatscottgadgets/ubertooth/releases/download/2018-12-R1/ubertooth-2018-12-R1.tar.xz"
   version "2018-12-R1"

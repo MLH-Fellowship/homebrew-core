@@ -1,5 +1,6 @@
 class Colordiff < Formula
   desc "Color-highlighted diff(1) output"
+  license "GPL-2.0"
   homepage "https://www.colordiff.org/"
   url "https://www.colordiff.org/colordiff-1.0.19.tar.gz"
   mirror "https://dl.bintray.com/homebrew/mirror/colordiff-1.0.19.tar.gz"

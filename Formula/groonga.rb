@@ -1,5 +1,6 @@
 class Groonga < Formula
   desc "Fulltext search engine and column store"
+  license "LGPL-2.1"
   homepage "https://groonga.org/"
   url "https://packages.groonga.org/source/groonga/groonga-10.0.3.tar.gz"
   sha256 "0dcd324c01a5fb49a52cf4864b89a6d7541f022d703f0ad82250ce77dabfd96e"

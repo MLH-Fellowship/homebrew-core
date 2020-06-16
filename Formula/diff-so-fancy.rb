@@ -1,5 +1,6 @@
 class DiffSoFancy < Formula
   desc "Good-lookin' diffs with diff-highlight and more"
+  license "MIT"
   homepage "https://github.com/so-fancy/diff-so-fancy"
   url "https://github.com/so-fancy/diff-so-fancy/archive/v1.3.0.tar.gz"
   sha256 "d37242282935aea2bdafee9813601f2c42e439ffac0f87c68318db790d136a0c"

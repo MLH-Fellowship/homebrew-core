@@ -1,5 +1,6 @@
 class Libexosip < Formula
   desc "Toolkit for eXosip2"
+  license "GPL-2.0"
   homepage "https://savannah.nongnu.org/projects/exosip"
   url "https://download.savannah.gnu.org/releases/exosip/libexosip2-5.1.1.tar.gz"
   mirror "https://download-mirror.savannah.gnu.org/releases/exosip/libexosip2-5.1.1.tar.gz"

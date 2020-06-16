@@ -1,5 +1,6 @@
 class Rakudo < Formula
   desc "Perl 6 compiler targeting MoarVM"
+  license "Artistic-2.0"
   homepage "https://rakudo.org"
   url "https://github.com/rakudo/rakudo/releases/download/2020.05.1/rakudo-2020.05.1.tar.gz"
   sha256 "e1174cfe6f3c6b16c695a8bcb62f5f23cde3d5fcebe4fd978cf1c407e1bb9dd4"

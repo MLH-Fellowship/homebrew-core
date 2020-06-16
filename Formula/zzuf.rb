@@ -1,5 +1,6 @@
 class Zzuf < Formula
   desc "Transparent application input fuzzer"
+  license "WTFPL"
   homepage "http://caca.zoy.org/wiki/zzuf"
   url "https://github.com/samhocevar/zzuf/releases/download/v0.15/zzuf-0.15.tar.bz2"
   sha256 "04353d94c68391b3945199f100ab47fc5ff7815db1e92581a600d4175e3a6872"

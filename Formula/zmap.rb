@@ -1,5 +1,6 @@
 class Zmap < Formula
   desc "Network scanner for Internet-wide network studies"
+  license "Apache-2.0"
   homepage "https://zmap.io"
   url "https://github.com/zmap/zmap/archive/v2.1.1.tar.gz"
   sha256 "29627520c81101de01b0213434adb218a9f1210bfd3f2dcfdfc1f975dbce6399"

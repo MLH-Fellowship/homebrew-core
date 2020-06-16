@@ -1,5 +1,6 @@
 class GitSsh < Formula
   desc "Proxy for serving git repositories over SSH"
+  license "GPL-2.0"
   homepage "https://github.com/lemarsu/git-ssh"
   url "https://github.com/lemarsu/git-ssh/archive/v0.2.0.tar.gz"
   sha256 "f7cf45f71e1f3aa23ef47cbbc411855f60d15ee69992c9f57843024e241a842f"

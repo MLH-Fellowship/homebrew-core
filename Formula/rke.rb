@@ -1,5 +1,6 @@
 class Rke < Formula
   desc "Rancher Kubernetes Engine, a Kubernetes installer that works everywhere"
+  license "Apache-2.0"
   homepage "https://rancher.com/docs/rke/latest/en/"
   url "https://github.com/rancher/rke.git",
       :tag      => "v1.1.2",

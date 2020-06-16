@@ -1,5 +1,6 @@
 class Msitools < Formula
   desc "Windows installer (.MSI) tool"
+  license "GPL-2.0"
   homepage "https://wiki.gnome.org/msitools"
   url "https://download.gnome.org/sources/msitools/0.100/msitools-0.100.tar.xz"
   sha256 "bbf1a6e3a9c2323b860a3227ac176736a3eafc4a44a67346c6844591f10978ea"

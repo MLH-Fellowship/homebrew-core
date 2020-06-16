@@ -1,5 +1,6 @@
 class Innotop < Formula
   desc "Top clone for MySQL"
+  license "GPL-2.0"
   homepage "https://github.com/innotop/innotop/"
   url "https://github.com/innotop/innotop/archive/v1.12.0.tar.gz"
   sha256 "f56d51b2c33a9c03f1b9d4fc5f7480f1c2104ef1e8f04def84a16f35d0bc42f6"

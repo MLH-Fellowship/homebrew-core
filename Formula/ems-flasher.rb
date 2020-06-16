@@ -1,5 +1,6 @@
 class EmsFlasher < Formula
   desc "Software for flashing the EMS Gameboy USB cart"
+  license "MIT"
   homepage "https://lacklustre.net/projects/ems-flasher/"
   url "https://lacklustre.net/projects/ems-flasher/ems-flasher-0.03.tgz"
   sha256 "d77723a3956e00a9b8af9a3545ed2c55cd2653d65137e91b38523f7805316786"

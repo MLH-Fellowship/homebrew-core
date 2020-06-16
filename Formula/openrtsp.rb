@@ -1,5 +1,6 @@
 class Openrtsp < Formula
   desc "Command-line RTSP client"
+  license "GPL-3.0"
   homepage "http://www.live555.com/openRTSP"
   url "http://www.live555.com/liveMedia/public/live.2020.05.15.tar.gz"
   # Keep a mirror as upstream tarballs are removed after each version

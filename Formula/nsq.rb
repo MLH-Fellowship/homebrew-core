@@ -1,5 +1,6 @@
 class Nsq < Formula
   desc "Realtime distributed messaging platform"
+  license "MIT"
   homepage "https://nsq.io/"
   url "https://github.com/nsqio/nsq/archive/v1.2.0.tar.gz"
   sha256 "98e24d748550f01dd8775e5e40f3ae657f5b513f875a15081cdcdc567b745480"

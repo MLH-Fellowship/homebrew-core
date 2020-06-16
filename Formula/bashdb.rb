@@ -1,5 +1,6 @@
 class Bashdb < Formula
   desc "Bash shell debugger"
+  license "GPL-2.0"
   homepage "https://bashdb.sourceforge.io"
   url "https://downloads.sourceforge.net/project/bashdb/bashdb/5.0-1.1.2/bashdb-5.0-1.1.2.tar.bz2"
   version "5.0-1.1.2"

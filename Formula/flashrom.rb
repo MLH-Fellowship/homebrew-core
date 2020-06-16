@@ -1,5 +1,6 @@
 class Flashrom < Formula
   desc "Identify, read, write, verify, and erase flash chips"
+  license "GPL-2.0"
   homepage "https://flashrom.org/"
   url "https://download.flashrom.org/releases/flashrom-v1.2.tar.bz2"
   sha256 "e1f8d95881f5a4365dfe58776ce821dfcee0f138f75d0f44f8a3cd032d9ea42b"

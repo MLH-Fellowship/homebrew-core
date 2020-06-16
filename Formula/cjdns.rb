@@ -1,5 +1,6 @@
 class Cjdns < Formula
   desc "Advanced mesh routing system with cryptographic addressing"
+  license "GPL-3.0"
   homepage "https://github.com/cjdelisle/cjdns/"
   url "https://github.com/cjdelisle/cjdns/archive/cjdns-v20.6.tar.gz"
   sha256 "bd80e94eb684a9e73170cf0ba158ce3514284546999568aeaf10065c5de03304"

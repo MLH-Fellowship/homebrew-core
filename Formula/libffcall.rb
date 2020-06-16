@@ -1,5 +1,6 @@
 class Libffcall < Formula
   desc "GNU Foreign Function Interface library"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/libffcall/"
   url "https://ftp.gnu.org/gnu/libffcall/libffcall-2.2.tar.gz"
   mirror "https://ftpmirror.gnu.org/gnu/libffcall/libffcall-2.2.tar.gz"

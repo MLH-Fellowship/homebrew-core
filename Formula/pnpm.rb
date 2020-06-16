@@ -2,6 +2,7 @@ class Pnpm < Formula
   require "language/node"
 
   desc "📦🚀 Fast, disk space efficient package manager"
+  license "MIT"
   homepage "https://pnpm.js.org"
   url "https://registry.npmjs.org/pnpm/-/pnpm-5.1.8.tgz"
   sha256 "1bd247818c78fe1811f0390737d2edc9f9752dfb32688e006f6c88b4c047ed08"

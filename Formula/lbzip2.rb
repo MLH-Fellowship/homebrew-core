@@ -1,5 +1,6 @@
 class Lbzip2 < Formula
   desc "Parallel bzip2 utility"
+  license "GPL-3.0"
   homepage "https://github.com/kjn/lbzip2"
   url "https://web.archive.org/web/20170304050514/archive.lbzip2.org/lbzip2-2.5.tar.bz2"
   mirror "https://fossies.org/linux/privat/lbzip2-2.5.tar.bz2"

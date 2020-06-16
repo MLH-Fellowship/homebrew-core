@@ -1,5 +1,6 @@
 class Lutok < Formula
   desc "Lightweight C++ API for Lua"
+  license "BSD-3-Clause"
   homepage "https://github.com/jmmv/lutok"
   url "https://github.com/jmmv/lutok/releases/download/lutok-0.4/lutok-0.4.tar.gz"
   sha256 "2cec51efa0c8d65ace8b21eaa08384b77abc5087b46e785f78de1c21fb754cd5"

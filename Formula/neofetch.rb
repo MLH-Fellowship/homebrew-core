@@ -1,5 +1,6 @@
 class Neofetch < Formula
   desc "Fast, highly customisable system info script"
+  license "MIT"
   homepage "https://github.com/dylanaraps/neofetch"
   url "https://github.com/dylanaraps/neofetch/archive/7.0.0.tar.gz"
   sha256 "8c6bd217cf6d34fc1f3dcbb0e8b1137655bc13fbb21165273dbb2a7bce0d3130"

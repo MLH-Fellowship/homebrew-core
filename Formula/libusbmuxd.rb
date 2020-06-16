@@ -1,5 +1,6 @@
 class Libusbmuxd < Formula
   desc "USB multiplexor library for iOS devices"
+  license "LGPL-2.1"
   homepage "https://www.libimobiledevice.org/"
 
   stable do

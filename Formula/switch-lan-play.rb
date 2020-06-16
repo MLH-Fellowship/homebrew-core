@@ -1,5 +1,6 @@
 class SwitchLanPlay < Formula
   desc "Make you and your friends play games like in a LAN"
+  license "GPL-3.0"
   homepage "https://github.com/spacemeowx2/switch-lan-play"
   url "https://github.com/spacemeowx2/switch-lan-play.git",
     :tag      => "v0.2.1",

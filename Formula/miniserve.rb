@@ -1,5 +1,6 @@
 class Miniserve < Formula
   desc "High performance static file server"
+  license "MIT"
   homepage "https://github.com/svenstaro/miniserve"
   # Bumpable only when it doesn't use features only available in Rust Nightly.
   # Check for resolution of https://github.com/svenstaro/miniserve/issues/291.

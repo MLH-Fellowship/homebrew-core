@@ -1,5 +1,6 @@
 class AutoconfArchive < Formula
   desc "Collection of over 500 reusable autoconf macros"
+  license "GPL-3.0"
   homepage "https://savannah.gnu.org/projects/autoconf-archive/"
   url "https://ftp.gnu.org/gnu/autoconf-archive/autoconf-archive-2019.01.06.tar.xz"
   mirror "https://ftpmirror.gnu.org/autoconf-archive/autoconf-archive-2019.01.06.tar.xz"

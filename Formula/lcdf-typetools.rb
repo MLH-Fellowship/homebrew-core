@@ -1,5 +1,6 @@
 class LcdfTypetools < Formula
   desc "Manipulate OpenType and multiple-master fonts"
+  license "GPL-2.0"
   homepage "https://www.lcdf.org/type/"
   url "https://www.lcdf.org/type/lcdf-typetools-2.108.tar.gz"
   sha256 "fb09bf45d98fa9ab104687e58d6e8a6727c53937e451603662338a490cbbcb26"

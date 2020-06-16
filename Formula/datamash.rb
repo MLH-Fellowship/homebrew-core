@@ -1,5 +1,6 @@
 class Datamash < Formula
   desc "Tool to perform numerical, textual & statistical operations"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/datamash"
   url "https://ftp.gnu.org/gnu/datamash/datamash-1.7.tar.gz"
   mirror "https://ftpmirror.gnu.org/datamash/datamash-1.7.tar.gz"

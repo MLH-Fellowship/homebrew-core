@@ -1,5 +1,6 @@
 class Ansiweather < Formula
   desc "Weather in your terminal, with ANSI colors and Unicode symbols"
+  license "BSD-2-Clause"
   homepage "https://github.com/fcambus/ansiweather"
   url "https://github.com/fcambus/ansiweather/archive/1.16.0.tar.gz"
   sha256 "9ed6c8651413a300cbcfb0d3d353c48fd7a472df896366ff25dd5dfa06fea7f4"

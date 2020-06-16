@@ -1,5 +1,6 @@
 class Hbase < Formula
   desc "Hadoop database: a distributed, scalable, big data store"
+  license "Apache-2.0"
   homepage "https://hbase.apache.org"
   url "https://www.apache.org/dyn/closer.lua?path=hbase/1.3.5/hbase-1.3.5-bin.tar.gz"
   mirror "https://archive.apache.org/dist/hbase/1.3.5/hbase-1.3.5-bin.tar.gz"

@@ -1,5 +1,6 @@
 class Dockerize < Formula
   desc "Utility to simplify running applications in docker containers"
+  license "MIT"
   homepage "https://github.com/jwilder/dockerize"
   url "https://github.com/jwilder/dockerize.git",
       :tag      => "v0.6.1",

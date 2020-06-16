@@ -1,5 +1,6 @@
 class Bison < Formula
   desc "Parser generator"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/bison/"
   # X.Y.9Z are beta releases that sometimes get accidentally uploaded to the release FTP
   url "https://ftp.gnu.org/gnu/bison/bison-3.6.4.tar.xz"

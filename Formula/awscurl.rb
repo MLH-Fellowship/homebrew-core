@@ -2,6 +2,7 @@ class Awscurl < Formula
   include Language::Python::Virtualenv
 
   desc "Curl like simplicity to access AWS resources"
+  license "MIT"
   homepage "https://github.com/okigan/awscurl"
   url "https://github.com/okigan/awscurl/archive/v0.20.tar.gz"
   sha256 "3ce06d105067b42398cf0bb6696742b790258e16487d5e5afa025b7c3ca983e4"

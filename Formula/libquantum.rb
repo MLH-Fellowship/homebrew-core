@@ -1,5 +1,6 @@
 class Libquantum < Formula
   desc "C library for the simulation of quantum mechanics"
+  license "GPL-3.0"
   homepage "http://www.libquantum.de/"
   url "http://www.libquantum.de/files/libquantum-1.1.1.tar.gz"
   sha256 "d8e3c4407076558f87640f1e618501ec85bc5f4c5a84db4117ceaec7105046e5"

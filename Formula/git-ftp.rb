@@ -1,5 +1,6 @@
 class GitFtp < Formula
   desc "Git-powered FTP client"
+  license "GPL-3.0"
   homepage "https://git-ftp.github.io/"
   url "https://github.com/git-ftp/git-ftp/archive/1.6.0.tar.gz"
   sha256 "088b58d66c420e5eddc51327caec8dcbe8bddae557c308aa739231ed0490db01"

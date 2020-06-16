@@ -1,5 +1,6 @@
 class Zookeeper < Formula
   desc "Centralized server for distributed coordination of services"
+  license "Apache-2.0"
   homepage "https://zookeeper.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=zookeeper/zookeeper-3.5.8/apache-zookeeper-3.5.8.tar.gz"
   mirror "https://archive.apache.org/dist/zookeeper/zookeeper-3.5.8/apache-zookeeper-3.5.8.tar.gz"

@@ -2,6 +2,7 @@ class VpnSlice < Formula
   include Language::Python::Virtualenv
 
   desc "Vpnc-script replacement for easy and secure split-tunnel VPN setup"
+  license "GPL-3.0"
   homepage "https://github.com/dlenski/vpn-slice"
   url "https://github.com/dlenski/vpn-slice/archive/v0.14.2.tar.gz"
   sha256 "cae69cfe2994fea487f563edb601f7ef8a59b5059baa104349121764da9d37a2"

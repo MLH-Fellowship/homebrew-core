@@ -2,6 +2,7 @@ class Bear < Formula
   include Language::Python::Shebang
 
   desc "Generate compilation database for clang tooling"
+  license "GPL-3.0"
   homepage "https://github.com/rizsotto/Bear"
   url "https://github.com/rizsotto/Bear/archive/2.4.3.tar.gz"
   sha256 "74057678642080d193a9f65a804612e1d5b87da5a1f82ee487bbc44eb34993f2"

@@ -1,5 +1,6 @@
 class DroneCli < Formula
   desc "Drone CLI"
+  license "Apache-2.0"
   homepage "https://drone.io"
   url "https://github.com/drone/drone-cli.git",
     :tag      => "v1.2.1",

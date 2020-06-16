@@ -1,5 +1,6 @@
 class Crystal < Formula
   desc "Fast and statically typed, compiled language with Ruby-like syntax"
+  license "Apache-2.0"
   homepage "https://crystal-lang.org/"
 
   stable do

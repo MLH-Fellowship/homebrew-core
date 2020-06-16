@@ -1,5 +1,6 @@
 class Bash < Formula
   desc "Bourne-Again SHell, a UNIX command interpreter"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/bash/"
   head "https://git.savannah.gnu.org/git/bash.git"
 

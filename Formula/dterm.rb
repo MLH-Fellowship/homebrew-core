@@ -1,5 +1,6 @@
 class Dterm < Formula
   desc "Terminal emulator for use with xterm and friends"
+  license "GPL-2.0"
   homepage "http://www.knossos.net.nz/resources/free-software/dterm/"
   url "http://www.knossos.net.nz/downloads/dterm-0.5.tgz"
   sha256 "94533be79f1eec965e59886d5f00a35cb675c5db1d89419f253bb72f140abddb"

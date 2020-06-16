@@ -1,5 +1,6 @@
 class Wolfssl < Formula
   desc "Embedded SSL Library written in C"
+  license "GPL-2.0"
   homepage "https://www.wolfssl.com"
   url "https://github.com/wolfSSL/wolfssl.git",
       :tag      => "v4.4.0-stable",

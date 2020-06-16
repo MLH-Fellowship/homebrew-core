@@ -1,5 +1,6 @@
 class Chruby < Formula
   desc "Ruby environment tool"
+  license "MIT"
   homepage "https://github.com/postmodern/chruby#readme"
   url "https://github.com/postmodern/chruby/archive/v0.3.9.tar.gz"
   sha256 "7220a96e355b8a613929881c091ca85ec809153988d7d691299e0a16806b42fd"

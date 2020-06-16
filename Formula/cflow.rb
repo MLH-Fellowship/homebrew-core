@@ -1,5 +1,6 @@
 class Cflow < Formula
   desc "Generate call graphs from C code"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/cflow/"
   url "https://ftp.gnu.org/gnu/cflow/cflow-1.6.tar.bz2"
   mirror "https://ftpmirror.gnu.org/cflow/cflow-1.6.tar.bz2"

@@ -1,5 +1,6 @@
 class Premake < Formula
   desc "Write once, build anywhere Lua-based build system"
+  license "BSD-3-Clause"
   homepage "https://premake.github.io/"
   url "https://downloads.sourceforge.net/project/premake/Premake/4.4/premake-4.4-beta5-src.zip"
   sha256 "0fa1ed02c5229d931e87995123cdb11d44fcc8bd99bba8e8bb1bbc0aaa798161"

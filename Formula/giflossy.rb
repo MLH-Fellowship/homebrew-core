@@ -1,5 +1,6 @@
 class Giflossy < Formula
   desc "Lossy LZW compression, reduces GIF file sizes by 30-50%"
+  license "GPL-2.0"
   homepage "https://pornel.net/lossygif"
   url "https://github.com/kornelski/giflossy/archive/1.91.tar.gz"
   sha256 "b97f6aadf163ff5dd96ad1695738ad3d5aa7f1658baed8665c42882f11d9ab22"

@@ -1,5 +1,6 @@
 class Kubeless < Formula
   desc "Kubernetes Native Serverless Framework"
+  license "Apache-2.0"
   homepage "https://kubeless.io"
   url "https://github.com/kubeless/kubeless/archive/v1.0.6.tar.gz"
   sha256 "828a04600eb1506e107f23ddd02dad0335c24450ac89fcf8f261c5f5cd0e570a"

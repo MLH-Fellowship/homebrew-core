@@ -1,5 +1,6 @@
 class Graphviz < Formula
   desc "Graph visualization software from AT&T and Bell Labs"
+  license "EPL-1.0"
   homepage "https://www.graphviz.org/"
   version_scheme 1
 

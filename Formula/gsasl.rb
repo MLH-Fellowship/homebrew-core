@@ -1,5 +1,6 @@
 class Gsasl < Formula
   desc "SASL library command-line interface"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gsasl/"
   url "https://ftp.gnu.org/gnu/gsasl/gsasl-1.8.1.tar.gz"
   mirror "https://ftpmirror.gnu.org/gsasl/gsasl-1.8.1.tar.gz"

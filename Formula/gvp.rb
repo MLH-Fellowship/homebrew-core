@@ -1,5 +1,6 @@
 class Gvp < Formula
   desc "Go versioning packager"
+  license "MIT"
   homepage "https://github.com/pote/gvp"
   url "https://github.com/pote/gvp/archive/v0.3.0.tar.gz"
   sha256 "e1fccefa76495293350d47d197352a63cae6a014d8d28ebdedb785d4304ee338"

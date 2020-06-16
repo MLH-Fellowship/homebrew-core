@@ -1,5 +1,6 @@
 class Ponyc < Formula
   desc "Object-oriented, actor-model, capabilities-secure programming language"
+  license "BSD-2-Clause"
   homepage "https://www.ponylang.org/"
   url "https://github.com/ponylang/ponyc.git",
       :tag      => "0.35.1",

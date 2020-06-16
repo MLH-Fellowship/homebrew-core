@@ -1,5 +1,6 @@
 class Gofabric8 < Formula
   desc "CLI for fabric8 running on Kubernetes or OpenShift"
+  license "Apache-2.0"
   homepage "https://github.com/fabric8io/gofabric8/"
   url "https://github.com/fabric8io/gofabric8/archive/v0.4.176.tar.gz"
   sha256 "78e44fdfd69605f50ab1f5539f2d282ce786b28b88c49d0f9671936c9e37355a"

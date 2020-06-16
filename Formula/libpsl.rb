@@ -1,5 +1,6 @@
 class Libpsl < Formula
   desc "C library for the Public Suffix List"
+  license "MIT"
   homepage "https://rockdaboot.github.io/libpsl"
   url "https://github.com/rockdaboot/libpsl/releases/download/libpsl-0.21.0/libpsl-0.21.0.tar.gz"
   sha256 "41bd1c75a375b85c337b59783f5deb93dbb443fb0a52d257f403df7bd653ee12"

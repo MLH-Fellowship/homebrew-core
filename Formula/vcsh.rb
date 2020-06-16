@@ -1,5 +1,6 @@
 class Vcsh < Formula
   desc "Config manager based on git"
+  license "GPL-2.0"
   homepage "https://github.com/RichiH/vcsh"
   url "https://github.com/RichiH/vcsh/archive/v1.20151229-1.tar.gz"
   version "1.20151229-1"

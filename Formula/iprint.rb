@@ -1,5 +1,6 @@
 class Iprint < Formula
   desc "Provides a print_one function"
+  license "GPL-2.0"
   homepage "https://www.samba.org/ftp/unpacked/junkcode/i.c"
   url "https://deb.debian.org/debian/pool/main/i/iprint/iprint_1.3.orig.tar.gz"
   version "1.3-9"

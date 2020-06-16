@@ -1,5 +1,6 @@
 class Polyglot < Formula
   desc "Protocol adapter to run UCI engines under XBoard"
+  license "GPL-2.0"
   homepage "https://www.chessprogramming.org/PolyGlot"
   url "http://hgm.nubati.net/releases/polyglot-2.0.4.tar.gz"
   sha256 "c11647d1e1cb4ad5aca3d80ef425b16b499aaa453458054c3aa6bec9cac65fc1"

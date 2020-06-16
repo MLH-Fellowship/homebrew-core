@@ -4,6 +4,7 @@ class HighlightingKate < Formula
   include Language::Haskell::Cabal
 
   desc "Haskell syntax highlighting library, based on the Kate editor"
+  license "GPL-2.0"
   homepage "https://github.com/jgm/highlighting-kate"
   url "https://hackage.haskell.org/package/highlighting-kate-0.6.4/highlighting-kate-0.6.4.tar.gz"
   sha256 "d8b83385f5da2ea7aa59f28eb860fd7eba0d35a4c36192a5044ee7ea1e001baf"

@@ -1,5 +1,6 @@
 class Isl < Formula
   desc "Integer Set Library for the polyhedral model"
+  license "MIT"
   homepage "https://isl.gforge.inria.fr/"
   # Note: Always use tarball instead of git tag for stable version.
   #

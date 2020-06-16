@@ -1,5 +1,6 @@
 class DockerMachine < Formula
   desc "Create Docker hosts locally and on cloud providers"
+  license "Apache-2.0"
   homepage "https://docs.docker.com/machine"
   url "https://github.com/docker/machine.git",
       :tag      => "v0.16.2",

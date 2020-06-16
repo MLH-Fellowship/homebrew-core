@@ -1,5 +1,6 @@
 class Cheapglk < Formula
   desc "Extremely minimal Glk library"
+  license "MIT"
   homepage "https://www.eblong.com/zarf/glk/"
   url "https://www.eblong.com/zarf/glk/cheapglk-106.tar.gz"
   version "1.0.6"

@@ -1,5 +1,6 @@
 class FaasCli < Formula
   desc "CLI for templating and/or deploying FaaS functions"
+  license "MIT"
   homepage "https://www.openfaas.com/"
   url "https://github.com/openfaas/faas-cli.git",
       :tag      => "0.12.4",

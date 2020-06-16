@@ -1,5 +1,6 @@
 class Fleetctl < Formula
   desc "Distributed init system"
+  license "Apache-2.0"
   homepage "https://github.com/coreos/fleet"
   url "https://github.com/coreos/fleet.git",
       :tag      => "v1.0.0",

@@ -2,6 +2,7 @@ class TranslateToolkit < Formula
   include Language::Python::Virtualenv
 
   desc "Toolkit for localization engineers"
+  license "GPL-2.0"
   homepage "https://toolkit.translatehouse.org/"
   url "https://github.com/translate/translate/archive/2.5.1.tar.gz"
   sha256 "f86a34e40c52dcdf1ce516687180736e24a52e44164df1d3d1570c8ac223561f"

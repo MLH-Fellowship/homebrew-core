@@ -3,6 +3,7 @@
 # https://github.com/hashicorp/vault/issues/1051
 class Vault < Formula
   desc "Secures, stores, and tightly controls access to secrets"
+  license "MPL-2.0"
   homepage "https://vaultproject.io/"
   url "https://github.com/hashicorp/vault.git",
       :tag      => "v1.4.2",

@@ -2,6 +2,7 @@ require "language/node"
 
 class Lerna < Formula
   desc "Tool for managing JavaScript projects with multiple packages"
+  license "MIT"
   homepage "https://lerna.js.org"
   url "https://registry.npmjs.org/lerna/-/lerna-3.22.1.tgz"
   sha256 "77a036b03fafd7a6915ef32ad9e0f5cb1950ae8c86ee27fa886e2e1bad4004ac"

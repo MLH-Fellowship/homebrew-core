@@ -1,5 +1,6 @@
 class Autoconf < Formula
   desc "Automatic configure script builder"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/autoconf"
   url "https://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.gz"
   mirror "https://ftpmirror.gnu.org/autoconf/autoconf-2.69.tar.gz"

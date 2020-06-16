@@ -3,6 +3,7 @@
 # https://github.com/djcb/mu/commit/23f4a64bdcdee3f9956a39b9a5a4fd0c5c2370ba
 class Mu < Formula
   desc "Tool for searching e-mail messages stored in the maildir-format"
+  license "GPL-3.0"
   homepage "https://www.djcbsoftware.nl/code/mu/"
   url "https://github.com/djcb/mu/archive/1.4.10.tar.gz"
   sha256 "a3fd3b56fb0872892427909888d55bae2c3f0d574494cb27853ae4907b2c8af9"

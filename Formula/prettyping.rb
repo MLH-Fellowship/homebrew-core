@@ -1,5 +1,6 @@
 class Prettyping < Formula
   desc "Wrapper to colorize and simplify ping's output"
+  license "MIT"
   homepage "https://denilsonsa.github.io/prettyping/"
   url "https://github.com/denilsonsa/prettyping/archive/v1.0.1.tar.gz"
   sha256 "48ff5dce1d18761c4ee3c860afd3360266f7079b8e85af9e231eb15c45247323"

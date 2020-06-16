@@ -1,5 +1,6 @@
 class PdfRedactTools < Formula
   desc "Securely redacting and stripping metadata"
+  license "GPL-3.0"
   homepage "https://github.com/firstlookmedia/pdf-redact-tools"
   url "https://github.com/firstlookmedia/pdf-redact-tools/archive/v0.1.2.tar.gz"
   sha256 "5874a7b76be15ccaa4c20874299ef51fbaf520a858229a58678bc72a305305fc"

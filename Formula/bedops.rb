@@ -1,5 +1,6 @@
 class Bedops < Formula
   desc "Set and statistical operations on genomic data of arbitrary scale"
+  license "GPL-2.0"
   homepage "https://github.com/bedops/bedops"
   url "https://github.com/bedops/bedops/archive/v2.4.39.tar.gz"
   sha256 "f8bae10c6e1ccfb873be13446c67fc3a54658515fb5071663883f788fc0e4912"

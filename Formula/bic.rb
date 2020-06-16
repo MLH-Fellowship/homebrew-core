@@ -1,5 +1,6 @@
 class Bic < Formula
   desc "C interpreter and API explorer"
+  license "GPL-2.0"
   homepage "https://github.com/hexagonal-sun/bic"
   url "https://github.com/hexagonal-sun/bic/releases/download/v1.0.0/bic-v1.0.0.tar.gz"
   sha256 "553324e39d87df59930d093a264c14176d5e3aaa24cd8bff276531fb94775100"

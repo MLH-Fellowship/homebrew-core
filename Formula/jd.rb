@@ -1,5 +1,6 @@
 class Jd < Formula
   desc "JSON diff and patch"
+  license "MIT"
   homepage "https://github.com/josephburnett/jd"
   url "https://github.com/josephburnett/jd/archive/v1.1.tar.gz"
   sha256 "5192f471658ef1af38060ccd74d767bc7f1b60ba8de04335a6cccb88a1d28e20"

@@ -1,5 +1,6 @@
 class Minio < Formula
   desc "Amazon S3 compatible object storage server"
+  license "Apache-2.0"
   homepage "https://github.com/minio/minio"
   url "https://github.com/minio/minio.git",
       :tag      => "RELEASE.2020-04-28T23-56-56Z",

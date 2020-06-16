@@ -1,5 +1,6 @@
 class ExactImage < Formula
   desc "Image processing library"
+  license "GPL-2.0"
   homepage "https://exactcode.com/opensource/exactimage/"
   url "https://dl.exactcode.de/oss/exact-image/exact-image-1.0.2.tar.bz2"
   sha256 "0694c66be5dec41377acead475de69b3d7ffb42c702402f8b713f8b44cdc2791"

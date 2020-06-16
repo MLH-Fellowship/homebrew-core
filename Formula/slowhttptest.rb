@@ -1,5 +1,6 @@
 class Slowhttptest < Formula
   desc "Simulates application layer denial of service attacks"
+  license "Apache-2.0"
   homepage "https://github.com/shekyan/slowhttptest"
   url "https://github.com/shekyan/slowhttptest/archive/v1.8.1.tar.gz"
   sha256 "95f43a18efbdfaa088acf0e2d6ce0fc4f4fc33a7486cd536d327a6ba71de30e7"

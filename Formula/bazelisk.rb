@@ -1,5 +1,6 @@
 class Bazelisk < Formula
   desc "User-friendly launcher for Bazel"
+  license "Apache-2.0"
   homepage "https://github.com/bazelbuild/bazelisk/"
   url "https://github.com/bazelbuild/bazelisk.git",
       :tag      => "v1.5.0",

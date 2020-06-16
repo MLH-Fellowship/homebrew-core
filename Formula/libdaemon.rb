@@ -1,5 +1,6 @@
 class Libdaemon < Formula
   desc "C library that eases writing UNIX daemons"
+  license "LGPL-2.1"
   homepage "http://0pointer.de/lennart/projects/libdaemon/"
   url "http://0pointer.de/lennart/projects/libdaemon/libdaemon-0.14.tar.gz"
   sha256 "fd23eb5f6f986dcc7e708307355ba3289abe03cc381fc47a80bca4a50aa6b834"

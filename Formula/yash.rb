@@ -1,5 +1,6 @@
 class Yash < Formula
   desc "Yet another shell: a POSIX-compliant command-line shell"
+  license "GPL-2.0"
   homepage "https://yash.osdn.jp/"
   # Canonical: https://osdn.net/dl/yash/yash-*
   url "https://dotsrc.dl.osdn.net/osdn/yash/73097/yash-2.50.tar.xz"

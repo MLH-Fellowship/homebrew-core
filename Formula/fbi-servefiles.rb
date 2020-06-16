@@ -2,6 +2,7 @@ class FbiServefiles < Formula
   include Language::Python::Virtualenv
 
   desc "Serve local files to Nintendo 3DS via FBI remote installer"
+  license "MIT"
   homepage "https://github.com/Steveice10/FBI"
   url "https://github.com/Steveice10/FBI/archive/2.6.0.tar.gz"
   sha256 "4948d4c53d754cc411b51edbf35c609ba514ae21d9d0e8f4b66a26d5c666be68"

@@ -1,5 +1,6 @@
 class Exim < Formula
   desc "Complete replacement for sendmail"
+  license "GPL-2.0"
   homepage "https://exim.org"
   url "https://ftp.exim.org/pub/exim/exim4/fixes/exim-4.93.0.4.tar.xz"
   mirror "https://dl.bintray.com/homebrew/mirror/exim-4.93.0.4.tar.xz"

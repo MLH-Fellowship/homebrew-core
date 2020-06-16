@@ -1,5 +1,6 @@
 class Zydis < Formula
   desc "Fast and lightweight x86/x86_64 disassembler library"
+  license "MIT"
   homepage "https://zydis.re"
   url "https://github.com/zyantific/zydis.git",
     :tag      => "v3.1.0",

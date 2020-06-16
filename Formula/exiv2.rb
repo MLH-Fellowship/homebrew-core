@@ -1,5 +1,6 @@
 class Exiv2 < Formula
   desc "EXIF and IPTC metadata manipulation library and tools"
+  license "GPL-2.0"
   homepage "https://www.exiv2.org/"
   url "https://www.exiv2.org/builds/exiv2-0.27.2-Source.tar.gz"
   sha256 "2652f56b912711327baff6dc0c90960818211cf7ab79bb5e1eb59320b78d153f"

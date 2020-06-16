@@ -1,5 +1,6 @@
 class Influxdb < Formula
   desc "Time series, events, and metrics database"
+  license "MIT"
   homepage "https://influxdata.com/time-series-platform/influxdb/"
   url "https://github.com/influxdata/influxdb.git",
       :tag      => "v1.8.0",

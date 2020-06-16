@@ -2,6 +2,7 @@ class Ansible < Formula
   include Language::Python::Virtualenv
 
   desc "Automate deployment, configuration, and upgrading"
+  license "GPL-3.0"
   homepage "https://www.ansible.com/"
   url "https://releases.ansible.com/ansible/ansible-2.9.9.tar.gz"
   sha256 "e83d84ae8bf131c0499d8a4c0e1144bf969454c43086e61cca3c224227df29d1"

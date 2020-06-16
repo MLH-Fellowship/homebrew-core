@@ -1,5 +1,6 @@
 class Reaver < Formula
   desc "Implements brute force attack to recover WPA/WPA2 passkeys"
+  license "GPL-2.0"
   homepage "https://code.google.com/archive/p/reaver-wps/"
   url "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/reaver-wps/reaver-1.4.tar.gz"
   sha256 "add3050a4a05fe0ab6bfb291ee2de8e9b8a85f1e64ced93ee27a75744954b22d"

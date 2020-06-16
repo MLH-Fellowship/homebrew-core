@@ -1,5 +1,6 @@
 class Helmsman < Formula
   desc "Helm Charts as Code tool"
+  license "MIT"
   homepage "https://github.com/Praqma/helmsman"
   url "https://github.com/Praqma/helmsman.git",
     :tag      => "v3.4.3",

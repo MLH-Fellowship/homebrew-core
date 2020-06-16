@@ -1,5 +1,6 @@
 class Dfmt < Formula
   desc "Formatter for D source code"
+  license "BSL-1.0"
   homepage "https://github.com/dlang-community/dfmt"
   url "https://github.com/dlang-community/dfmt.git",
       :tag      => "v0.12.0",

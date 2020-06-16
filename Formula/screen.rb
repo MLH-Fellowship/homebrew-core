@@ -1,5 +1,6 @@
 class Screen < Formula
   desc "Terminal multiplexer with VT100/ANSI terminal emulation"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/screen"
 
   stable do

@@ -1,5 +1,6 @@
 class Stow < Formula
   desc "Organize software neatly under a single directory tree (e.g. /usr/local)"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/stow/"
   url "https://ftp.gnu.org/gnu/stow/stow-2.3.1.tar.gz"
   mirror "https://ftpmirror.gnu.org/stow/stow-2.3.1.tar.gz"

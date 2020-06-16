@@ -1,5 +1,6 @@
 class Voldemort < Formula
   desc "Distributed key-value storage system"
+  license "Apache-2.0"
   homepage "https://www.project-voldemort.com/"
   url "https://github.com/voldemort/voldemort/archive/release-1.10.26-cutoff.tar.gz"
   sha256 "8bd41b53c3b903615d281e7277d5a9225075c3d00ea56c6e44d73f6327c73d55"

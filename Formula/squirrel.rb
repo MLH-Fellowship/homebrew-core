@@ -1,5 +1,6 @@
 class Squirrel < Formula
   desc "High level, imperative, object-oriented programming language"
+  license "MIT"
   homepage "http://www.squirrel-lang.org"
   url "https://downloads.sourceforge.net/project/squirrel/squirrel3/squirrel%203.1%20stable/squirrel_3_1_stable.tar.gz"
   version "3.1.0"

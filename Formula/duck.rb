@@ -1,5 +1,6 @@
 class Duck < Formula
   desc "Command-line interface for Cyberduck (a multi-protocol file transfer tool)"
+  license "GPL-3.0"
   homepage "https://duck.sh/"
   # check the changelog for the latest stable version: https://cyberduck.io/changelog/
   url "https://dist.duck.sh/duck-src-7.4.0.32960.tar.gz"

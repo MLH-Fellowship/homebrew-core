@@ -1,5 +1,6 @@
 class DejaGnu < Formula
   desc "Framework for testing other programs"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/dejagnu/"
   url "https://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.2.tar.gz"
   mirror "https://ftpmirror.gnu.org/dejagnu/dejagnu-1.6.2.tar.gz"

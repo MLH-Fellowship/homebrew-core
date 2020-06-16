@@ -1,5 +1,6 @@
 class Znc < Formula
   desc "Advanced IRC bouncer"
+  license "Apache-2.0"
   homepage "https://wiki.znc.in/ZNC"
   url "https://znc.in/releases/archive/znc-1.8.1.tar.gz"
   sha256 "3195f7614a800a843af12271593d39cd3eb40c15657cce56d9cf28754cd86141"

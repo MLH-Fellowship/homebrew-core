@@ -1,5 +1,6 @@
 class GoAT19 < Formula
   desc "Go programming environment (1.9)"
+  license "BSD-3-Clause"
   homepage "https://golang.org"
   url "https://dl.google.com/go/go1.9.7.src.tar.gz"
   mirror "https://fossies.org/linux/misc/go1.9.7.src.tar.gz"

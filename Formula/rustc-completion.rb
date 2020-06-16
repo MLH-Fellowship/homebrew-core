@@ -1,5 +1,6 @@
 class RustcCompletion < Formula
   desc "Bash completion for rustc"
+  license "MIT"
   homepage "https://github.com/roshan/rust-bash-completion"
   head "https://github.com/roshan/rust-bash-completion.git"
 

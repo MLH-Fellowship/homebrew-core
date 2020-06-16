@@ -1,5 +1,6 @@
 class Xvid < Formula
   desc "High-performance, high-quality MPEG-4 video library"
+  license "GPL-2.0"
   homepage "https://labs.xvid.com/"
   url "https://downloads.xvid.com/downloads/xvidcore-1.3.7.tar.bz2"
   sha256 "aeeaae952d4db395249839a3bd03841d6844843f5a4f84c271ff88f7aa1acff7"

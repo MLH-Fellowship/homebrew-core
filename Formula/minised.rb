@@ -1,5 +1,6 @@
 class Minised < Formula
   desc "Smaller, cheaper, faster SED implementation"
+  license "BSD-3-Clause"
   homepage "https://www.exactcode.com/opensource/minised/"
   url "https://dl.exactcode.de/oss/minised/minised-1.15.tar.gz"
   sha256 "ada36a55b71d1f2eb61f2f3b95f112708ce51e69f601bf5ea5d7acb7c21b3481"

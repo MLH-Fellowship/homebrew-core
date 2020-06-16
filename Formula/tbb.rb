@@ -1,5 +1,6 @@
 class Tbb < Formula
   desc "Rich and complete approach to parallelism in C++"
+  license "Apache-2.0"
   homepage "https://www.threadingbuildingblocks.org/"
   url "https://github.com/intel/tbb/archive/v2020.2.tar.gz"
   version "2020_U2"

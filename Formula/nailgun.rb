@@ -1,5 +1,6 @@
 class Nailgun < Formula
   desc "Command-line client, protocol and server for Java programs"
+  license "Apache-2.0"
   homepage "http://www.martiansoftware.com/nailgun/"
   url "https://github.com/facebook/nailgun/archive/nailgun-all-v1.0.0.tar.gz"
   sha256 "a982c7399cde2b0a795f4ef36ca607fc5d8150395a9680b5c0a49ff9ca81a8c6"

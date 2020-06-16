@@ -1,5 +1,6 @@
 class Arping < Formula
   desc "Utility to check whether MAC addresses are already taken on a LAN"
+  license "GPL-2.0"
   homepage "https://github.com/ThomasHabets/arping"
   url "https://github.com/ThomasHabets/arping/archive/arping-2.21.tar.gz"
   sha256 "7bf550571aa1d4a2b00878bb2f6fb857a09d30bf65411c90d62afcd86755bd81"

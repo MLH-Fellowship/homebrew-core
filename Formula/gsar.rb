@@ -1,5 +1,6 @@
 class Gsar < Formula
   desc "General Search And Replace on files"
+  license "GPL-2.0"
   homepage "http://tjaberg.com/"
   url "http://tjaberg.com/gsar121.zip"
   version "1.21"

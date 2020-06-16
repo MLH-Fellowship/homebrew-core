@@ -1,5 +1,6 @@
 class QpidProton < Formula
   desc "High-performance, lightweight AMQP 1.0 messaging library"
+  license "Apache-2.0"
   homepage "https://qpid.apache.org/proton/"
   url "https://www.apache.org/dyn/closer.lua?path=qpid/proton/0.31.0/qpid-proton-0.31.0.tar.gz"
   mirror "https://archive.apache.org/dist/qpid/proton/0.31.0/qpid-proton-0.31.0.tar.gz"

@@ -2,6 +2,7 @@ class S3cmd < Formula
   include Language::Python::Virtualenv
 
   desc "Command-line tool for the Amazon S3 service"
+  license "GPL-2.0"
   homepage "https://s3tools.org/s3cmd"
   url "https://files.pythonhosted.org/packages/c7/eb/5143fe1884af2303cb7b23f453e5c9f337af46c2281581fc40ab5322dee4/s3cmd-2.1.0.tar.gz"
   sha256 "966b0a494a916fc3b4324de38f089c86c70ee90e8e1cae6d59102103a4c0cc03"

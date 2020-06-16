@@ -2,6 +2,7 @@ class Gitup < Formula
   include Language::Python::Virtualenv
 
   desc "Update multiple git repositories at once"
+  license "MIT"
   homepage "https://github.com/earwig/git-repo-updater"
   url "https://github.com/earwig/git-repo-updater.git",
       :tag      => "v0.5.1",

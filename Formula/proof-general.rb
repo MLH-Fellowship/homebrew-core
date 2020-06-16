@@ -1,5 +1,6 @@
 class ProofGeneral < Formula
   desc "Emacs-based generic interface for theorem provers"
+  license "GPL-2.0"
   homepage "https://proofgeneral.github.io"
   url "https://github.com/ProofGeneral/PG/archive/v4.4.tar.gz"
   sha256 "1ba236d81768a87afa0287f49d4b2223097bc61d180468cbd997d46ab6132e7e"

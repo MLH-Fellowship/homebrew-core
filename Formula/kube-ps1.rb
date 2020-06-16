@@ -1,5 +1,6 @@
 class KubePs1 < Formula
   desc "Kubernetes prompt info for bash and zsh"
+  license "Apache-2.0"
   homepage "https://github.com/jonmosco/kube-ps1"
   url "https://github.com/jonmosco/kube-ps1/archive/v0.7.0.tar.gz"
   sha256 "f5ccaf6537e944db5b9cf40d3f01cf99732dce5adaaaf840780aa38b1b030471"

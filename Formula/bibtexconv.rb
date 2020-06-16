@@ -1,5 +1,6 @@
 class Bibtexconv < Formula
   desc "BibTeX file converter"
+  license "GPL-3.0"
   homepage "https://www.uni-due.de/~be0001/bibtexconv/"
   url "https://github.com/dreibh/bibtexconv/archive/bibtexconv-1.1.20.tar.gz"
   sha256 "5fbc14d0181ec7eeb024a628af070ce7286f2cb92147c3ffa8504201cfcc3f8b"

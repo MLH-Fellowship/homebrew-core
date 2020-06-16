@@ -1,5 +1,6 @@
 class Libewf < Formula
   desc "Library for support of the Expert Witness Compression Format"
+  license "LGPL-3.0"
   homepage "https://github.com/libyal/libewf"
   # The main libewf repository is currently "experimental".
   url "https://github.com/libyal/libewf-legacy/releases/download/20140808/libewf-20140808.tar.gz"

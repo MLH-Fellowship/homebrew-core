@@ -1,5 +1,6 @@
 class Lazydocker < Formula
   desc "The lazier way to manage everything docker"
+  license "MIT"
   homepage "https://github.com/jesseduffield/lazydocker"
   url "https://github.com/jesseduffield/lazydocker.git",
       :tag      => "v0.9.1",

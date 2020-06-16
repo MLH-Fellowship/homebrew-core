@@ -1,5 +1,6 @@
 class Cassowary < Formula
   desc "Modern cross-platform HTTP load-testing tool written in Go"
+  license "MIT"
   homepage "https://github.com/rogerwelin/cassowary"
   url "https://github.com/rogerwelin/cassowary/archive/v0.11.0.tar.gz"
   sha256 "60d1bc68b75a59bc5511fd33eb77b14acd735887c74af1bbc4ea68badd271606"

@@ -1,5 +1,6 @@
 class Snag < Formula
   desc "Automatic build tool for all your needs"
+  license "MIT"
   homepage "https://github.com/Tonkpils/snag"
   url "https://github.com/Tonkpils/snag/archive/v1.2.0.tar.gz"
   sha256 "37bf661436edf4526adf5428ac5ff948871c613ff4f9b61fbbdfe1fb95f58b37"

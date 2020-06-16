@@ -1,5 +1,6 @@
 class Eureka < Formula
   desc "CLI tool to input and store your ideas without leaving the terminal"
+  license "MIT"
   homepage "https://github.com/simeg/eureka"
   url "https://github.com/simeg/eureka/archive/v1.7.0.tar.gz"
   sha256 "3a4475fcce16acdb5bfc705641dbfc99ab7d8d7739de1da44d1f9c2fec8ea92d"

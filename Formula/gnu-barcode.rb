@@ -1,5 +1,6 @@
 class GnuBarcode < Formula
   desc "Convert text strings to printed bars"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/barcode/"
   url "https://ftp.gnu.org/gnu/barcode/barcode-0.99.tar.gz"
   mirror "https://ftpmirror.gnu.org/barcode/barcode-0.99.tar.gz"

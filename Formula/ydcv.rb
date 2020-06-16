@@ -2,6 +2,7 @@ class Ydcv < Formula
   include Language::Python::Virtualenv
 
   desc "YouDao Console Version"
+  license "GPL-3.0"
   homepage "https://github.com/felixonmars/ydcv"
   url "https://github.com/felixonmars/ydcv/archive/0.7.tar.gz"
   sha256 "03dd5de36ea8fce3170e678e63fc3694e2718b22bc5e1526e3e07f5c36ec9aa0"

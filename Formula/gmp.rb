@@ -1,5 +1,6 @@
 class Gmp < Formula
   desc "GNU multiple precision arithmetic library"
+  license "GPL-3.0"
   homepage "https://gmplib.org/"
   url "https://gmplib.org/download/gmp/gmp-6.2.0.tar.xz"
   mirror "https://ftp.gnu.org/gnu/gmp/gmp-6.2.0.tar.xz"

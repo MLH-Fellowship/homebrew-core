@@ -1,5 +1,6 @@
 class RbenvAliases < Formula
   desc "Make aliases for Ruby versions"
+  license "MIT"
   homepage "https://github.com/tpope/rbenv-aliases"
   url "https://github.com/tpope/rbenv-aliases/archive/v1.1.0.tar.gz"
   sha256 "12e89bc4499e85d8babac2b02bc8b66ceb0aa3f8047b26728a3eca8a6030273d"

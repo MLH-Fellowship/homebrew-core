@@ -1,5 +1,6 @@
 class Rdup < Formula
   desc "Utility to create a file list suitable for making backups"
+  license "GPL-3.0"
   homepage "https://github.com/miekg/rdup"
   url "https://github.com/miekg/rdup/archive/1.1.15.tar.gz"
   sha256 "787b8c37e88be810a710210a9d9f6966b544b1389a738aadba3903c71e0c29cb"

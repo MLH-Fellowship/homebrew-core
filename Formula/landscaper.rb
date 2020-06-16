@@ -1,5 +1,6 @@
 class Landscaper < Formula
   desc "Manage the application landscape in a Kubernetes cluster"
+  license "Apache-2.0"
   homepage "https://github.com/Eneco/landscaper"
   url "https://github.com/Eneco/landscaper.git",
       :tag      => "v1.0.24",

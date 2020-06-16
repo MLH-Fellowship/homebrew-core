@@ -1,5 +1,6 @@
 class M4 < Formula
   desc "Macro processing language"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/m4"
   url "https://ftp.gnu.org/gnu/m4/m4-1.4.18.tar.xz"
   mirror "https://ftpmirror.gnu.org/m4/m4-1.4.18.tar.xz"

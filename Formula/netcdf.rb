@@ -1,5 +1,6 @@
 class Netcdf < Formula
   desc "Libraries and data formats for array-oriented scientific data"
+  license "BSD-3-Clause"
   homepage "https://www.unidata.ucar.edu/software/netcdf"
   url "https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-c-4.7.4.tar.gz"
   mirror "https://www.gfd-dennou.org/arch/netcdf/unidata-mirror/netcdf-c-4.7.4.tar.gz"

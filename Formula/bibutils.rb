@@ -1,5 +1,6 @@
 class Bibutils < Formula
   desc "Bibliography conversion utilities"
+  license "GPL-2.0"
   homepage "https://sourceforge.net/p/bibutils/home/Bibutils/"
   url "https://downloads.sourceforge.net/project/bibutils/bibutils_6.10_src.tgz"
   sha256 "8656c042fa1371443aa4e1a58bcab5fcea0b236eb39182e4004fc348ce56e496"

@@ -1,5 +1,6 @@
 class ElmFormat < Formula
   desc "Elm source code formatter, inspired by gofmt"
+  license "BSD-3-Clause"
   homepage "https://github.com/avh4/elm-format"
   url "https://github.com/avh4/elm-format.git",
       :tag      => "0.8.3",

@@ -4,6 +4,7 @@ class Hlint < Formula
   include Language::Haskell::Cabal
 
   desc "Haskell source code suggestions"
+  license "BSD-3-Clause"
   homepage "https://github.com/ndmitchell/hlint"
   url "https://hackage.haskell.org/package/hlint-3.1.4/hlint-3.1.4.tar.gz"
   sha256 "bbe132ae5e2a7428e6c5a53bbb224809163996d024bb260aebc66d6637b050f3"

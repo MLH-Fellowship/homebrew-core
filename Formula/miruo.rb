@@ -1,5 +1,6 @@
 class Miruo < Formula
   desc "Pretty-print TCP session monitor/analyzer"
+  license "GPL-3.0"
   homepage "https://github.com/KLab/miruo/"
   url "https://github.com/KLab/miruo/archive/0.9.6b.tar.gz"
   version "0.9.6b"

@@ -1,5 +1,6 @@
 class GstPluginsGood < Formula
   desc "GStreamer plugins (well-supported, under the LGPL)"
+  license "LGPL-2.1"
   homepage "https://gstreamer.freedesktop.org/"
 
   stable do

@@ -1,5 +1,6 @@
 class GtkGnutella < Formula
   desc "Share files in a peer-to-peer (P2P) network"
+  license "GPL-2.0"
   homepage "https://gtk-gnutella.sourceforge.io"
   url "https://downloads.sourceforge.net/project/gtk-gnutella/gtk-gnutella/1.1.15/gtk-gnutella-1.1.15.tar.xz"
   sha256 "2931fab394b6d36c14a6bbc3b0ff584af5550f2eeb03f78bb19743c47767c1b7"

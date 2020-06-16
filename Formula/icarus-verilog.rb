@@ -1,5 +1,6 @@
 class IcarusVerilog < Formula
   desc "Verilog simulation and synthesis tool"
+  license "LGPL-2.1"
   homepage "http://iverilog.icarus.com/"
   url "https://github.com/steveicarus/iverilog/archive/v10_3.tar.gz"
   mirror "https://deb.debian.org/debian/pool/main/i/iverilog/iverilog_10.3.orig.tar.gz"

@@ -1,5 +1,6 @@
 class Run < Formula
   desc "Easily manage and invoke small scripts and wrappers"
+  license "MIT"
   homepage "https://github.com/TekWizely/run"
   url "https://github.com/TekWizely/run/archive/v0.7.2.tar.gz"
   sha256 "c542b523c67e3cd2ca05a8e2f92cca607181a68518b2568a68b76ed9f700d6e0"

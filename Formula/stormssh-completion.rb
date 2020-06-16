@@ -1,5 +1,6 @@
 class StormsshCompletion < Formula
   desc "Completion for storm-ssh"
+  license "MIT"
   homepage "https://github.com/vigo/stormssh-completion"
   url "https://github.com/vigo/stormssh-completion/archive/0.1.1.tar.gz"
   sha256 "cbdc35d674919aacc18723c42f2b6354fcd3efdcbfbb28e1fe60fbd1c1c7b18d"

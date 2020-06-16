@@ -1,5 +1,6 @@
 class Wtfutil < Formula
   desc "The personal information dashboard for your terminal"
+  license "MPL-2.0"
   homepage "https://wtfutil.com"
   url "https://github.com/wtfutil/wtf.git",
     :tag      => "v0.30.0",

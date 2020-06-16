@@ -1,5 +1,6 @@
 class Kubebuilder < Formula
   desc "SDK for building Kubernetes APIs using CRDs"
+  license "Apache-2.0"
   homepage "https://github.com/kubernetes-sigs/kubebuilder"
   url "https://github.com/kubernetes-sigs/kubebuilder.git",
       :tag      => "v2.3.1",

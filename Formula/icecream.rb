@@ -1,5 +1,6 @@
 class Icecream < Formula
   desc "Distributed compiler with a central scheduler to share build load"
+  license "GPL-2.0"
   homepage "https://en.opensuse.org/Icecream"
   url "https://github.com/icecc/icecream/archive/1.3.1.tar.gz"
   sha256 "9f45510fb2251d818baebcff19051c1cf059e48c6b830fb064a8379480159b9d"

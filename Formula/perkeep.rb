@@ -1,5 +1,6 @@
 class Perkeep < Formula
   desc "Lets you permanently keep your stuff, for life"
+  license "Apache-2.0"
   homepage "https://perkeep.org/"
   url "https://github.com/perkeep/perkeep.git",
       :tag      => "0.10",

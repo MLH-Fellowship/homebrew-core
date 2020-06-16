@@ -1,5 +1,6 @@
 class Atasm < Formula
   desc "Atari MAC/65 compatible assembler for Unix"
+  license "GPL-2.0"
   homepage "https://atari.miribilist.com/atasm/"
   url "https://atari.miribilist.com/atasm/atasm107d.zip"
   version "1.07d"

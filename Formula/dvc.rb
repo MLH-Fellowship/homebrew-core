@@ -2,6 +2,7 @@ class Dvc < Formula
   include Language::Python::Virtualenv
 
   desc "Git for data science projects"
+  license "Apache-2.0"
   homepage "https://dvc.org"
   url "https://github.com/iterative/dvc/archive/0.94.0.tar.gz"
   sha256 "3fbbaa52d4392a69303f4d0d03a119559f01013404e9b912ebf9a2381d5b6da2"

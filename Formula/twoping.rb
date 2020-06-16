@@ -1,5 +1,6 @@
 class Twoping < Formula
   desc "Ping utility to determine directional packet loss"
+  license "GPL-2.0"
   homepage "https://www.finnie.org/software/2ping/"
   url "https://www.finnie.org/software/2ping/2ping-4.4.1.tar.gz"
   sha256 "0aa52cba661abdbf51f2f344c93ec116ca2e1e4ba2e82519b8a65ae5b08b0316"

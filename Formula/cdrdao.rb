@@ -1,5 +1,6 @@
 class Cdrdao < Formula
   desc "Record CDs in Disk-At-Once mode"
+  license "GPL-2.0"
   homepage "https://cdrdao.sourceforge.io/"
   url "https://downloads.sourceforge.net/project/cdrdao/cdrdao-1.2.4.tar.bz2"
   sha256 "358d9cb83370ceaecdc60564cbf14c2ea2636eac60a966e2461c011ba09853b4"

@@ -2,6 +2,7 @@ class Snakemake < Formula
   include Language::Python::Virtualenv
 
   desc "Pythonic workflow system"
+  license "MIT"
   homepage "https://snakemake.readthedocs.io/"
   url "https://files.pythonhosted.org/packages/8f/cc/b207d1991f1c386402bcb7ec19942950a4c8f44f61b50a3598a1edd13d4b/snakemake-5.19.2.tar.gz"
   sha256 "e5e80b482a73d3a3c3f58f9391a857d58cb80aa92498ac7468e6893ee3e2de60"

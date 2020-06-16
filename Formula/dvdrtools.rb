@@ -1,5 +1,6 @@
 class Dvdrtools < Formula
   desc "Fork of cdrtools DVD writer support"
+  license "GPL-2.0"
   homepage "https://savannah.nongnu.org/projects/dvdrtools/"
   url "https://savannah.nongnu.org/download/dvdrtools/dvdrtools-0.2.1.tar.gz"
   sha256 "053d0f277f69b183f9c8e8c8b09b94d5bb4a1de6d9b122c0e6c00cc6593dfb46"

@@ -1,5 +1,6 @@
 class C2048 < Formula
   desc "Console version of 2048"
+  license "MIT"
   homepage "https://github.com/mevdschee/2048.c"
   url "https://github.com/mevdschee/2048.c.git", :revision => "578a5f314e1ce31b57e645a8c0a2c9d9d5539cde"
   version "0+20150805"

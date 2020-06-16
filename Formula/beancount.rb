@@ -2,6 +2,7 @@ class Beancount < Formula
   include Language::Python::Virtualenv
 
   desc "Double-entry accounting tool that works on plain text files"
+  license "GPL-2.0"
   homepage "http://furius.ca/beancount/"
   url "https://files.pythonhosted.org/packages/26/d6/9cb23ad3af828ebba10deda85dc28c0985acfbfdce3fb6c4b76ec69389d3/beancount-2.3.0.tar.gz"
   sha256 "9a6d9692435007195aae29a20328fb11d0126ff03db66322a79a894b1f422712"

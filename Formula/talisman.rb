@@ -1,5 +1,6 @@
 class Talisman < Formula
   desc "Tool to detect and prevent secrets from getting checked in"
+  license "MIT"
   homepage "https://thoughtworks.github.io/talisman/"
   url "https://github.com/thoughtworks/talisman",
       :using    => :git,

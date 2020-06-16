@@ -1,5 +1,6 @@
 class Srmio < Formula
   desc "C library to access the PowerControl of a SRM bike power meter"
+  license "MIT"
   homepage "http://www.zuto.de/project/srmio/"
   url "http://www.zuto.de/project/files/srmio/srmio-0.1.1~git1.tar.gz"
   version "0.1.1~git1"

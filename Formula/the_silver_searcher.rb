@@ -1,5 +1,6 @@
 class TheSilverSearcher < Formula
   desc "Code-search similar to ack"
+  license "Apache-2.0"
   homepage "https://github.com/ggreer/the_silver_searcher"
   url "https://github.com/ggreer/the_silver_searcher/archive/2.2.0.tar.gz"
   sha256 "6a0a19ca5e73b2bef9481c29a508d2413ca1a0a9a5a6b1bd9bbd695a7626cbf9"

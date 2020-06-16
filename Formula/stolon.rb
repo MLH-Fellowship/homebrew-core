@@ -1,5 +1,6 @@
 class Stolon < Formula
   desc "Cloud native PostgreSQL manager for high availability"
+  license "Apache-2.0"
   homepage "https://github.com/sorintlab/stolon"
   url "https://github.com/sorintlab/stolon.git",
     :tag      => "v0.16.0",

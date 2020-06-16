@@ -1,5 +1,6 @@
 class Infrakit < Formula
   desc "Toolkit for creating and managing declarative infrastructure"
+  license "Apache-2.0"
   homepage "https://github.com/docker/deploykit"
   url "https://github.com/docker/deploykit.git",
       :tag      => "v0.5",

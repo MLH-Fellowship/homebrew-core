@@ -1,5 +1,6 @@
 class LSmash < Formula
   desc "Tool for working with MP4 files"
+  license "ISC"
   homepage "https://l-smash.github.io/l-smash/"
   url "https://github.com/l-smash/l-smash.git",
       :shallow  => false,

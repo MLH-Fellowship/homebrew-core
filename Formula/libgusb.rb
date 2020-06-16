@@ -1,5 +1,6 @@
 class Libgusb < Formula
   desc "GObject wrappers for libusb1"
+  license "LGPL-2.1"
   homepage "https://github.com/hughsie/libgusb"
   url "https://people.freedesktop.org/~hughsient/releases/libgusb-0.3.1.tar.xz"
   sha256 "4b677a372e97748970b1bb3dac076da2d051e4376c5960e77b7159701c851fed"

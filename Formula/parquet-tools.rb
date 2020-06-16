@@ -1,5 +1,6 @@
 class ParquetTools < Formula
   desc "Apache Parquet command-line tools and utilities"
+  license "Apache-2.0"
   homepage "https://parquet.apache.org/"
   url "https://github.com/apache/parquet-mr.git",
       :tag      => "apache-parquet-1.10.0",

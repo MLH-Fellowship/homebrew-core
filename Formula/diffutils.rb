@@ -1,5 +1,6 @@
 class Diffutils < Formula
   desc "File comparison utilities"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/s/diffutils/"
   url "https://ftp.gnu.org/gnu/diffutils/diffutils-3.7.tar.xz"
   mirror "https://ftpmirror.gnu.org/diffutils/diffutils-3.7.tar.xz"

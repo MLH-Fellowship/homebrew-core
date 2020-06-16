@@ -1,5 +1,6 @@
 class Groff < Formula
   desc "GNU troff text-formatting system"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/groff/"
   url "https://ftp.gnu.org/gnu/groff/groff-1.22.4.tar.gz"
   mirror "https://ftpmirror.gnu.org/groff/groff-1.22.4.tar.gz"

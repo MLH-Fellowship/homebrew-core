@@ -1,5 +1,6 @@
 class Flvmeta < Formula
   desc "Manipulate Adobe flash video files (FLV)"
+  license "GPL-2.0"
   homepage "https://www.flvmeta.com/"
   url "https://flvmeta.com/files/flvmeta-1.2.2.tar.gz"
   sha256 "a51a2f18d97dfa1d09729546ce9ac690569b4ce6f738a75363113d990c0e5118"

@@ -1,5 +1,6 @@
 class Chipmunk < Formula
   desc "2D rigid body physics library written in C"
+  license "MIT"
   homepage "https://chipmunk-physics.net/"
   url "https://chipmunk-physics.net/release/Chipmunk-7.x/Chipmunk-7.0.3.tgz"
   mirror "https://www.mirrorservice.org/sites/distfiles.macports.org/chipmunk/Chipmunk-7.0.3.tgz"

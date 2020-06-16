@@ -1,5 +1,6 @@
 class Babl < Formula
   desc "Dynamic, any-to-any, pixel format translation library"
+  license "LGPL-3.0"
   homepage "http://www.gegl.org/babl/"
   url "https://download.gimp.org/pub/babl/0.1/babl-0.1.78.tar.xz"
   sha256 "17d5493633bff5585d9f375bc4df5925157cd1c70ccd7c22a635be75c172523a"

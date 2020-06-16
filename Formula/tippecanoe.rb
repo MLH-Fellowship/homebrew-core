@@ -1,5 +1,6 @@
 class Tippecanoe < Formula
   desc "Build vector tilesets from collections of GeoJSON features"
+  license "BSD-2-Clause"
   homepage "https://github.com/mapbox/tippecanoe"
   url "https://github.com/mapbox/tippecanoe/archive/1.35.0.tar.gz"
   sha256 "4a31ef5ba1288eb17f9d52a7d84fef9432f13756af9d2c243d46309d6ff09488"

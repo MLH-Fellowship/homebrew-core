@@ -1,5 +1,6 @@
 class Fatsort < Formula
   desc "Sorts FAT16 and FAT32 partitions"
+  license "GPL-2.0"
   homepage "https://fatsort.sourceforge.io/"
   url "https://downloads.sourceforge.net/project/fatsort/fatsort-1.5.0.456.tar.xz"
   version "1.5.0"

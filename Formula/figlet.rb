@@ -1,5 +1,6 @@
 class Figlet < Formula
   desc "Banner-like program prints strings as ASCII art"
+  license "BSD-3-Clause"
   homepage "http://www.figlet.org/"
   url "http://ftp.figlet.org/pub/figlet/program/unix/figlet-2.2.5.tar.gz"
   mirror "https://fossies.org/linux/misc/figlet-2.2.5.tar.gz"

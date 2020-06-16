@@ -1,5 +1,6 @@
 class XercesC < Formula
   desc "Validating XML parser"
+  license "Apache-2.0"
   homepage "https://xerces.apache.org/xerces-c/"
   url "https://www.apache.org/dyn/closer.lua?path=xerces/c/3/sources/xerces-c-3.2.3.tar.gz"
   mirror "https://archive.apache.org/dist/xerces/c/3/sources/xerces-c-3.2.3.tar.gz"

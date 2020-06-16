@@ -2,6 +2,7 @@ class Yamllint < Formula
   include Language::Python::Virtualenv
 
   desc "Linter for YAML files"
+  license "GPL-3.0"
   homepage "https://github.com/adrienverge/yamllint"
   url "https://github.com/adrienverge/yamllint/archive/v1.23.0.tar.gz"
   sha256 "48238b771f3910d2fa16a35430a956ff26e7b649134dd57b0a7f8b9b5ce6844c"

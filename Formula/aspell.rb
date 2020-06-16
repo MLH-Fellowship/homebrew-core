@@ -1,5 +1,6 @@
 class Aspell < Formula
   desc "Spell checker with better logic than ispell"
+  license "LGPL-2.1"
   homepage "http://aspell.net/"
   url "https://ftp.gnu.org/gnu/aspell/aspell-0.60.8.tar.gz"
   mirror "https://ftpmirror.gnu.org/aspell/aspell-0.60.8.tar.gz"

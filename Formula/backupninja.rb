@@ -1,5 +1,6 @@
 class Backupninja < Formula
   desc "Backup automation tool"
+  license "GPL-2.0"
   homepage "https://0xacab.org/riseuplabs/backupninja"
   url "https://sourcearchive.raspbian.org/main/b/backupninja/backupninja_1.1.0.orig.tar.gz"
   mirror "https://debian.ethz.ch/ubuntu/ubuntu/pool/universe/b/backupninja/backupninja_1.1.0.orig.tar.gz"

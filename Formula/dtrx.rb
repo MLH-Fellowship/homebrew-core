@@ -1,5 +1,6 @@
 class Dtrx < Formula
   desc "Intelligent archive extraction"
+  license "GPL-3.0"
   homepage "https://brettcsmith.org/2007/dtrx/"
   url "https://brettcsmith.org/2007/dtrx/dtrx-7.1.tar.gz"
   mirror "https://fossies.org/linux/privat/dtrx-7.1.tar.gz"

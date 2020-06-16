@@ -1,5 +1,6 @@
 class Ry < Formula
   desc "Ruby virtual env tool"
+  license "MIT"
   homepage "https://github.com/jayferd/ry"
   url "https://github.com/jayferd/ry/archive/v0.5.2.tar.gz"
   sha256 "b53b51569dfa31233654b282d091b76af9f6b8af266e889b832bb374beeb1f59"

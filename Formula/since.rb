@@ -1,5 +1,6 @@
 class Since < Formula
   desc "Stateful tail: show changes to files since last check"
+  license "GPL-3.0"
   homepage "http://welz.org.za/projects/since"
   url "http://welz.org.za/projects/since/since-1.1.tar.gz"
   sha256 "739b7f161f8a045c1dff184e0fc319417c5e2deb3c7339d323d4065f7a3d0f45"

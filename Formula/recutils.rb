@@ -1,5 +1,6 @@
 class Recutils < Formula
   desc "Tools to work with human-editable, plain text data files"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/recutils/"
   url "https://ftp.gnu.org/gnu/recutils/recutils-1.8.tar.gz"
   mirror "https://ftpmirror.gnu.org/gnu/recutils/recutils-1.8.tar.gz"

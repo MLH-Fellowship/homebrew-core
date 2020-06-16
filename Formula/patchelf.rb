@@ -1,5 +1,6 @@
 class Patchelf < Formula
   desc "Modify dynamic ELF executables"
+  license "GPL-3.0"
   homepage "https://github.com/NixOS/patchelf"
   url "https://github.com/NixOS/patchelf/archive/0.11.tar.gz"
   sha256 "e9dc4dbed842e475176ef60531c2805ed37a71c34cc6dc5d1b9ad68d889aeb6b"

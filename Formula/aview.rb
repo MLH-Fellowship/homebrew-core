@@ -1,5 +1,6 @@
 class Aview < Formula
   desc "ASCII-art image browser and animation viewer"
+  license "GPL-2.0"
   homepage "https://aa-project.sourceforge.io/"
   url "https://downloads.sourceforge.net/aa-project/aview-1.3.0rc1.tar.gz"
   sha256 "42d61c4194e8b9b69a881fdde698c83cb27d7eda59e08b300e73aaa34474ec99"

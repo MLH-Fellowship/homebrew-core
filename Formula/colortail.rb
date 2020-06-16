@@ -1,5 +1,6 @@
 class Colortail < Formula
   desc "Like tail(1), but with various colors for specified output"
+  license "GPL-2.0"
   homepage "https://github.com/joakim666/colortail"
   url "https://github.com/joakim666/colortail.git",
     :revision => "f44fce0dbfd6bd38cba03400db26a99b489505b5"

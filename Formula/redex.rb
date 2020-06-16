@@ -1,5 +1,6 @@
 class Redex < Formula
   desc "Bytecode optimizer for Android apps"
+  license "MIT"
   homepage "https://fbredex.com"
   revision 5
   head "https://github.com/facebook/redex.git"

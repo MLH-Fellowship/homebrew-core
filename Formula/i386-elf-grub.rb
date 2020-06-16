@@ -1,5 +1,6 @@
 class I386ElfGrub < Formula
   desc "GNU GRUB 2 for i386-elf"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/grub/"
   url "https://ftp.gnu.org/gnu/grub/grub-2.04.tar.xz"
   sha256 "e5292496995ad42dabe843a0192cf2a2c502e7ffcc7479398232b10a472df77d"

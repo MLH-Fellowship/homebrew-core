@@ -1,5 +1,6 @@
 class Ohcount < Formula
   desc "Source code line counter"
+  license "GPL-2.0"
   homepage "https://github.com/blackducksoftware/ohcount"
   url "https://github.com/blackducksoftware/ohcount/archive/4.0.0.tar.gz"
   sha256 "d71f69fd025f5bae58040988108f0d8d84f7204edda1247013cae555bfdae1b9"

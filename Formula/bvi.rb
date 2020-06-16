@@ -1,5 +1,6 @@
 class Bvi < Formula
   desc "Vi-like binary file (hex) editor"
+  license "GPL-3.0"
   homepage "https://bvi.sourceforge.io"
   url "https://downloads.sourceforge.net/bvi/bvi-1.4.1.src.tar.gz"
   sha256 "3035255ca79e0464567d255baa5544f7794e2b7eb791dcc60cc339cf1aa01e28"

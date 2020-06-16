@@ -1,5 +1,6 @@
 class Sourcekitten < Formula
   desc "Framework and command-line tool for interacting with SourceKit"
+  license "MIT"
   homepage "https://github.com/jpsim/SourceKitten"
   url "https://github.com/jpsim/SourceKitten.git",
       :tag      => "0.29.0",

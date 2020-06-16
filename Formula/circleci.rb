@@ -1,5 +1,6 @@
 class Circleci < Formula
   desc "Enables you to reproduce the CircleCI environment locally"
+  license "MIT"
   homepage "https://circleci.com/docs/2.0/local-cli/"
   # Updates should be pushed no more frequently than once per week.
   url "https://github.com/CircleCI-Public/circleci-cli.git",

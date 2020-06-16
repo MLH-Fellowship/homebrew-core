@@ -1,5 +1,6 @@
 class IosDeploy < Formula
   desc "Install and debug iPhone apps from the command-line"
+  license "GPL-3.0"
   homepage "https://github.com/ios-control/ios-deploy"
   url "https://github.com/ios-control/ios-deploy/archive/1.10.0.tar.gz"
   sha256 "619176b0a78f631be169970a5afc9ec94b206d48ec7cb367bb5bf9d56b098290"

@@ -1,5 +1,6 @@
 class Watchman < Formula
   desc "Watch files and take action when they change"
+  license "Apache-2.0"
   homepage "https://github.com/facebook/watchman"
   revision 4
   head "https://github.com/facebook/watchman.git"

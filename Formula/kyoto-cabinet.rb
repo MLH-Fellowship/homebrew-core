@@ -1,5 +1,6 @@
 class KyotoCabinet < Formula
   desc "Library of routines for managing a database"
+  license "GPL-3.0"
   homepage "https://fallabs.com/kyotocabinet/"
   url "https://fallabs.com/kyotocabinet/pkg/kyotocabinet-1.2.77.tar.gz"
   sha256 "56899329384cc6f0f1f8aa3f1b41001071ca99c1d79225086a7f3575c0209de6"

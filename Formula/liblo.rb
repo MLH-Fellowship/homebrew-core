@@ -1,5 +1,6 @@
 class Liblo < Formula
   desc "Lightweight Open Sound Control implementation"
+  license "LGPL-2.1"
   homepage "https://liblo.sourceforge.io/"
   url "https://downloads.sourceforge.net/project/liblo/liblo/0.31/liblo-0.31.tar.gz"
   sha256 "2b4f446e1220dcd624ecd8405248b08b7601e9a0d87a0b94730c2907dbccc750"

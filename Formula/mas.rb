@@ -1,5 +1,6 @@
 class Mas < Formula
   desc "Mac App Store command-line interface"
+  license "MIT"
   homepage "https://github.com/mas-cli/mas"
   url "https://github.com/mas-cli/mas.git",
       :tag      => "v1.7.0",

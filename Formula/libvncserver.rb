@@ -1,5 +1,6 @@
 class Libvncserver < Formula
   desc "VNC server and client libraries"
+  license "GPL-2.0"
   homepage "https://libvnc.github.io"
   url "https://github.com/LibVNC/libvncserver/archive/LibVNCServer-0.9.13.tar.gz"
   sha256 "0ae5bb9175dc0a602fe85c1cf591ac47ee5247b87f2bf164c16b05f87cbfa81a"

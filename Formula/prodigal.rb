@@ -1,5 +1,6 @@
 class Prodigal < Formula
   desc "Microbial gene prediction"
+  license "GPL-3.0"
   homepage "https://github.com/hyattpd/Prodigal"
   url "https://github.com/hyattpd/Prodigal/archive/v2.6.3.tar.gz"
   sha256 "89094ad4bff5a8a8732d899f31cec350f5a4c27bcbdd12663f87c9d1f0ec599f"

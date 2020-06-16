@@ -1,5 +1,6 @@
 class Namazu < Formula
   desc "Full-text search engine"
+  license "GPL-2.0"
   homepage "http://www.namazu.org/"
   url "http://www.namazu.org/stable/namazu-2.0.21.tar.gz"
   sha256 "5c18afb679db07084a05aca8dffcfb5329173d99db8d07ff6d90b57c333c71f7"

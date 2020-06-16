@@ -1,5 +1,6 @@
 class Rtags < Formula
   desc "Source code cross-referencer like ctags with a clang frontend"
+  license "GPL-3.0"
   homepage "https://github.com/Andersbakken/rtags"
   url "https://github.com/Andersbakken/rtags.git",
       :tag      => "v2.38",

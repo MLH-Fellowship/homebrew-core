@@ -1,5 +1,6 @@
 class CfrDecompiler < Formula
   desc "Yet Another Java Decompiler"
+  license "MIT"
   homepage "https://www.benf.org/other/cfr/"
   url "https://github.com/leibnitz27/cfr.git",
       :tag      => "0.150",

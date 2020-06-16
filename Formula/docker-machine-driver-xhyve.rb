@@ -1,5 +1,6 @@
 class DockerMachineDriverXhyve < Formula
   desc "Docker Machine driver for xhyve"
+  license "BSD-3-Clause"
   homepage "https://github.com/machine-drivers/docker-machine-driver-xhyve"
   url "https://github.com/machine-drivers/docker-machine-driver-xhyve.git",
       :tag      => "v0.4.0",

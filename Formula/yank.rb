@@ -1,5 +1,6 @@
 class Yank < Formula
   desc "Copy terminal output to clipboard"
+  license "MIT"
   homepage "https://github.com/mptre/yank"
   url "https://github.com/mptre/yank/archive/v1.2.0.tar.gz"
   sha256 "c4a2f854f9e49e1df61491d3fab29ea595c7e3307394acb15f32b6d415840bce"

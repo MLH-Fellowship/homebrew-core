@@ -1,5 +1,6 @@
 class Lumo < Formula
   desc "Fast, cross-platform, standalone ClojureScript environment"
+  license "EPL-1.0"
   homepage "https://github.com/anmonteiro/lumo"
   url "https://github.com/anmonteiro/lumo/archive/1.10.1.tar.gz"
   sha256 "16acbd5f74893af8a08c8132c0779294c5767ae23d13084db08240e0a0a1738c"

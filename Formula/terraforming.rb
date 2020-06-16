@@ -1,5 +1,6 @@
 class Terraforming < Formula
   desc "Export existing AWS resources to Terraform style (tf, tfstate)"
+  license "MIT"
   homepage "https://terraforming.dtan4.net/"
   url "https://github.com/dtan4/terraforming.git",
       :tag      => "v0.18.0",

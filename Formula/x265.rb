@@ -1,5 +1,6 @@
 class X265 < Formula
   desc "H.265/HEVC encoder"
+  license "GPL-2.0"
   homepage "https://bitbucket.org/multicoreware/x265"
   url "https://bitbucket.org/multicoreware/x265/downloads/x265_3.4.tar.gz"
   sha256 "c2047f23a6b729e5c70280d23223cb61b57bfe4ad4e8f1471eeee2a61d148672"

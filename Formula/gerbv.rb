@@ -1,5 +1,6 @@
 class Gerbv < Formula
   desc "Gerber (RS-274X) viewer"
+  license "GPL-2.0"
   homepage "http://gerbv.gpleda.org/"
   # 2.6.1 is the latest official stable release but it is very buggy and incomplete
   url "https://downloads.sourceforge.net/project/gerbv/gerbv/gerbv-2.7.0/gerbv-2.7.0.tar.gz"

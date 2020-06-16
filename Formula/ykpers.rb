@@ -1,5 +1,6 @@
 class Ykpers < Formula
   desc "YubiKey personalization library and tool"
+  license "BSD-2-Clause"
   homepage "https://developers.yubico.com/yubikey-personalization/"
   url "https://developers.yubico.com/yubikey-personalization/Releases/ykpers-1.20.0.tar.gz"
   sha256 "0ec84d0ea862f45a7d85a1a3afe5e60b8da42df211bb7d27a50f486e31a79b93"

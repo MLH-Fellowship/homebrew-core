@@ -1,5 +1,6 @@
 class Libpulsar < Formula
   desc "Apache Pulsar C++ library"
+  license "Apache-2.0"
   homepage "https://pulsar.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=pulsar/pulsar-2.5.2/apache-pulsar-2.5.2-src.tar.gz"
   mirror "https://archive.apache.org/dist/pulsar/pulsar-2.5.2/apache-pulsar-2.5.2-src.tar.gz"

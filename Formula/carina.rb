@@ -1,5 +1,6 @@
 class Carina < Formula
   desc "Command-line client for Carina"
+  license "Apache-2.0"
   homepage "https://github.com/getcarina/carina"
   url "https://github.com/getcarina/carina.git",
         :tag      => "v2.1.3",

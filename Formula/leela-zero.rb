@@ -1,5 +1,6 @@
 class LeelaZero < Formula
   desc "Neural Network Go engine with no human-provided knowledge"
+  license "GPL-3.0"
   homepage "https://zero.sjeng.org/"
   # pull from git tag to get submodules
   url "https://github.com/leela-zero/leela-zero.git",

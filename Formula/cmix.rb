@@ -1,5 +1,6 @@
 class Cmix < Formula
   desc "Data compression program with high compression ratio"
+  license "GPL-3.0"
   homepage "https://www.byronknoll.com/cmix.html"
   url "https://github.com/byronknoll/cmix/archive/v18.tar.gz"
   version "18.0.0"

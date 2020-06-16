@@ -1,5 +1,6 @@
 class Intercal < Formula
   desc "Esoteric, parody programming language"
+  license "GPL-2.0"
   homepage "http://catb.org/~esr/intercal/"
   url "http://catb.org/~esr/intercal/intercal-0.31.tar.gz"
   sha256 "93d842b81ecdc82b352beb463fbf688749b0c04445388a999667e1958bba4ffc"

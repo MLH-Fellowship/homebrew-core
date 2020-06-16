@@ -1,5 +1,6 @@
 class Gdb < Formula
   desc "GNU debugger"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/gdb/"
   url "https://ftp.gnu.org/gnu/gdb/gdb-9.2.tar.xz"
   mirror "https://ftpmirror.gnu.org/gdb/gdb-9.2.tar.xz"

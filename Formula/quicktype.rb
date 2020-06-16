@@ -2,6 +2,7 @@ require "language/node"
 
 class Quicktype < Formula
   desc "Generate types and converters from JSON, Schema, and GraphQL"
+  license "Apache-2.0"
   homepage "https://github.com/quicktype/quicktype"
   # quicktype should only be updated every 10 releases on multiples of 10
   url "https://registry.npmjs.org/quicktype/-/quicktype-15.0.240.tgz"

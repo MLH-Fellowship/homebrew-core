@@ -1,5 +1,6 @@
 class Prover9 < Formula
   desc "Automated theorem prover for first-order and equational logic"
+  license "GPL-2.0"
   homepage "https://www.cs.unm.edu/~mccune/prover9/"
   url "https://www.cs.unm.edu/~mccune/prover9/download/LADR-2009-11A.tar.gz"
   version "2009-11A"

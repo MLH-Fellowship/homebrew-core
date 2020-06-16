@@ -1,5 +1,6 @@
 class Parrot < Formula
   desc "Open source virtual machine (for Perl6, et al.)"
+  license "Artistic-2.0"
   homepage "http://www.parrot.org/"
   head "https://github.com/parrot/parrot.git"
 

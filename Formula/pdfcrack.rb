@@ -1,5 +1,6 @@
 class Pdfcrack < Formula
   desc "PDF files password cracker"
+  license "GPL-2.0"
   homepage "https://pdfcrack.sourceforge.io/"
   url "https://downloads.sourceforge.net/project/pdfcrack/pdfcrack/pdfcrack-0.19/pdfcrack-0.19.tar.gz"
   sha256 "3115206998b7cddf13971dd4b50946c077fc96e220aca1c0734798d907a2c0ed"

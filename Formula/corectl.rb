@@ -1,5 +1,6 @@
 class Corectl < Formula
   desc "CoreOS over macOS made very simple"
+  license "Apache-2.0"
   homepage "https://github.com/TheNewNormal/corectl"
   url "https://github.com/TheNewNormal/corectl/archive/v0.7.18.tar.gz"
   sha256 "9bdf7bc8c6a7bd861e2b723c0566d0a093ed5d5caf370a065a1708132b4ab98a"

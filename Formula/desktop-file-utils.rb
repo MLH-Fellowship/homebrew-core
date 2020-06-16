@@ -1,5 +1,6 @@
 class DesktopFileUtils < Formula
   desc "Command-line utilities for working with desktop entries"
+  license "GPL-2.0"
   homepage "https://wiki.freedesktop.org/www/Software/desktop-file-utils/"
   url "https://www.freedesktop.org/software/desktop-file-utils/releases/desktop-file-utils-0.24.tar.xz"
   sha256 "a1de5da60cbdbe91e5c9c10ac9afee6c3deb019e0cee5fdb9a99dddc245f83d9"

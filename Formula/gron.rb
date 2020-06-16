@@ -2,6 +2,7 @@ require "language/go"
 
 class Gron < Formula
   desc "Make JSON greppable"
+  license "MIT"
   homepage "https://github.com/tomnomnom/gron"
   url "https://github.com/tomnomnom/gron/archive/v0.6.0.tar.gz"
   sha256 "fe75b1b4922b591723f48cb9cd2c31cb60bb3ab9f8d0398df75a08b781d8591c"

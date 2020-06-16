@@ -1,5 +1,6 @@
 class Flash < Formula
   desc "Command-line script to flash SD card images of any kind"
+  license "MIT"
   homepage "https://github.com/hypriot/flash"
   url "https://github.com/hypriot/flash/releases/download/2.7.1/flash"
   sha256 "879057fea97c791a812e5c990d4ea07effd02406d3a267a9b24285c31ea6db3f"

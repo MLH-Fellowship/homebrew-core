@@ -1,5 +1,6 @@
 class GnuSed < Formula
   desc "GNU implementation of the famous stream editor"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/sed/"
   url "https://ftp.gnu.org/gnu/sed/sed-4.8.tar.xz"
   mirror "https://ftpmirror.gnu.org/sed/sed-4.8.tar.xz"

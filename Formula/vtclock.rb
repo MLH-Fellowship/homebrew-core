@@ -1,5 +1,6 @@
 class Vtclock < Formula
   desc "Text-mode fullscreen digital clock"
+  license "GPL-2.0"
   homepage "https://webonastick.com/vtclock/"
   url "https://webonastick.com/vtclock/vtclock-2005-02-20.tar.gz"
   sha256 "5fcbceff1cba40c57213fa5853c4574895755608eaf7248b6cc2f061133dab68"

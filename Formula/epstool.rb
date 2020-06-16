@@ -1,5 +1,6 @@
 class Epstool < Formula
   desc "Edit preview images and fix bounding boxes in EPS files"
+  license "GPL-2.0"
   homepage "http://www.ghostgum.com.au/software/epstool.htm"
   url "https://deb.debian.org/debian/pool/main/e/epstool/epstool_3.09.orig.tar.xz"
   mirror "https://dl.bintray.com/homebrew/mirror/epstool-3.09.tar.xz"

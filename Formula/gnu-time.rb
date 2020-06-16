@@ -1,5 +1,6 @@
 class GnuTime < Formula
   desc "GNU implementation of time utility"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/time/"
   url "https://ftp.gnu.org/gnu/time/time-1.9.tar.gz"
   mirror "https://ftpmirror.gnu.org/time/time-1.9.tar.gz"

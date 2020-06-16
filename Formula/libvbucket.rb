@@ -1,5 +1,6 @@
 class Libvbucket < Formula
   desc "Utility library providing mapping to virtual buckets"
+  license "Apache-2.0"
   homepage "https://couchbase.com/develop/c/current"
   url "https://s3.amazonaws.com/packages.couchbase.com/clients/c/libvbucket-1.8.0.4.tar.gz"
   sha256 "398ba491d434fc109fd64f38678916e1aa19c522abc8c090dbe4e74a2a2ea38d"

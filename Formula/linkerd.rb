@@ -1,5 +1,6 @@
 class Linkerd < Formula
   desc "Command-line utility to interact with linkerd"
+  license "Apache-2.0"
   homepage "https://linkerd.io"
 
   url "https://github.com/linkerd/linkerd2.git",

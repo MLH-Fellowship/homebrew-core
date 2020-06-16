@@ -1,5 +1,6 @@
 class Gpatch < Formula
   desc "Apply a diff file to an original"
+  license "GPL-3.0"
   homepage "https://savannah.gnu.org/projects/patch/"
   url "https://ftp.gnu.org/gnu/patch/patch-2.7.6.tar.xz"
   mirror "https://ftpmirror.gnu.org/patch/patch-2.7.6.tar.xz"

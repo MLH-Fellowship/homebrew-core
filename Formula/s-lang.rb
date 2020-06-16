@@ -1,5 +1,6 @@
 class SLang < Formula
   desc "Library for creating multi-platform software"
+  license "GPL-2.0"
   homepage "https://www.jedsoft.org/slang/"
   url "https://www.jedsoft.org/releases/slang/slang-2.3.2.tar.bz2"
   mirror "https://src.fedoraproject.org/repo/pkgs/slang/slang-2.3.2.tar.bz2/sha512/35cdfe8af66dac62ee89cca60fa87ddbd02cae63b30d5c0e3786e77b1893c45697ace4ac7e82d9832b8a9ac342560bc35997674846c5022341481013e76f74b5/slang-2.3.2.tar.bz2"

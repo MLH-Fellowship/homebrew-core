@@ -1,5 +1,6 @@
 class Coreutils < Formula
   desc "GNU File, Shell, and Text utilities"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/coreutils"
   url "https://ftp.gnu.org/gnu/coreutils/coreutils-8.32.tar.xz"
   mirror "https://ftpmirror.gnu.org/coreutils/coreutils-8.32.tar.xz"

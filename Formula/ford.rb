@@ -2,6 +2,7 @@ class Ford < Formula
   include Language::Python::Virtualenv
 
   desc "Automatic documentation generator for modern Fortran programs"
+  license "GPL-3.0"
   homepage "https://github.com/cmacmackin/ford/"
   url "https://github.com/cmacmackin/ford/archive/v6.0.0.tar.gz"
   sha256 "45fd53c7e5263fea2e751c436de6a1513d250647e98e32668b9965677974309e"

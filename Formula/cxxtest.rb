@@ -2,6 +2,7 @@ class Cxxtest < Formula
   include Language::Python::Virtualenv
 
   desc "C++ unit testing framework similar to JUnit, CppUnit and xUnit"
+  license "LGPL-3.0"
   homepage "https://cxxtest.com/"
   url "https://github.com/CxxTest/cxxtest/releases/download/4.4/cxxtest-4.4.tar.gz"
   mirror "https://deb.debian.org/debian/pool/main/c/cxxtest/cxxtest_4.4.orig.tar.gz"

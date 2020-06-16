@@ -1,5 +1,6 @@
 class Lego < Formula
   desc "Let's Encrypt client"
+  license "MIT"
   homepage "https://go-acme.github.io/lego/"
   url "https://github.com/go-acme/lego.git",
     :tag      => "v3.7.0",

@@ -1,5 +1,6 @@
 class Confuse < Formula
   desc "Configuration file parser library written in C"
+  license "ISC"
   homepage "https://github.com/martinh/libconfuse"
   url "https://github.com/martinh/libconfuse/releases/download/v3.2.2/confuse-3.2.2.tar.xz"
   sha256 "a9240b653d02e8cfc52db48e8c4224426e528e1faa09b65e8ca08a197fad210b"

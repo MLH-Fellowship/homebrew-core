@@ -1,5 +1,6 @@
 class Vstr < Formula
   desc "C string library"
+  license "LGPL-2.1"
   homepage "http://www.and.org/vstr/"
   url "http://www.and.org/vstr/1.0.15/vstr-1.0.15.tar.bz2"
   sha256 "d33bcdd48504ddd21c0d53e4c2ac187ff6f0190d04305e5fe32f685cee6db640"

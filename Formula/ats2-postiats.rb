@@ -1,5 +1,6 @@
 class Ats2Postiats < Formula
   desc "Programming language with formal specification features"
+  license "GPL-3.0"
   homepage "http://www.ats-lang.org/"
   url "https://downloads.sourceforge.net/project/ats2-lang/ats2-lang/ats2-postiats-0.4.0/ATS2-Postiats-0.4.0.tgz"
   sha256 "a749b62d429eda45ec304075f1743e1a2638c4772d37b579839d7797470869c0"

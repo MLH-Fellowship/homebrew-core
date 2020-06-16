@@ -1,5 +1,6 @@
 class ClojureLsp < Formula
   desc "Language Server (LSP) for Clojure"
+  license "MIT"
   homepage "https://github.com/snoe/clojure-lsp"
   # Switch to use git tag/revision as needed by `lein-git-version`
   url "https://github.com/snoe/clojure-lsp.git",

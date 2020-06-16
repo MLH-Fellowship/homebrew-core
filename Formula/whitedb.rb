@@ -1,5 +1,6 @@
 class Whitedb < Formula
   desc "Lightweight in-memory NoSQL database library"
+  license "GPL-3.0"
   homepage "https://www.whitedb.org/"
   url "https://www.whitedb.org/whitedb-0.7.3.tar.gz"
   sha256 "10c4ccd754ed2d53dbdef9ec16c88c732aa73d923fc0ee114e7e3a78a812849d"

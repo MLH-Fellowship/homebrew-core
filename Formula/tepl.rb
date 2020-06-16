@@ -1,5 +1,6 @@
 class Tepl < Formula
   desc "GNOME Text Editor Product Line"
+  license "LGPL-2.1"
   homepage "https://wiki.gnome.org/Projects/Tepl"
   url "https://download.gnome.org/sources/tepl/4.4/tepl-4.4.0.tar.xz"
   sha256 "e6f6673a8a27e8f280725db8fbacec79b20676ae0558755239d15a9808faa256"

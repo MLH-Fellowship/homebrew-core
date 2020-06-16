@@ -1,5 +1,6 @@
 class Kubespy < Formula
   desc "Tools for observing Kubernetes resources in realtime"
+  license "Apache-2.0"
   homepage "https://github.com/pulumi/kubespy"
   url "https://github.com/pulumi/kubespy.git",
       :tag      => "v0.5.1",

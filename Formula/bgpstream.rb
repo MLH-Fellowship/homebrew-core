@@ -1,5 +1,6 @@
 class Bgpstream < Formula
   desc "For live and historical BGP data analysis"
+  license "GPL-2.0"
   homepage "https://bgpstream.caida.org/"
   url "https://bgpstream.caida.org/bundles/caidabgpstreamwebhomepage/dists/bgpstream-1.2.3.tar.gz"
   sha256 "2c1affec8d38a9f750029e48b77a46064937d3e41f6c10dfac72777fa934cd74"

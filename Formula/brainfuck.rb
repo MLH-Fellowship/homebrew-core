@@ -1,5 +1,6 @@
 class Brainfuck < Formula
   desc "Interpreter for the brainfuck language"
+  license "Apache-2.0"
   homepage "https://github.com/fabianishere/brainfuck"
   url "https://github.com/fabianishere/brainfuck/archive/2.7.1.tar.gz"
   sha256 "06534de715dbc614f08407000c2ec6d497770069a2d7c84defd421b137313d71"

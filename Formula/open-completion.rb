@@ -1,5 +1,6 @@
 class OpenCompletion < Formula
   desc "Bash completion for open"
+  license "MIT"
   homepage "https://github.com/moshen/open-bash-completion"
   url "https://github.com/moshen/open-bash-completion/archive/v1.0.4.tar.gz"
   sha256 "23a8a30f9f65f5b3eb60aa6f2d1c60d7d0a858ea753a58f31ddb51d40e16b668"

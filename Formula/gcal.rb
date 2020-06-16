@@ -1,5 +1,6 @@
 class Gcal < Formula
   desc "Program for calculating and printing calendars"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/gcal/"
   url "https://ftp.gnu.org/gnu/gcal/gcal-4.1.tar.xz"
   mirror "https://ftpmirror.gnu.org/gcal/gcal-4.1.tar.xz"

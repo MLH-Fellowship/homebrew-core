@@ -1,5 +1,6 @@
 class Webp < Formula
   desc "Image format providing lossless and lossy compression for web images"
+  license "BSD-3-Clause"
   homepage "https://developers.google.com/speed/webp/"
   url "https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.1.0.tar.gz"
   sha256 "98a052268cc4d5ece27f76572a7f50293f439c17a98e67c4ea0c7ed6f50ef043"

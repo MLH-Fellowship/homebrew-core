@@ -1,5 +1,6 @@
 class Lolcode < Formula
   desc "Esoteric programming language"
+  license "GPL-3.0"
   homepage "http://www.lolcode.org/"
   # NOTE: 0.10.* releases are stable, 0.11.* is dev. We moved over to
   # 0.11.x accidentally, should move back to stable when possible.

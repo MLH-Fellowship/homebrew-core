@@ -1,5 +1,6 @@
 class Lzop < Formula
   desc "File compressor"
+  license "GPL-2.0"
   homepage "https://www.lzop.org/"
   url "https://dl.bintray.com/homebrew/mirror/lzop-1.04.tar.gz"
   mirror "https://www.lzop.org/download/lzop-1.04.tar.gz"

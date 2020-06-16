@@ -1,5 +1,6 @@
 class CassandraAT22 < Formula
   desc "Eventually consistent, distributed key-value db"
+  license "Apache-2.0"
   homepage "https://cassandra.apache.org"
   url "https://www.apache.org/dyn/closer.lua?path=cassandra/2.2.16/apache-cassandra-2.2.16-bin.tar.gz"
   mirror "https://archive.apache.org/dist/cassandra/2.2.16/apache-cassandra-2.2.16-bin.tar.gz"

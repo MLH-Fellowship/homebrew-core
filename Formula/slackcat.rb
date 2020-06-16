@@ -1,5 +1,6 @@
 class Slackcat < Formula
   desc "Command-line utility for posting snippets to Slack"
+  license "MIT"
   homepage "https://github.com/vektorlab/slackcat"
   url "https://github.com/vektorlab/slackcat/archive/v1.6.tar.gz"
   sha256 "e5c8f98f3048cccc3f8e49c0449435a839a18c7f12426643ac80731b63b829a9"

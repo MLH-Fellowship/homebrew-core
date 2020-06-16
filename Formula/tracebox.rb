@@ -1,5 +1,6 @@
 class Tracebox < Formula
   desc "Middlebox detection tool"
+  license "GPL-2.0"
   homepage "https://www.tracebox.org/"
   url "https://github.com/tracebox/tracebox.git",
       :tag      => "v0.4.4",

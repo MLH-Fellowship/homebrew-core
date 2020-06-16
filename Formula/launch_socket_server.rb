@@ -1,5 +1,6 @@
 class LaunchSocketServer < Formula
   desc "Bind to privileged ports without running a server as root"
+  license "MIT"
   homepage "https://github.com/mistydemeo/launch_socket_server"
   url "https://github.com/mistydemeo/launch_socket_server/archive/v2.0.0.tar.gz"
   sha256 "507184544d170dab63e6112198212033aaa84edf0e092c1dfe641087f092f365"

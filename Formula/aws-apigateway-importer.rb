@@ -1,5 +1,6 @@
 class AwsApigatewayImporter < Formula
   desc "AWS API Gateway Importer"
+  license "Apache-2.0"
   homepage "https://github.com/amazon-archives/aws-apigateway-importer"
   url "https://github.com/amazon-archives/aws-apigateway-importer/archive/aws-apigateway-importer-1.0.1.tar.gz"
   sha256 "8371e3fb1b6333cd50a76fdcdc1280ee8e489aec4bf9a1869325f9b8ebb73b54"

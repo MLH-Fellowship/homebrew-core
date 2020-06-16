@@ -1,5 +1,6 @@
 class Vavrdiasm < Formula
   desc "8-bit Atmel AVR disassembler"
+  license "GPL-3.0"
   homepage "https://github.com/vsergeev/vAVRdisasm"
   url "https://github.com/vsergeev/vavrdisasm/archive/v3.1.tar.gz"
   sha256 "4fe5edde40346cb08c280bd6d0399de7a8d2afdf20fb54bf41a8abb126636360"

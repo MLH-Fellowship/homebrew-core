@@ -1,5 +1,6 @@
 class Cgrep < Formula
   desc "Context-aware grep for source code"
+  license "GPL-2.0"
   homepage "https://github.com/awgn/cgrep"
   url "https://github.com/awgn/cgrep/archive/v6.6.32.tar.gz"
   sha256 "c45d680a2a00ef9524fc921e4c10fc7e68f02e57f4d6f1e640b7638a2f49c198"

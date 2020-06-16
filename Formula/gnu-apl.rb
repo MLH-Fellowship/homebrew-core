@@ -1,5 +1,6 @@
 class GnuApl < Formula
   desc "GNU implementation of the programming language APL"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/apl/"
   url "https://ftp.gnu.org/gnu/apl/apl-1.8.tar.gz"
   mirror "https://ftpmirror.gnu.org/apl/apl-1.8.tar.gz"

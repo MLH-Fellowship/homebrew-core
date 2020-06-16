@@ -1,5 +1,6 @@
 class Libxdiff < Formula
   desc "Implements diff functions for binary and text files"
+  license "LGPL-2.1"
   homepage "http://www.xmailserver.org/xdiff-lib.html"
   url "http://www.xmailserver.org/libxdiff-0.23.tar.gz"
   sha256 "e9af96174e83c02b13d452a4827bdf47cb579eafd580953a8cd2c98900309124"

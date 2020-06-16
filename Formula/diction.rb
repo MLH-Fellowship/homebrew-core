@@ -1,5 +1,6 @@
 class Diction < Formula
   desc "GNU diction and style"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/diction/"
   url "https://ftp.gnu.org/gnu/diction/diction-1.11.tar.gz"
   mirror "https://ftpmirror.gnu.org/diction/diction-1.11.tar.gz"

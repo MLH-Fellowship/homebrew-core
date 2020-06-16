@@ -2,6 +2,7 @@ class Streamlink < Formula
   include Language::Python::Virtualenv
 
   desc "CLI for extracting streams from various websites to a video player"
+  license "BSD-2-Clause"
   homepage "https://streamlink.github.io/"
   url "https://github.com/streamlink/streamlink/releases/download/1.4.1/streamlink-1.4.1.tar.gz"
   sha256 "ed3278d18f17e473bf3b35c8943da9dc19a37d43ba6b8122e260d3f0d14485e8"

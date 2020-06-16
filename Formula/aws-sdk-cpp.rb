@@ -1,5 +1,6 @@
 class AwsSdkCpp < Formula
   desc "AWS SDK for C++"
+  license "Apache-2.0"
   homepage "https://github.com/aws/aws-sdk-cpp"
   # aws-sdk-cpp should only be updated every 10 releases on multiples of 10
   url "https://github.com/aws/aws-sdk-cpp/archive/1.7.340.tar.gz"

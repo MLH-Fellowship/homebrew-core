@@ -1,5 +1,6 @@
 class Sbt < Formula
   desc "Build tool for Scala projects"
+  license "Apache-2.0"
   homepage "https://www.scala-sbt.org/"
   url "https://github.com/sbt/sbt/releases/download/v1.3.12/sbt-1.3.12.tgz"
   mirror "https://sbt-downloads.cdnedge.bluemix.net/releases/v1.3.12/sbt-1.3.12.tgz"

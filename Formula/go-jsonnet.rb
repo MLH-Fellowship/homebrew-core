@@ -1,5 +1,6 @@
 class GoJsonnet < Formula
   desc "Go implemention of configuration language for defining JSON data"
+  license "Apache-2.0"
   homepage "https://jsonnet.org/"
   url "https://github.com/google/go-jsonnet/archive/v0.16.0.tar.gz"
   sha256 "8ca930c892d34a119c1970431d159000321fe323734f06a1253bd78fc3625b84"

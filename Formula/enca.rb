@@ -1,5 +1,6 @@
 class Enca < Formula
   desc "Charset analyzer and converter"
+  license "GPL-2.0"
   homepage "https://cihar.com/software/enca/"
   url "https://dl.cihar.com/enca/enca-1.19.tar.gz"
   sha256 "4c305cc59f3e57f2cfc150a6ac511690f43633595760e1cb266bf23362d72f8a"

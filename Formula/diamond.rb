@@ -1,5 +1,6 @@
 class Diamond < Formula
   desc "Accelerated BLAST compatible local sequence aligner"
+  license "GPL-3.0"
   homepage "https://ab.inf.uni-tuebingen.de/software/diamond/"
   url "https://github.com/bbuchfink/diamond/archive/v0.9.32.tar.gz"
   sha256 "70de59e0c48faf23d14c2e6a7e00ddb3984cc1f59995b63658abc90be3810ecd"

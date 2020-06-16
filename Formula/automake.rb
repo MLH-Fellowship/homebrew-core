@@ -1,5 +1,6 @@
 class Automake < Formula
   desc "Tool for generating GNU Standards-compliant Makefiles"
+  license "GPL-2.0"
   homepage "https://www.gnu.org/software/automake/"
   url "https://ftp.gnu.org/gnu/automake/automake-1.16.2.tar.xz"
   mirror "https://ftpmirror.gnu.org/automake/automake-1.16.2.tar.xz"

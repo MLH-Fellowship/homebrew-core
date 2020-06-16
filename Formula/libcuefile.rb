@@ -1,5 +1,6 @@
 class Libcuefile < Formula
   desc "Library to work with CUE files"
+  license "GPL-2.0"
   homepage "https://www.musepack.net/"
   url "https://files.musepack.net/source/libcuefile_r475.tar.gz"
   version "r475"

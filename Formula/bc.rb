@@ -1,5 +1,6 @@
 class Bc < Formula
   desc "Arbitrary precision numeric processing language"
+  license "GPL-3.0"
   homepage "https://www.gnu.org/software/bc/"
   url "https://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz"
   mirror "https://ftpmirror.gnu.org/bc/bc-1.07.1.tar.gz"

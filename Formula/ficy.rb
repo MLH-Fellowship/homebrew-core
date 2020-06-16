@@ -1,5 +1,6 @@
 class Ficy < Formula
   desc "Icecast/Shoutcast stream grabber suite"
+  license "LGPL-2.1"
   homepage "https://www.thregr.org/~wavexx/software/fIcy/"
   url "https://www.thregr.org/~wavexx/software/fIcy/releases/fIcy-1.0.21.tar.gz"
   sha256 "8564b16d3a52fa6dc286b02bfcc19e4acdc148c30f1750ca144e2ea47c84fd81"

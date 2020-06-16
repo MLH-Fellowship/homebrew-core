@@ -1,5 +1,6 @@
 class Dmd < Formula
   desc "D programming language compiler for macOS"
+  license "BSL-1.0"
   homepage "https://dlang.org/"
 
   stable do

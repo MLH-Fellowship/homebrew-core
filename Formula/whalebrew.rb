@@ -1,5 +1,6 @@
 class Whalebrew < Formula
   desc "Homebrew, but with Docker images"
+  license "Apache-2.0"
   homepage "https://github.com/whalebrew/whalebrew"
   url "https://github.com/whalebrew/whalebrew.git",
     :tag      => "0.2.3",

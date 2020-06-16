@@ -1,5 +1,6 @@
 class G2 < Formula
   desc "Friendly git client"
+  license "MIT"
   homepage "https://orefalo.github.io/g2/"
   url "https://github.com/orefalo/g2/archive/v1.1.tar.gz"
   sha256 "bc534a4cb97be200ba4e3cc27510d8739382bb4c574e3cf121f157c6415bdfba"

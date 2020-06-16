@@ -1,5 +1,6 @@
 class Traefik < Formula
   desc "Modern reverse proxy"
+  license "MIT"
   homepage "https://traefik.io/"
   url "https://github.com/containous/traefik/releases/download/v2.2.1/traefik-v2.2.1.src.tar.gz"
   version "2.2.1"

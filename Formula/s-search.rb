@@ -2,6 +2,7 @@ require "language/go"
 
 class SSearch < Formula
   desc "Web search from the terminal"
+  license "MIT"
   homepage "https://github.com/zquestz/s"
   url "https://github.com/zquestz/s/archive/v0.5.14.tar.gz"
   sha256 "c32eedf6a4080cbe221c902cf7f63b1668b3927edfc448d963d69ed66c8ec2fb"

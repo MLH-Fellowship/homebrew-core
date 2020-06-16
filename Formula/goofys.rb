@@ -1,5 +1,6 @@
 class Goofys < Formula
   desc "Filey-System interface to Amazon S3"
+  license "Apache-2.0"
   homepage "https://github.com/kahing/goofys"
   url "https://github.com/kahing/goofys.git",
       :tag      => "v0.24.0",

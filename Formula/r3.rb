@@ -1,5 +1,6 @@
 class R3 < Formula
   desc "High-performance URL router library"
+  license "MIT"
   homepage "https://github.com/c9s/r3"
   url "https://github.com/c9s/r3/archive/1.3.4.tar.gz"
   sha256 "db1fb91e51646e523e78b458643c0250231a2640488d5781109f95bd77c5eb82"

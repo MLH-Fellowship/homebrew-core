@@ -2,6 +2,7 @@ class AzureCli < Formula
   include Language::Python::Virtualenv
 
   desc "Microsoft Azure CLI 2.0"
+  license "MIT"
   homepage "https://docs.microsoft.com/cli/azure/overview"
   url "https://codeload.github.com/Azure/azure-cli/legacy.tar.gz/168e50e956111d460c74d6cd596edd7430009240"
   version "2.7.0"

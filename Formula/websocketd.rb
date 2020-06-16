@@ -1,5 +1,6 @@
 class Websocketd < Formula
   desc "WebSockets the Unix way"
+  license "BSD-2-Clause"
   homepage "http://websocketd.com"
   url "https://github.com/joewalnes/websocketd/archive/v0.3.1.tar.gz"
   sha256 "323700908ca7fe7b69cb2cc492b4746c4cd3449e49fbab15a4b3a5eccf8757f4"

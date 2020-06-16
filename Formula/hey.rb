@@ -1,5 +1,6 @@
 class Hey < Formula
   desc "HTTP load generator, ApacheBench (ab) replacement"
+  license "Apache-2.0"
   homepage "https://github.com/rakyll/hey"
   url "https://github.com/rakyll/hey.git",
     :tag      => "v0.1.3",

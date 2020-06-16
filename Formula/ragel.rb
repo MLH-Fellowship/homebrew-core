@@ -1,5 +1,6 @@
 class Ragel < Formula
   desc "State machine compiler"
+  license "GPL-2.0"
   homepage "https://www.colm.net/open-source/ragel/"
   url "https://www.colm.net/files/ragel/ragel-6.10.tar.gz"
   sha256 "5f156edb65d20b856d638dd9ee2dfb43285914d9aa2b6ec779dac0270cd56c3f"

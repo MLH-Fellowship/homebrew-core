@@ -1,5 +1,6 @@
 class Pdnsd < Formula
   desc "Proxy DNS server with permanent caching"
+  license "GPL-3.0"
   homepage "http://members.home.nl/p.a.rombouts/pdnsd/"
   url "http://members.home.nl/p.a.rombouts/pdnsd/releases/pdnsd-1.2.9a-par.tar.gz"
   version "1.2.9a-par"

@@ -2,6 +2,7 @@ class Binwalk < Formula
   include Language::Python::Virtualenv
 
   desc "Searches a binary image for embedded files and executable code"
+  license "MIT"
   homepage "https://github.com/ReFirmLabs/binwalk"
   url "https://github.com/ReFirmLabs/binwalk/archive/v2.2.0.tar.gz"
   sha256 "f5495f0e4c5575023d593f7c087c367675df6aeb7f4d9a2966e49763924daa27"
