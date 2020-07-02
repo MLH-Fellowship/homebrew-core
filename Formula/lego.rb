@@ -4,6 +4,7 @@ class Lego < Formula
   url "https://github.com/go-acme/lego.git",
     :tag      => "v3.7.0",
     :revision => "e774e180a51b11a3ba9f3c1784b1cbc7dce1322b"
+  license "MIT"
 
   bottle do
     cellar :any_skip_relocation
