@@ -4,6 +4,7 @@ class Gowsdl < Formula
   url "https://github.com/hooklift/gowsdl.git",
       :tag      => "v0.3.1",
       :revision => "2375731131398bde30666dc45b48cd92f937de98"
+  license "MPL-2.0"
   head "https://github.com/hooklift/gowsdl.git"
 
   bottle do
