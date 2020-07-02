@@ -3,6 +3,7 @@ class FluentBit < Formula
   homepage "https://github.com/fluent/fluent-bit"
   url "https://github.com/fluent/fluent-bit/archive/v1.4.5.tar.gz"
   sha256 "5ce6a8269402d1800e79671fe30bea38926c959cbdf0e87ae7939da61f23f35e"
+  license "Apache-2.0"
   head "https://github.com/fluent/fluent-bit.git"
 
   bottle do
