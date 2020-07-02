@@ -3,6 +3,7 @@ class Dune < Formula
   homepage "https://dune.build/"
   url "https://github.com/ocaml/dune/releases/download/2.6.0/dune-2.6.0.tbz"
   sha256 "12c9d849fbc5f202f99e9f8ed13fdff7de85ae9c5206cb1b821763dcd1916fc3"
+  license "MIT"
   head "https://github.com/ocaml/dune.git"
 
   bottle do
