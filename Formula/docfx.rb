@@ -3,6 +3,7 @@ class Docfx < Formula
   homepage "https://dotnet.github.io/docfx/"
   url "https://github.com/dotnet/docfx/releases/download/v2.56/docfx.zip"
   sha256 "8d20b192e59348de705a584b3dec664dd927fd0d1b560b7ab3c2625e489ce474"
+  license "MIT"
 
   bottle :unneeded
 
