@@ -3,6 +3,7 @@ class Yaegi < Formula
   homepage "https://github.com/containous/yaegi"
   url "https://github.com/containous/yaegi/archive/v0.8.10.tar.gz"
   sha256 "086adb1b2bb5bf2715113af025ff1bd72555c64eb8023acb126c66edac9cb89c"
+  license "Apache-2.0"
   head "https://github.com/containous/yaegi.git"
 
   bottle do
