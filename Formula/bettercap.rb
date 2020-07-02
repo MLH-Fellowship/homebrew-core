@@ -3,6 +3,7 @@ class Bettercap < Formula
   homepage "https://www.bettercap.org/"
   url "https://github.com/bettercap/bettercap/archive/v2.27.1.tar.gz"
   sha256 "dd4349a43486ec300a0f777f7c53b2fff608fb82dbba720c144b85538811405c"
+  license "GPL-3.0"
 
   bottle do
     cellar :any
