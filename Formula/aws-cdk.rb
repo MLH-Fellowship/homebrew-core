@@ -5,6 +5,7 @@ class AwsCdk < Formula
   homepage "https://github.com/aws/aws-cdk"
   url "https://registry.npmjs.org/aws-cdk/-/aws-cdk-1.48.0.tgz"
   sha256 "11049503b2c744ee31db7710628dbfc2650b0bdb69dc948c3b1c3dc5421ad79d"
+  license "Apache-2.0"
 
   bottle do
     cellar :any_skip_relocation
