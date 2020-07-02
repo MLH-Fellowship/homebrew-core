@@ -3,6 +3,7 @@ class Pdnsrec < Formula
   homepage "https://www.powerdns.com/recursor.html"
   url "https://downloads.powerdns.com/releases/pdns-recursor-4.3.1.tar.bz2"
   sha256 "54230852fcad3c6291651069c383f7ea88c5d29ce3c561decb2f40a063f52fd9"
+  license "GPL-2.0"
 
   bottle do
     sha256 "7070944c3f1ff85a200f6010cd792ae0843f7c54e0e0e351f391876310ccdc7e" => :catalina
