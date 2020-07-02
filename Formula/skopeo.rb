@@ -3,6 +3,7 @@ class Skopeo < Formula
   homepage "https://github.com/containers/skopeo"
   url "https://github.com/containers/skopeo/archive/v1.1.0.tar.gz"
   sha256 "3bd3acc614514fc2261b89dc0ea85ac7a4dba64fb7dcef8676ae61849e8faeb4"
+  license "Apache-2.0"
 
   bottle do
     sha256 "885d21169cea53b1cdd54de0d8c666b57c1d68b5139da59dfcb6db995c174e79" => :catalina
