@@ -3,6 +3,7 @@ class Onscripter < Formula
   homepage "https://onscripter.osdn.jp/"
   url "https://onscripter.osdn.jp/onscripter-20200510.tar.gz"
   sha256 "908d6b75f19144abe80ca997e376898bae4a952a939aa223b1a7e777b4ab5fbf"
+  license "GPL-2.0"
 
   bottle do
     cellar :any
