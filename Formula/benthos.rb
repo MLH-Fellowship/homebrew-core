@@ -3,6 +3,7 @@ class Benthos < Formula
   homepage "https://www.benthos.dev"
   url "https://github.com/Jeffail/benthos/archive/v3.19.0.tar.gz"
   sha256 "593f102d2119c29829603ab736110b385de046179d13bca0fe5c565109b94a66"
+  license "MIT"
 
   bottle do
     cellar :any_skip_relocation
