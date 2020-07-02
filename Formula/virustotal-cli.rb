@@ -3,6 +3,7 @@ class VirustotalCli < Formula
   homepage "https://github.com/VirusTotal/vt-cli"
   url "https://github.com/VirusTotal/vt-cli/archive/0.7.0.tar.gz"
   sha256 "39a566be0e2ee1102c0bd9d3ddefa4a0e423c9ffe02962d4a48897a875312c95"
+  license "Apache-2.0"
 
   bottle do
     cellar :any_skip_relocation
