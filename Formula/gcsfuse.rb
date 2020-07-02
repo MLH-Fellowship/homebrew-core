@@ -3,6 +3,7 @@ class Gcsfuse < Formula
   homepage "https://github.com/googlecloudplatform/gcsfuse"
   url "https://github.com/GoogleCloudPlatform/gcsfuse/archive/v0.29.0.tar.gz"
   sha256 "4f994d694a12691b7ea5bd293c50ba4a37bc329cf531780015daf0a5fd265b30"
+  license "Apache-2.0"
   head "https://github.com/GoogleCloudPlatform/gcsfuse.git"
 
   bottle do
