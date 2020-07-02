@@ -3,6 +3,7 @@ class Grin < Formula
   homepage "https://grin.mw/"
   url "https://github.com/mimblewimble/grin/archive/v3.1.1.tar.gz"
   sha256 "2664af92b1752225ec66656bac4052aad8a8d4ff26cadeb15606ec5f00f9ed97"
+  license "Apache-2.0"
 
   bottle do
     cellar :any_skip_relocation
