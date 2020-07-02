@@ -5,6 +5,7 @@ class Lc0 < Formula
   url "https://github.com/LeelaChessZero/lc0.git",
       :tag      => "v0.25.1",
       :revision => "69105b4eb0a3cf4fbc76960d18d519a0bdd19838"
+  license "GPL-3.0"
   revision 1
 
   bottle do
