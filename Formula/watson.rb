@@ -5,6 +5,7 @@ class Watson < Formula
   homepage "https://tailordev.github.io/Watson/"
   url "https://files.pythonhosted.org/packages/4d/f0/94dde77d6cd8199a83ecabd286f105e0504449c7f4b9e819504c75647fdc/td-watson-1.9.0.tar.gz"
   sha256 "a79aa8c6aab3317a80a49ea3b595f3f8d8cacc7aa21c6a69fa69e7386e9800e4"
+  license "MIT"
   head "https://github.com/TailorDev/Watson.git"
 
   bottle do
