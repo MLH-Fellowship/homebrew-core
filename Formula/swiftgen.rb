@@ -4,6 +4,7 @@ class Swiftgen < Formula
   url "https://github.com/SwiftGen/SwiftGen.git",
       :tag      => "6.2.0",
       :revision => "c62c7ff1c86323b9c1e4c12bccfca19737dd2e56"
+  license "MIT"
   head "https://github.com/SwiftGen/SwiftGen.git", :branch => "stable"
 
   bottle do
