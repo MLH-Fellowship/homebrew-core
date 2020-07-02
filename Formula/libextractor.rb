@@ -4,6 +4,7 @@ class Libextractor < Formula
   url "https://ftp.gnu.org/gnu/libextractor/libextractor-1.9.tar.gz"
   mirror "https://ftpmirror.gnu.org/libextractor/libextractor-1.9.tar.gz"
   sha256 "f08f257d26c5e9b503f068d6753c8e55cb76f47f73a81da6ed2bba3de3fee2ff"
+  license "GPL-3.0"
 
   bottle do
     sha256 "05f3281584bd5a64cee246033510bdd0e04674785576db58759c1c5ddb8acc6d" => :catalina
