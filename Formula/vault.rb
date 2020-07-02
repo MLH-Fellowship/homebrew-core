@@ -7,6 +7,7 @@ class Vault < Formula
   url "https://github.com/hashicorp/vault.git",
       :tag      => "v1.4.2",
       :revision => "18f1c494be8b06788c2fdda1a4296eb3c4b174ce"
+  license "MPL-2.0"
   revision 1
   head "https://github.com/hashicorp/vault.git"
 
