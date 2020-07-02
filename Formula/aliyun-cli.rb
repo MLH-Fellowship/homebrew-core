@@ -3,6 +3,7 @@ class AliyunCli < Formula
   homepage "https://github.com/aliyun/aliyun-cli"
   url "https://github.com/aliyun/aliyun-cli/archive/v3.0.49.tar.gz"
   sha256 "44b0788c975d519d70fd0f746ed98767d74bbffa0f1317ec1ce4442cad4aa6c4"
+  license "Apache-2.0"
 
   bottle do
     cellar :any_skip_relocation
