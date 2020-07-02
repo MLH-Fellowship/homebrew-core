@@ -3,6 +3,7 @@ class Xclogparser < Formula
   homepage "https://github.com/spotify/XCLogParser"
   url "https://github.com/spotify/XCLogParser/archive/0.2.15.tar.gz"
   sha256 "152453bd5eb47bcc939f7aade41a3687224e5819b8cc701e05647564391453cb"
+  license "Apache-2.0"
 
   bottle do
     cellar :any_skip_relocation
