@@ -3,6 +3,7 @@ class Topgrade < Formula
   homepage "https://github.com/r-darwish/topgrade"
   url "https://github.com/r-darwish/topgrade/archive/v5.0.0.tar.gz"
   sha256 "fc3ae25c550b66270457c11778bddcbb3b664638f5181f388262bf40e8811124"
+  license "GPL-3.0"
 
   bottle do
     cellar :any_skip_relocation
