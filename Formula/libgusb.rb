@@ -3,6 +3,7 @@ class Libgusb < Formula
   homepage "https://github.com/hughsie/libgusb"
   url "https://people.freedesktop.org/~hughsient/releases/libgusb-0.3.1.tar.xz"
   sha256 "4b677a372e97748970b1bb3dac076da2d051e4376c5960e77b7159701c851fed"
+  license "LGPL-2.1"
 
   bottle do
     sha256 "76f5259965a34d7103b135620a99a241d201ddbbc8ae487f5baf27f2fb5b9c0f" => :catalina
