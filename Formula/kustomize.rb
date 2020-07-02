@@ -4,6 +4,7 @@ class Kustomize < Formula
   url "https://github.com/kubernetes-sigs/kustomize.git",
       :tag      => "kustomize/v3.7.0",
       :revision => "e5b0ceb4e37bec29c3be2e14017c199f7d9101a6"
+  license "Apache-2.0"
   head "https://github.com/kubernetes-sigs/kustomize.git"
 
   bottle do
