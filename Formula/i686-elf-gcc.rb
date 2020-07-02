@@ -4,6 +4,7 @@ class I686ElfGcc < Formula
   url "https://ftp.gnu.org/gnu/gcc/gcc-9.3.0/gcc-9.3.0.tar.xz"
   mirror "https://ftpmirror.gnu.org/gcc/gcc-9.3.0/gcc-9.3.0.tar.xz"
   sha256 "71e197867611f6054aa1119b13a0c0abac12834765fe2d81f35ac57f84f742d1"
+  license "GPL-2.0"
 
   bottle do
     sha256 "7b1e050e02a95291d9395e3e85b4a6ccf848dadacfba1482df6ceda83a955a03" => :catalina
