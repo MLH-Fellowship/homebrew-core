@@ -4,6 +4,7 @@ class Help2man < Formula
   url "https://ftp.gnu.org/gnu/help2man/help2man-1.47.15.tar.xz"
   mirror "https://ftpmirror.gnu.org/help2man/help2man-1.47.15.tar.xz"
   sha256 "c25a35b30eceb315361484b0ff1f81c924e8ee5c8881576f1ee762f001dbcd1c"
+  license "GPL-3.0"
 
   bottle do
     cellar :any_skip_relocation
