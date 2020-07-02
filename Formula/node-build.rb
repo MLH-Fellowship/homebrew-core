@@ -3,6 +3,7 @@ class NodeBuild < Formula
   homepage "https://github.com/nodenv/node-build"
   url "https://github.com/nodenv/node-build/archive/v4.9.0.tar.gz"
   sha256 "9d3ec89142710dd222ec356902ab04f3aed96be89ee3705a27d91a369c96861e"
+  license "MIT"
   head "https://github.com/nodenv/node-build.git"
 
   bottle :unneeded
