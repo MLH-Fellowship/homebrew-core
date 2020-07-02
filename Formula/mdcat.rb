@@ -3,6 +3,7 @@ class Mdcat < Formula
   homepage "https://github.com/lunaryorn/mdcat"
   url "https://github.com/lunaryorn/mdcat/archive/mdcat-0.19.0.tar.gz"
   sha256 "2e50dbb8f80b74dbed1cc69c731d8c782df35f2e968fc833b11640272d00f3cf"
+  license "MPL-2.0"
 
   bottle do
     cellar :any_skip_relocation
