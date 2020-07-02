@@ -5,6 +5,7 @@ class GatsbyCli < Formula
   homepage "https://www.gatsbyjs.org/docs/gatsby-cli/"
   url "https://registry.npmjs.org/gatsby-cli/-/gatsby-cli-2.12.54.tgz"
   sha256 "5972366b46f053053faa232aeb2797639e01724c9cb763b57529f4765dc30487"
+  license "MIT"
 
   bottle do
     cellar :any_skip_relocation
