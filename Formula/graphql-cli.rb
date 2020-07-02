@@ -5,6 +5,7 @@ class GraphqlCli < Formula
   homepage "https://github.com/Urigo/graphql-cli"
   url "https://registry.npmjs.org/graphql-cli/-/graphql-cli-3.0.14.tgz"
   sha256 "bf56bbe425795198bf6fcc488f24fe10779327749671b1a331d4137684d8a72d"
+  license "MIT"
 
   bottle do
     cellar :any_skip_relocation
