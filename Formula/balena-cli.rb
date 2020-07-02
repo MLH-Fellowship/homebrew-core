@@ -6,6 +6,7 @@ class BalenaCli < Formula
   # balena-cli should only be updated every 10 releases on multiples of 10
   url "https://registry.npmjs.org/balena-cli/-/balena-cli-12.3.0.tgz"
   sha256 "9457e671e3bbeb114b6abfdf4323848a5fd1c4e9616fd8865079dd5bc93594c8"
+  license "Apache-2.0"
 
   bottle do
     sha256 "1a1cd43449289e17cee991e60872d303b26c338b037e4e52e0e4e3f2ad6bb603" => :catalina
