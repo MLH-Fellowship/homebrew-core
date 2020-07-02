@@ -3,6 +3,7 @@ class DitaOt < Formula
   homepage "https://www.dita-ot.org/"
   url "https://github.com/dita-ot/dita-ot/releases/download/3.5.1/dita-ot-3.5.1.zip"
   sha256 "524ffdc575eb04a4f3e1a59ad608984c1b505955ccc3de575124c5b5a5fe1b56"
+  license "Apache-2.0"
 
   bottle :unneeded
 
