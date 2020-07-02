@@ -5,6 +5,7 @@ class Jhipster < Formula
   homepage "https://www.jhipster.tech/"
   url "https://registry.npmjs.org/generator-jhipster/-/generator-jhipster-6.10.0.tgz"
   sha256 "c770d91e4157a9479113c71d78249901f1ab2bf68ba1c949b1d6ddad0930ef99"
+  license "Apache-2.0"
 
   bottle do
     cellar :any_skip_relocation
